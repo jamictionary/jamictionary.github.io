@@ -191,16 +191,16 @@
   },
   {
     "number": 11,
-    "name": "Baião - Asa branca",
+    "name": "Baião - Asa branca",
     "pages": [
       "files/Baiao - Asa branca-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Forró",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Baião",
     "labels": {
       "Composer": "Luiz Gonzaga",
-      "Dance geometry": "Couple",
-      "Type of dance": "Forró",
+      "Dance geometry": "Couples",
+      "Type of dance": "Baião",
       "Work title": "Asa branca"
     },
     "files": {
@@ -211,16 +211,16 @@
   },
   {
     "number": 12,
-    "name": "Baião - Baião",
+    "name": "Baião - Baião",
     "pages": [
       "files/Baiao - Baiao-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Forró",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Baião",
     "labels": {
       "Composer": "Luiz Gonzaga",
-      "Dance geometry": "Couple",
-      "Type of dance": "Forró",
+      "Dance geometry": "Couples",
+      "Type of dance": "Baião",
       "Work title": "Baião"
     },
     "files": {
@@ -231,16 +231,16 @@
   },
   {
     "number": 13,
-    "name": "Baião - O ovo",
+    "name": "Baião - O ovo",
     "pages": [
       "files/Baiao - O ovo-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Forró",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Baião",
     "labels": {
       "Composer": "Hermeto Pascoal",
-      "Dance geometry": "Couple",
-      "Type of dance": "Forró",
+      "Dance geometry": "Couples",
+      "Type of dance": "Baião",
       "Work title": "O ovo"
     },
     "files": {
@@ -251,15 +251,15 @@
   },
   {
     "number": 14,
-    "name": "Bourrée 2T - À Malochet",
+    "name": "Bourrée 2T - À Malochet",
     "pages": [
       "files/Bourree 2T - A Malochet-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
     },
     "files": {
@@ -276,11 +276,11 @@
     "pages": [
       "files/Bourree 2T - Aurore Sand-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - Aurore Sand.pdf",
@@ -292,15 +292,15 @@
   },
   {
     "number": 16,
-    "name": "Bourrée 2T - Bachelier",
+    "name": "Bourrée 2T - Bachelier",
     "pages": [
       "files/Bourree 2T - Bachelier-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
     },
     "files": {
@@ -313,36 +313,15 @@
   },
   {
     "number": 17,
-    "name": "Bourrée 2T - Bourrée de Montserrat",
-    "pages": [
-      "files/Bourree 2T - Bourree de Montserrat-1.png"
-    ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
-    "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
-      "Work title": "Bourrée à Malochet"
-    },
-    "files": {
-      "pdf": "files/Bourree 2T - Bourree de Montserrat.pdf",
-      "mscz": "files/Bourree 2T - Bourree de Montserrat.mscz"
-    },
-    "folderStructure": [
-      "2 Time"
-    ]
-  },
-  {
-    "number": 18,
-    "name": "Bourrée 2T - De Montford",
+    "name": "Bourrée 2T - De Montford",
     "pages": [
       "files/Bourree 2T - De Montford-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
     },
     "files": {
@@ -354,16 +333,37 @@
     ]
   },
   {
+    "number": 18,
+    "name": "Bourrée 2T - De Montserrat",
+    "pages": [
+      "files/Bourree 2T - De Montserrat-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
+    "labels": {
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
+      "Work title": "Bourrée à Malochet"
+    },
+    "files": {
+      "pdf": "files/Bourree 2T - De Montserrat.pdf",
+      "mscz": "files/Bourree 2T - De Montserrat.mscz"
+    },
+    "folderStructure": [
+      "2 Time"
+    ]
+  },
+  {
     "number": 19,
     "name": "Bourree 2T - Derriere chez nous",
     "pages": [
       "files/Bourree 2T - Derriere chez nous-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - Derriere chez nous.pdf",
@@ -375,15 +375,15 @@
   },
   {
     "number": 20,
-    "name": "Bourrée 2T - Du zinzin",
+    "name": "Bourrée 2T - Du zinzin",
     "pages": [
       "files/Bourree 2T - Du zinzin-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - Du zinzin.pdf",
@@ -395,15 +395,15 @@
   },
   {
     "number": 21,
-    "name": "Bourrée 2T - Hé là mon Jean",
+    "name": "Bourrée 2T - Hé là mon Jean",
     "pages": [
       "files/Bourree 2T - He la mon Jean-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
     },
     "files": {
@@ -416,15 +416,15 @@
   },
   {
     "number": 22,
-    "name": "Bourrée 2T - Kerleguer",
+    "name": "Bourrée 2T - Kerleguer",
     "pages": [
       "files/Bourree 2T - Kerleguer-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - Kerleguer.pdf",
@@ -436,15 +436,15 @@
   },
   {
     "number": 23,
-    "name": "Bourrée 2T - L'ombre verte",
+    "name": "Bourrée 2T - L'ombre verte",
     "pages": [
       "files/Bourree 2T - Lombre verte-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - Lombre verte.pdf",
@@ -460,11 +460,11 @@
     "pages": [
       "files/Bourree 2T - La dansarem pas pus-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - La dansarem pas pus.pdf",
@@ -476,15 +476,15 @@
   },
   {
     "number": 25,
-    "name": "Bourrée 2T - La dérobée",
+    "name": "Bourrée 2T - La dérobée",
     "pages": [
       "files/Bourree 2T - La derobee-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
     },
     "files": {
@@ -497,15 +497,15 @@
   },
   {
     "number": 26,
-    "name": "Bourrée 2T - Last chance",
+    "name": "Bourrée 2T - Last chance",
     "pages": [
       "files/Bourree 2T - Last chance-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - Last chance.pdf",
@@ -517,15 +517,15 @@
   },
   {
     "number": 27,
-    "name": "Bourrée 2T - Le ruban bleu",
+    "name": "Bourrée 2T - Le ruban bleu",
     "pages": [
       "files/Bourree 2T - Le ruban bleu-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
     },
     "files": {
@@ -538,15 +538,15 @@
   },
   {
     "number": 28,
-    "name": "Bourrée 2T - Marilou",
+    "name": "Bourrée 2T - Marilou",
     "pages": [
       "files/Bourree 2T - Marilou-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
     },
     "files": {
@@ -563,11 +563,11 @@
     "pages": [
       "files/Bourree 2T - Marrakech-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 2T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 2T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
     },
     "files": {
       "pdf": "files/Bourree 2T - Marrakech.pdf",
@@ -579,15 +579,15 @@
   },
   {
     "number": 30,
-    "name": "Bourée 3T - Bal limousin",
+    "name": "Bourée 3T - Bal limousin",
     "pages": [
       "files/Bouree 3T - Bal limousin-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 3T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 3-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 3T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 3-Time"
     },
     "files": {
       "pdf": "files/Bouree 3T - Bal limousin.pdf",
@@ -599,15 +599,15 @@
   },
   {
     "number": 31,
-    "name": "Bourée 3T - Des jeunes",
+    "name": "Bourée 3T - Des jeunes",
     "pages": [
       "files/Bouree 3T - Des jeunes-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 3T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 3-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 3T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 3-Time"
     },
     "files": {
       "pdf": "files/Bouree 3T - Des jeunes.pdf",
@@ -619,15 +619,15 @@
   },
   {
     "number": 32,
-    "name": "Bourée 3T - Les poules houpées",
+    "name": "Bourée 3T - Les poules houpées",
     "pages": [
       "files/Bouree 3T - Les poules houpees-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 3T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 3-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 3T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 3-Time"
     },
     "files": {
       "pdf": "files/Bouree 3T - Les poules houpees.pdf",
@@ -639,15 +639,15 @@
   },
   {
     "number": 33,
-    "name": "Bourrée 3T - Des gars",
+    "name": "Bourrée 3T - Des gars",
     "pages": [
       "files/Bourree 3T - Des gars-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 3T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 3-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 3T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 3-Time"
     },
     "files": {
       "pdf": "files/Bourree 3T - Des gars.pdf",
@@ -659,15 +659,15 @@
   },
   {
     "number": 34,
-    "name": "Bourrée 3T - Jeu de Balle",
+    "name": "Bourrée 3T - Jeu de Balle",
     "pages": [
       "files/Bourree 3T - Jeu de Balle-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 3T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 3-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 3T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 3-Time"
     },
     "files": {
       "pdf": "files/Bourree 3T - Jeu de Balle.pdf",
@@ -679,15 +679,15 @@
   },
   {
     "number": 35,
-    "name": "Bourrée 3T - Koffeinmentes",
+    "name": "Bourrée 3T - Koffeinmentes",
     "pages": [
       "files/Bourree 3T - Koffeinmentes-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 3T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 3-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 3T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 3-Time"
     },
     "files": {
       "pdf": "files/Bourree 3T - Koffeinmentes.pdf",
@@ -699,15 +699,15 @@
   },
   {
     "number": 36,
-    "name": "Bourrée 3T - Ma maitraisse",
+    "name": "Bourrée 3T - Ma maitraisse",
     "pages": [
       "files/Bourree 3T - Ma maitraisse-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Bourrée, 3T",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 3-Time",
     "labels": {
-      "Dance geometry": "Couple",
-      "Type of dance": "Bourrée, 3T"
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 3-Time"
     },
     "files": {
       "pdf": "files/Bourree 3T - Ma maitraisse.pdf",
@@ -724,12 +724,12 @@
       "files/Brando - Sbrando-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransles, Brando (Bransle italiana)",
+    "typeOfDance": "Bransle, Brando (Italian Bransle)",
     "labels": {
       "Dance geometry": "Circle",
       "Original format": "musicxml",
       "Source": "http://musescore.com/user/10636897/scores/5135548",
-      "Type of dance": "Bransles, Brando (Bransle italiana)",
+      "Type of dance": "Bransle, Brando (Italian Bransle)",
       "Work title": "Sbrando"
     },
     "files": {
@@ -747,10 +747,10 @@
       "files/Bransle dOssau - Civada-1.png"
     ],
     "danceGeometry": "Single line",
-    "typeOfDance": "Bransles, D’Ossau",
+    "typeOfDance": "Bransle, D’Ossau",
     "labels": {
       "Dance geometry": "Single line",
-      "Type of dance": "Bransles, D’Ossau"
+      "Type of dance": "Bransle, D’Ossau"
     },
     "files": {
       "pdf": "files/Bransle dOssau - Civada.pdf",
@@ -767,10 +767,10 @@
       "files/Bransle dOssau - Les 3 cailloux-1.png"
     ],
     "danceGeometry": "Single line",
-    "typeOfDance": "Bransles, D’Ossau",
+    "typeOfDance": "Bransle, D’Ossau",
     "labels": {
       "Dance geometry": "Single line",
-      "Type of dance": "Bransles, D’Ossau"
+      "Type of dance": "Bransle, D’Ossau"
     },
     "files": {
       "pdf": "files/Bransle dOssau - Les 3 cailloux.pdf",
@@ -787,12 +787,12 @@
       "files/Bransle dOssau - Quan jeri hilha a marider-1.png"
     ],
     "danceGeometry": "Single line",
-    "typeOfDance": "Bransles, D’Ossau",
+    "typeOfDance": "Bransle, D’Ossau",
     "labels": {
       "Dance geometry": "Single line",
       "Original format": "mxl",
       "Source": "C:\\Users\\jrss_\\Desktop\\partitions-france-QUOAN JERI FILHA MARIDER --- Quoan_j_eri_filha_a_marider.pdf",
-      "Type of dance": "Bransles, D’Ossau"
+      "Type of dance": "Bransle, D’Ossau"
     },
     "files": {
       "pdf": "files/Bransle dOssau - Quan jeri hilha a marider.pdf",
@@ -809,10 +809,10 @@
       "files/Bransle de lEpine - No1-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransles, De Noirmoutier",
+    "typeOfDance": "Bransle, De Noirmoutier",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransles, De Noirmoutier"
+      "Type of dance": "Bransle, De Noirmoutier"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No1.pdf",
@@ -830,10 +830,10 @@
       "files/Bransle de lEpine - No2-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransles, De Noirmoutier",
+    "typeOfDance": "Bransle, De Noirmoutier",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransles, De Noirmoutier"
+      "Type of dance": "Bransle, De Noirmoutier"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No2.pdf",
@@ -851,10 +851,10 @@
       "files/Bransle de lEpine - No3-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransles, De Noirmoutier",
+    "typeOfDance": "Bransle, De Noirmoutier",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransles, De Noirmoutier"
+      "Type of dance": "Bransle, De Noirmoutier"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No3.pdf",
@@ -872,10 +872,10 @@
       "files/Bransle de lEpine - No1-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransles, De Noirmoutier",
+    "typeOfDance": "Bransle, De Noirmoutier",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransles, De Noirmoutier"
+      "Type of dance": "Bransle, De Noirmoutier"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No1.pdf",
@@ -893,10 +893,10 @@
       "files/Bransle de lEpine - No2-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransles, De Noirmoutier",
+    "typeOfDance": "Bransle, De Noirmoutier",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransles, De Noirmoutier"
+      "Type of dance": "Bransle, De Noirmoutier"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No2.pdf",
@@ -914,10 +914,10 @@
       "files/Modern Bransle - De la fosse aux loups-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransles, Modernas",
+    "typeOfDance": "Bransle, Modern",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Bransles, Modernas"
+      "Type of dance": "Bransle, Modern"
     },
     "files": {
       "pdf": "files/Modern Bransle - De la fosse aux loups.pdf",
@@ -934,10 +934,10 @@
       "files/Renaissance Bransle - DEcosse-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransles, Renascentistas",
+    "typeOfDance": "Bransle, Renascentistas",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Bransles, Renascentistas"
+      "Type of dance": "Bransle, Renascentistas"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - DEcosse.pdf",
@@ -954,10 +954,10 @@
       "files/Renaissance Bransle - De la Montarde-1.png"
     ],
     "danceGeometry": "Single line",
-    "typeOfDance": "Bransles, Renascentistas",
+    "typeOfDance": "Bransle, Renascentistas",
     "labels": {
       "Dance geometry": "Single line",
-      "Type of dance": "Bransles, Renascentistas"
+      "Type of dance": "Bransle, Renascentistas"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - De la Montarde.pdf",
@@ -974,10 +974,10 @@
       "files/Renaissance Bransle - De la Torche-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransles, Renascentistas",
+    "typeOfDance": "Bransle, Renascentistas",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Bransles, Renascentistas"
+      "Type of dance": "Bransle, Renascentistas"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - De la Torche.pdf",
@@ -989,19 +989,19 @@
   },
   {
     "number": 50,
-    "name": "Renaissance Bransle - Des cheveux",
+    "name": "Renaissance Bransle - Des chevaux",
     "pages": [
-      "files/Renaissance Bransle - Des cheveux-1.png"
+      "files/Renaissance Bransle - Des chevaux-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransles, Renascentistas",
+    "typeOfDance": "Bransle, Renascentistas",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransles, Renascentistas"
+      "Type of dance": "Bransle, Renascentistas"
     },
     "files": {
-      "pdf": "files/Renaissance Bransle - Des cheveux.pdf",
-      "mscz": "files/Renaissance Bransle - Des cheveux.mscz"
+      "pdf": "files/Renaissance Bransle - Des chevaux.pdf",
+      "mscz": "files/Renaissance Bransle - Des chevaux.mscz"
     },
     "folderStructure": [
       "Renaissance"
@@ -1014,10 +1014,10 @@
       "files/Renaissance Bransle - Du rat-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransles, Renascentistas",
+    "typeOfDance": "Bransle, Renascentistas",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransles, Renascentistas"
+      "Type of dance": "Bransle, Renascentistas"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - Du rat.pdf",
@@ -1034,10 +1034,10 @@
       "files/Renaissance Bransle - Pinagay-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransles, Renascentistas",
+    "typeOfDance": "Bransle, Renascentistas",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Bransles, Renascentistas"
+      "Type of dance": "Bransle, Renascentistas"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - Pinagay.pdf",
@@ -1054,10 +1054,10 @@
       "files/Big circle - Cleveland park Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs britânicos (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs britânicos (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Cleveland park Jig.pdf",
@@ -1074,10 +1074,10 @@
       "files/Big circle - Horizonto-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs britânicos (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs britânicos (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Horizonto.pdf",
@@ -1094,10 +1094,10 @@
       "files/Big circle - Jump at the sun Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs britânicos (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs britânicos (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Jump at the sun Jig.pdf",
@@ -1114,10 +1114,10 @@
       "files/Big circle - The sailors wife Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs britânicos (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs britânicos (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
     "files": {
       "pdf": "files/Big circle - The sailors wife Jig.pdf",
@@ -1134,10 +1134,10 @@
       "files/Big circle or Chappeloise - Hunting the squirrel Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs britânicos (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs britânicos (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
     "files": {
       "pdf": "files/Big circle or Chappeloise - Hunting the squirrel Jig.pdf",
@@ -1154,13 +1154,13 @@
       "files/Big circle or Chappeloise - The Gael Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs britânicos (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Jigs britânicos (6/8)",
     "labels": {
       "Composer": "Dougie MacLean",
       "Dance geometry": "Circle",
       "Original format": "xml",
       "Source": "http://musescore.com/user/79422538/scores/14110078",
-      "Type of dance": "Círculo / Chappeloise, Jigs britânicos (6/8)",
+      "Type of dance": "Chappeloise / Big Circle, Jigs britânicos (6/8)",
       "Work title": "The Gael"
     },
     "files": {
@@ -1178,10 +1178,10 @@
       "files/Big circle - Il inferno-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Il inferno.pdf",
@@ -1198,10 +1198,10 @@
       "files/Big circle - Kreisverkher-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Kreisverkher.pdf",
@@ -1218,10 +1218,10 @@
       "files/Big circle - Zelda-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Zelda.pdf",
@@ -1238,10 +1238,10 @@
       "files/Big circle or Chappeloise - Gaspacho-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
     },
     "files": {
       "pdf": "files/Big circle or Chappeloise - Gaspacho.pdf",
@@ -1258,10 +1258,10 @@
       "files/Big circle - Blarney pilgrim-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs irlandeses (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs irlandeses (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Blarney pilgrim.pdf",
@@ -1278,10 +1278,10 @@
       "files/Big circle - Get up old woman  shake yourself Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs irlandeses (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs irlandeses (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Get up old woman  shake yourself Jig.pdf",
@@ -1298,10 +1298,10 @@
       "files/Big circle - Out in the ocean Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs irlandeses (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs irlandeses (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
     "files": {
       "pdf": "files/Big circle - Out in the ocean Jig.pdf",
@@ -1318,10 +1318,10 @@
       "files/Big circle - The cliifs of Moher Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs irlandeses (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs irlandeses (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
     "files": {
       "pdf": "files/Big circle - The cliifs of Moher Jig.pdf",
@@ -1338,10 +1338,10 @@
       "files/Big circle - The dancing master-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs irlandeses (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs irlandeses (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
     "files": {
       "pdf": "files/Big circle - The dancing master.pdf",
@@ -1358,10 +1358,10 @@
       "files/Big circle - The Kesh Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs irlandeses (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs irlandeses (6/8)"
+      "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
     "files": {
       "pdf": "files/Big circle - The Kesh Jig.pdf",
@@ -1378,10 +1378,10 @@
       "files/Chappeloise Pop - Amigos do Gaspar-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Temas Pop",
+    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Temas Pop"
+      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
     },
     "files": {
       "pdf": "files/Chappeloise Pop - Amigos do Gaspar.pdf",
@@ -1393,15 +1393,15 @@
   },
   {
     "number": 70,
-    "name": "Chappeloise Pop - Dartacão",
+    "name": "Chappeloise Pop - Dartacão",
     "pages": [
       "files/Chappeloise Pop - Dartacao-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Temas Pop",
+    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Temas Pop"
+      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
     },
     "files": {
       "pdf": "files/Chappeloise Pop - Dartacao.pdf",
@@ -1413,15 +1413,15 @@
   },
   {
     "number": 71,
-    "name": "Chappeloise Pop - É tao bom",
+    "name": "Chappeloise Pop - É tao bom",
     "pages": [
       "files/Chappeloise Pop - E tao bom-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Temas Pop",
+    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Temas Pop"
+      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
     },
     "files": {
       "pdf": "files/Chappeloise Pop - E tao bom.pdf",
@@ -1438,12 +1438,12 @@
       "files/Chappeloise Pop - Wellerman-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Temas Pop",
+    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
     "labels": {
       "Composer": "Trad.",
       "Dance geometry": "Circle",
       "Source": "http://musescore.com/user/6695411/scores/6613120",
-      "Type of dance": "Círculo / Chappeloise, Temas Pop",
+      "Type of dance": "Chappeloise / Big Circle, Pop Music themes",
       "Work title": "The Wellerman"
     },
     "files": {
@@ -1456,15 +1456,15 @@
   },
   {
     "number": 73,
-    "name": "Congò - Au Castèth de Monsur Montèth",
+    "name": "Congò - Au Castèth de Monsur Montèth",
     "pages": [
       "files/Congo - Au Casteth de Monsur Monteth-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Congo, Congo de captieux",
+    "typeOfDance": "Congò",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Congo, Congo de captieux"
+      "Type of dance": "Congò"
     },
     "files": {
       "pdf": "files/Congo - Au Casteth de Monsur Monteth.pdf",
@@ -1474,33 +1474,33 @@
   },
   {
     "number": 74,
-    "name": "Congò - Congo des Captieux",
+    "name": "Congò - Congo de Captieux",
     "pages": [
-      "files/Congo - Congo des Captieux-1.png"
+      "files/Congo - Congo de Captieux-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Congo, Congo de captieux",
+    "typeOfDance": "Congò",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Congo, Congo de captieux"
+      "Type of dance": "Congò"
     },
     "files": {
-      "pdf": "files/Congo - Congo des Captieux.pdf",
-      "mscz": "files/Congo - Congo des Captieux.mscz"
+      "pdf": "files/Congo - Congo de Captieux.pdf",
+      "mscz": "files/Congo - Congo de Captieux.mscz"
     },
     "folderStructure": []
   },
   {
     "number": 75,
-    "name": "Congò - De Marcel Lagardere",
+    "name": "Congò - De Marcel Lagardere",
     "pages": [
       "files/Congo - De Marcel Lagardere-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Congo, Congo de captieux",
+    "typeOfDance": "Congò",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Congo, Congo de captieux"
+      "Type of dance": "Congò"
     },
     "files": {
       "pdf": "files/Congo - De Marcel Lagardere.pdf",
@@ -1510,15 +1510,15 @@
   },
   {
     "number": 76,
-    "name": "Congò - Man Encantada",
+    "name": "Congò - Man Encantada",
     "pages": [
       "files/Congo - Man Encantada-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Congo, Congo de captieux",
+    "typeOfDance": "Congò",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Congo, Congo de captieux"
+      "Type of dance": "Congò"
     },
     "files": {
       "pdf": "files/Congo - Man Encantada.pdf",
@@ -1528,15 +1528,15 @@
   },
   {
     "number": 77,
-    "name": "Congò - Untitled No.1",
+    "name": "Congò - Untitled No.1",
     "pages": [
       "files/Congo - Untitled No1-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Congo, Congo de captieux",
+    "typeOfDance": "Congò",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Congo, Congo de captieux"
+      "Type of dance": "Congò"
     },
     "files": {
       "pdf": "files/Congo - Untitled No1.pdf",
@@ -1551,10 +1551,10 @@
       "files/Contra Dance - Untitled No1-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Contradança, Portuguesa",
+    "typeOfDance": "Contra Dance, Portuguese",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Contradança, Portuguesa"
+      "Type of dance": "Contra Dance, Portuguese"
     },
     "files": {
       "pdf": "files/Contra Dance - Untitled No1.pdf",
@@ -1571,10 +1571,10 @@
       "files/Contra Dance - Untitled No2-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Contradança, Portuguesa",
+    "typeOfDance": "Contra Dance, Portuguese",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Contradança, Portuguesa"
+      "Type of dance": "Contra Dance, Portuguese"
     },
     "files": {
       "pdf": "files/Contra Dance - Untitled No2.pdf",
@@ -1591,10 +1591,10 @@
       "files/Contra Dance - Untitled No3-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Contradança, Portuguesa",
+    "typeOfDance": "Contra Dance, Portuguese",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Contradança, Portuguesa"
+      "Type of dance": "Contra Dance, Portuguese"
     },
     "files": {
       "pdf": "files/Contra Dance - Untitled No3.pdf",
@@ -1606,7 +1606,7 @@
   },
   {
     "number": 81,
-    "name": "Corridinho - Sariquité",
+    "name": "Corridinho - Sariquité",
     "pages": [
       "files/Corridinho - Sariquite-1.png"
     ],
@@ -1665,10 +1665,10 @@
       "files/Fado - Batido-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Fados",
+    "typeOfDance": "Fado",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Fados"
+      "Type of dance": "Fado"
     },
     "files": {
       "pdf": "files/Fado - Batido.pdf",
@@ -1704,9 +1704,15 @@
     "pages": [
       "files/Frevo - Pagode Russo-1.png"
     ],
-    "danceGeometry": null,
-    "typeOfDance": null,
-    "labels": {},
+    "danceGeometry": "Couples",
+    "typeOfDance": "Frevo",
+    "labels": {
+      "Category": "Couples",
+      "Composer": "Luiz Gonzaga",
+      "Dance geometry": "Couples",
+      "Type of dance": "Frevo",
+      "Work title": "Pagode Russo"
+    },
     "files": {
       "pdf": "files/Frevo - Pagode Russo.pdf",
       "mscz": "files/Frevo - Pagode Russo.mscz"
@@ -1720,10 +1726,10 @@
       "files/Breton Gavotte - War devenn Sant Pabu-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Gavottes, Bretãs",
+    "typeOfDance": "Gavotte, Breton Gavotte",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Gavottes, Bretãs"
+      "Type of dance": "Gavotte, Breton Gavotte"
     },
     "files": {
       "pdf": "files/Breton Gavotte - War devenn Sant Pabu.pdf",
@@ -1740,10 +1746,10 @@
       "files/Gavotte de Grenoble - Berceuse pour un loulou-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Gavottes, De Grenoble",
+    "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Gavottes, De Grenoble"
+      "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
       "pdf": "files/Gavotte de Grenoble - Berceuse pour un loulou.pdf",
@@ -1760,10 +1766,10 @@
       "files/Gavotte de Grenoble - Fiif-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Gavottes, De Grenoble",
+    "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Gavottes, De Grenoble"
+      "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
       "pdf": "files/Gavotte de Grenoble - Fiif.pdf",
@@ -1780,10 +1786,10 @@
       "files/Gavotte de Grenoble - Gavotte dAlzen-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Gavottes, De Grenoble",
+    "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Gavottes, De Grenoble"
+      "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
       "pdf": "files/Gavotte de Grenoble - Gavotte dAlzen.pdf",
@@ -1800,10 +1806,10 @@
       "files/Gavotte de Grenoble - Ivoirine-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Gavottes, De Grenoble",
+    "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Gavottes, De Grenoble"
+      "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
       "pdf": "files/Gavotte de Grenoble - Ivoirine.pdf",
@@ -1820,10 +1826,10 @@
       "files/Gavotte de Grenoble - Mira-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Gavottes, De Grenoble",
+    "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
       "Dance geometry": "Quadrille",
-      "Type of dance": "Gavottes, De Grenoble"
+      "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
       "pdf": "files/Gavotte de Grenoble - Mira.pdf",
@@ -1840,13 +1846,13 @@
       "files/Gavotte de Grenoble - Very Jeune-1.png"
     ],
     "danceGeometry": "Quadrille",
-    "typeOfDance": "Gavottes, De Grenoble",
+    "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
       "Composer": "Hartwin Dhoore",
       "Dance geometry": "Quadrille",
       "Original format": "xml",
       "Source": "http://musescore.com/user/79422538/scores/14664298",
-      "Type of dance": "Gavottes, De Grenoble",
+      "Type of dance": "Gavotte, De Grenoble",
       "Work title": "Very Jeune"
     },
     "files": {
@@ -2136,11 +2142,11 @@
     "pages": [
       "files/Lambada - Llorando se fue-1.png"
     ],
-    "danceGeometry": "Couple",
+    "danceGeometry": "Couples",
     "typeOfDance": "Lambada",
     "labels": {
       "Composer": "Kaoma",
-      "Dance geometry": "Couple",
+      "Dance geometry": "Couples",
       "Type of dance": "Lambada",
       "Work title": "LLorando se fue"
     },
@@ -2171,7 +2177,7 @@
   },
   {
     "number": 111,
-    "name": "Malhão - Da Graça",
+    "name": "Malhão - Da Graça",
     "pages": [
       "files/Malhao - Da Graca-1.png"
     ],
@@ -2215,10 +2221,10 @@
       "files/Maraichine - No1-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Maraichines",
+    "typeOfDance": "Maraichine",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Maraichines"
+      "Type of dance": "Maraichine"
     },
     "files": {
       "pdf": "files/Maraichine - No1.pdf",
@@ -2235,10 +2241,10 @@
       "files/Maraichine - No2-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Maraichines",
+    "typeOfDance": "Maraichine",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Maraichines"
+      "Type of dance": "Maraichine"
     },
     "files": {
       "pdf": "files/Maraichine - No2.pdf",
@@ -2255,10 +2261,10 @@
       "files/Maraichine - No3-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Maraichines",
+    "typeOfDance": "Maraichine",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Maraichines"
+      "Type of dance": "Maraichine"
     },
     "files": {
       "pdf": "files/Maraichine - No3.pdf",
@@ -2335,11 +2341,11 @@
       "files/Mazurka - Mazurca do Luiz Gonzaga-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Brasileira ",
+    "typeOfDance": "Mazurka, Brazil ",
     "labels": {
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Brasileira ",
+      "Type of dance": "Mazurka, Brazil ",
       "Work title": "Nadiejda"
     },
     "files": {
@@ -2357,10 +2363,10 @@
       "files/Mazurka - Mazurka Choro-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Mazurka Choro.pdf",
@@ -2377,11 +2383,11 @@
       "files/Mazurka - Caldo Tchitcharinho-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Cabo-Verdiana ",
+    "typeOfDance": "Mazurka, Cape Verde ",
     "labels": {
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Cabo-Verdiana ",
+      "Type of dance": "Mazurka, Cape Verde ",
       "Work title": "Nadiejda"
     },
     "files": {
@@ -2399,11 +2405,11 @@
       "files/Mazurka - Da meia-noite-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Cabo-Verdiana ",
+    "typeOfDance": "Mazurka, Cape Verde ",
     "labels": {
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Cabo-Verdiana ",
+      "Type of dance": "Mazurka, Cape Verde ",
       "Work title": "Nadiejda"
     },
     "files": {
@@ -2421,11 +2427,11 @@
       "files/Mazurka - A bruxa-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Antón Seoane",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "A bruxa"
     },
     "files": {
@@ -2438,15 +2444,15 @@
   },
   {
     "number": 124,
-    "name": "Mazurka - À Clement",
+    "name": "Mazurka - À Clement",
     "pages": [
       "files/Mazurka - A Clement-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - A Clement.pdf",
@@ -2463,10 +2469,10 @@
       "files/Mazurka - Alio-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Alio.pdf",
@@ -2483,10 +2489,10 @@
       "files/Mazurka - Almofada-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Almofada.pdf",
@@ -2503,10 +2509,10 @@
       "files/Mazurka - Au bord de leau-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Au bord de leau.pdf",
@@ -2518,15 +2524,15 @@
   },
   {
     "number": 128,
-    "name": "Mazurka - Biqueiras d'aço",
+    "name": "Mazurka - Biqueiras d'aço",
     "pages": [
       "files/Mazurka - Biqueiras daco-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Biqueiras daco.pdf",
@@ -2543,10 +2549,10 @@
       "files/Mazurka - Candela-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Candela.pdf",
@@ -2562,12 +2568,12 @@
     "pages": [
       "files/Mazurka - De la Beluse-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Mazurka, Europeia",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Laurent Geoffroy",
-      "Dance geometry": "Couple",
-      "Type of dance": "Mazurka, Europeia",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "De la Beluse"
     },
     "files": {
@@ -2585,11 +2591,11 @@
       "files/Mazurka - Des Tuileries-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Marten Decombel",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "Des Tuileries"
     },
     "files": {
@@ -2607,11 +2613,11 @@
       "files/Mazurka - Donegal-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Trad.",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "Donegal"
     },
     "files": {
@@ -2629,11 +2635,11 @@
       "files/Mazurka - Far away-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Pete Jung",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "Far away"
     },
     "files": {
@@ -2651,11 +2657,11 @@
       "files/Mazurka - Flatbush waltz-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Andy Statman",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "Flatbush Waltz"
     },
     "files": {
@@ -2673,10 +2679,10 @@
       "files/Mazurka - Il neige a Porto-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Il neige a Porto.pdf",
@@ -2693,10 +2699,10 @@
       "files/Mazurka - Inisheer-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Inisheer.pdf",
@@ -2713,10 +2719,10 @@
       "files/Mazurka - Italienne-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Italienne.pdf",
@@ -2733,10 +2739,10 @@
       "files/Mazurka - Je soi perdut-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Je soi perdut.pdf",
@@ -2753,10 +2759,10 @@
       "files/Mazurka - Limpasse-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Limpasse.pdf",
@@ -2768,16 +2774,16 @@
   },
   {
     "number": 140,
-    "name": "Mazurka - La discrète",
+    "name": "Mazurka - La discrète",
     "pages": [
       "files/Mazurka - La discrete-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "La discrète"
     },
     "files": {
@@ -2795,10 +2801,10 @@
       "files/Mazurka - La nonchalante-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - La nonchalante.pdf",
@@ -2810,15 +2816,15 @@
   },
   {
     "number": 142,
-    "name": "Mazurka - La p'tite fée",
+    "name": "Mazurka - La p'tite fée",
     "pages": [
       "files/Mazurka - La ptite fee-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - La ptite fee.pdf",
@@ -2835,10 +2841,10 @@
       "files/Mazurka - La paire de Saulxures-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - La paire de Saulxures.pdf",
@@ -2850,15 +2856,15 @@
   },
   {
     "number": 144,
-    "name": "Mazurka - Les écoliers de Saint Genest",
+    "name": "Mazurka - Les écoliers de Saint Genest",
     "pages": [
       "files/Mazurka - Les ecoliers de Saint Genest-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Les ecoliers de Saint Genest.pdf",
@@ -2875,10 +2881,10 @@
       "files/Mazurka - Lisbonne-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Lisbonne.pdf",
@@ -2895,10 +2901,10 @@
       "files/Mazurka - Motorway-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Motorway.pdf",
@@ -2915,10 +2921,10 @@
       "files/Mazurka - Mouchti-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Mouchti.pdf",
@@ -2935,10 +2941,10 @@
       "files/Mazurka - Musike-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Musike.pdf",
@@ -2955,11 +2961,11 @@
       "files/Mazurka - Nadiejda-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia",
+      "Type of dance": "Mazurka, Europe",
       "Work title": "Nadiejda"
     },
     "files": {
@@ -2977,10 +2983,10 @@
       "files/Mazurka - Natzurka-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Natzurka.pdf",
@@ -2997,10 +3003,10 @@
       "files/Mazurka - Nina-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Nina.pdf",
@@ -3017,10 +3023,10 @@
       "files/Mazurka - Solitude-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Solitude.pdf",
@@ -3037,10 +3043,10 @@
       "files/Mazurka - Sonny Brogans-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Sonny Brogans.pdf",
@@ -3057,10 +3063,10 @@
       "files/Mazurka - Tourbillonne-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Tourbillonne.pdf",
@@ -3077,10 +3083,10 @@
       "files/Mazurka - Trafic dorgasmes-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europeia",
+    "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europeia"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
       "pdf": "files/Mazurka - Trafic dorgasmes.pdf",
@@ -3097,11 +3103,11 @@
       "files/Muneira - A camposa-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Muiñeira",
+    "typeOfDance": "Muñeira",
     "labels": {
       "Dance geometry": "Circle",
       "Original format": "musicxml",
-      "Type of dance": "Muiñeira",
+      "Type of dance": "Muñeira",
       "Work title": "Muineira Da Camposa"
     },
     "files": {
@@ -3117,10 +3123,10 @@
       "files/Muneira - De Chantada-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Muiñeira",
+    "typeOfDance": "Muñeira",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Muiñeira"
+      "Type of dance": "Muñeira"
     },
     "files": {
       "pdf": "files/Muneira - De Chantada.pdf",
@@ -3130,15 +3136,15 @@
   },
   {
     "number": 158,
-    "name": "Muñeira - De Ponte Sampaio",
+    "name": "Muñeira - De Ponte Sampaio",
     "pages": [
       "files/Muneira - De Ponte Sampaio-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Muiñeira",
+    "typeOfDance": "Muñeira",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Muiñeira"
+      "Type of dance": "Muñeira"
     },
     "files": {
       "pdf": "files/Muneira - De Ponte Sampaio.pdf",
@@ -3152,11 +3158,11 @@
     "pages": [
       "files/Murinheira - Burriqueira-1.png"
     ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+    "danceGeometry": "Parallel lines",
+    "typeOfDance": "Murinheira",
     "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)"
+      "Dance geometry": "Parallel lines",
+      "Type of dance": "Murinheira"
     },
     "files": {
       "pdf": "files/Murinheira - Burriqueira.pdf",
@@ -3170,11 +3176,11 @@
     "pages": [
       "files/Murinheira - Transmontana-1.png"
     ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+    "danceGeometry": "Parallel lines",
+    "typeOfDance": "Murinheira",
     "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)"
+      "Dance geometry": "Parallel lines",
+      "Type of dance": "Murinheira"
     },
     "files": {
       "pdf": "files/Murinheira - Transmontana.pdf",
@@ -3260,7 +3266,7 @@
   },
   {
     "number": 165,
-    "name": "Polka - L'élan",
+    "name": "Polka - L'élan",
     "pages": [
       "files/Polka - Lelan-1.png"
     ],
@@ -3282,11 +3288,11 @@
     "pages": [
       "files/Polka - Mairis wedding-1.png"
     ],
-    "danceGeometry": "Couple",
+    "danceGeometry": "Couples",
     "typeOfDance": "Polka",
     "labels": {
       "Composer": "Trad.",
-      "Dance geometry": "Couple",
+      "Dance geometry": "Couples",
       "Type of dance": "Polka",
       "Work title": "Mairi's wedding"
     },
@@ -3357,10 +3363,10 @@
       "files/Polska - Efter Olof Tillman-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Polska",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Polska"
     },
     "files": {
       "pdf": "files/Polska - Efter Olof Tillman.pdf",
@@ -3501,10 +3507,10 @@
       "files/Reel - Farewell to Chernobyl-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Reel Continental Europeu",
+    "typeOfDance": "Reel, Continental European",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Reel Continental Europeu"
+      "Type of dance": "Reel, Continental European"
     },
     "files": {
       "pdf": "files/Reel - Farewell to Chernobyl.pdf",
@@ -3521,10 +3527,10 @@
       "files/Reel - The Ballivanich-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Reel Escoces",
+    "typeOfDance": "Reel, Scotland",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Reel Escoces"
+      "Type of dance": "Reel, Scotland"
     },
     "files": {
       "pdf": "files/Reel - The Ballivanich.pdf",
@@ -3541,11 +3547,11 @@
       "files/Reel - The deil among the tailors-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Reel Escoces",
+    "typeOfDance": "Reel, Scotland",
     "labels": {
       "Dance geometry": "Parallel lines",
       "Original format": "musicxml",
-      "Type of dance": "Reel Escoces",
+      "Type of dance": "Reel, Scotland",
       "Work number": "The De'il Amang the Tailors",
       "Work title": "Eightsome Reel"
     },
@@ -3636,10 +3642,10 @@
       "files/3 step Ronde - Tri Martolod-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondes, a 3 passos ",
+    "typeOfDance": "Ronde, 3 step Ronde ",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondes, a 3 passos "
+      "Type of dance": "Ronde, 3 step Ronde "
     },
     "files": {
       "pdf": "files/3 step Ronde - Tri Martolod.pdf",
@@ -3700,10 +3706,10 @@
       "files/Ronde dArgenton - Le jeune homme de Nantes-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Ronde, d'Argenton",
+    "typeOfDance": "Ronde, Ronde d'Argenton",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Ronde, d'Argenton"
+      "Type of dance": "Ronde, Ronde d'Argenton"
     },
     "files": {
       "pdf": "files/Ronde dArgenton - Le jeune homme de Nantes.pdf",
@@ -3720,10 +3726,10 @@
       "files/Ronde du Quercy - Amazone-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondes, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy ",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondes, du Quercy "
+      "Type of dance": "Ronde, du Quercy "
     },
     "files": {
       "pdf": "files/Ronde du Quercy - Amazone.pdf",
@@ -3740,10 +3746,10 @@
       "files/Ronde du Quercy - De bon matin-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondes, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy ",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondes, du Quercy "
+      "Type of dance": "Ronde, du Quercy "
     },
     "files": {
       "pdf": "files/Ronde du Quercy - De bon matin.pdf",
@@ -3760,10 +3766,10 @@
       "files/Ronde du Quercy - Dejol pont de Lion-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondes, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy ",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondes, du Quercy "
+      "Type of dance": "Ronde, du Quercy "
     },
     "files": {
       "pdf": "files/Ronde du Quercy - Dejol pont de Lion.pdf",
@@ -3780,10 +3786,10 @@
       "files/Ronde du Quercy - Dessous la grava de Bordeu-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondes, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy ",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondes, du Quercy "
+      "Type of dance": "Ronde, du Quercy "
     },
     "files": {
       "pdf": "files/Ronde du Quercy - Dessous la grava de Bordeu.pdf",
@@ -3800,10 +3806,10 @@
       "files/Rondeau en chaine - KC-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondeau, en chaine",
+    "typeOfDance": "Rondeau, En chaine",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondeau, en chaine"
+      "Type of dance": "Rondeau, En chaine"
     },
     "files": {
       "pdf": "files/Rondeau en chaine - KC.pdf",
@@ -3820,10 +3826,10 @@
       "files/Rondeau en chaine - Loeil du cyclone-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondeau, en chaine",
+    "typeOfDance": "Rondeau, En chaine",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondeau, en chaine"
+      "Type of dance": "Rondeau, En chaine"
     },
     "files": {
       "pdf": "files/Rondeau en chaine - Loeil du cyclone.pdf",
@@ -3840,10 +3846,10 @@
       "files/Rondeau en chaine - Valhermeil-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondeau, en chaine",
+    "typeOfDance": "Rondeau, En chaine",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondeau, en chaine"
+      "Type of dance": "Rondeau, En chaine"
     },
     "files": {
       "pdf": "files/Rondeau en chaine - Valhermeil.pdf",
@@ -3860,10 +3866,10 @@
       "files/Rondeau en couples - Nau goiatas a Castethnau-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondeau, en couple ",
+    "typeOfDance": "Rondeau, En couple ",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Rondeau, en couple "
+      "Type of dance": "Rondeau, En couple "
     },
     "files": {
       "pdf": "files/Rondeau en couples - Nau goiatas a Castethnau.pdf",
@@ -3875,7 +3881,7 @@
   },
   {
     "number": 197,
-    "name": "Rumba - Dos cinco mariñeiros",
+    "name": "Rumba - Dos cinco mariñeiros",
     "pages": [
       "files/Rumba - Dos cinco marineiros-1.png"
     ],
@@ -3899,12 +3905,12 @@
     "pages": [
       "files/Schottis - Stures-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Schottis",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Schottis, Sweden",
     "labels": {
       "Composer": "Trad.",
-      "Dance geometry": "Couple",
-      "Type of dance": "Schottis",
+      "Dance geometry": "Couples",
+      "Type of dance": "Schottis, Sweden",
       "Work title": "Stures"
     },
     "files": {
@@ -3922,10 +3928,10 @@
       "files/Scottish - A lamante-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - A lamante.pdf",
@@ -3943,10 +3949,10 @@
       "files/Scottish - Brittish swing-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Brittish swing.pdf",
@@ -3964,10 +3970,10 @@
       "files/Scottish - Du 29 de mars-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Du 29 de mars.pdf",
@@ -3985,10 +3991,10 @@
       "files/Scottish - Du Taraf-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Du Taraf.pdf",
@@ -4006,10 +4012,10 @@
       "files/Scottish - Esperanza-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Esperanza.pdf",
@@ -4027,10 +4033,10 @@
       "files/Scottish - Go Mauve-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Go Mauve.pdf",
@@ -4048,10 +4054,10 @@
       "files/Scottish - Hellebore-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Hellebore.pdf",
@@ -4069,10 +4075,10 @@
       "files/Scottish - Lourson-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Lourson.pdf",
@@ -4090,10 +4096,10 @@
       "files/Scottish - La sansonette-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - La sansonette.pdf",
@@ -4111,10 +4117,10 @@
       "files/Scottish - Las fatmas-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Las fatmas.pdf",
@@ -4132,10 +4138,10 @@
       "files/Scottish - Le lezard-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Le lezard.pdf",
@@ -4153,10 +4159,10 @@
       "files/Scottish - Les beaux jours-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Les beaux jours.pdf",
@@ -4174,10 +4180,10 @@
       "files/Scottish - Lulu Typon-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Lulu Typon.pdf",
@@ -4195,10 +4201,10 @@
       "files/Scottish - Luquejada-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Luquejada.pdf",
@@ -4216,10 +4222,10 @@
       "files/Scottish - Pink Molly-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Pink Molly.pdf",
@@ -4237,11 +4243,11 @@
       "files/Scottish - Sunshine-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
       "Original format": "musicxml",
-      "Type of dance": "Scottish, Normal ",
+      "Type of dance": "Scottish, Even",
       "Work title": "Scottish Urbaine"
     },
     "files": {
@@ -4260,10 +4266,10 @@
       "files/Scottish - Too late to sleep-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Too late to sleep.pdf",
@@ -4281,10 +4287,10 @@
       "files/Scottish - Trip to Pakistan-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Trip to Pakistan.pdf",
@@ -4302,10 +4308,10 @@
       "files/Scottish - Trip to Prague-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Normal "
+      "Type of dance": "Scottish, Even"
     },
     "files": {
       "pdf": "files/Scottish - Trip to Prague.pdf",
@@ -4323,11 +4329,11 @@
       "files/Scottish - Urbaine-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Normal ",
+    "typeOfDance": "Scottish, Even",
     "labels": {
       "Dance geometry": "Couples",
       "Original format": "musicxml",
-      "Type of dance": "Scottish, Normal ",
+      "Type of dance": "Scottish, Even",
       "Work title": "Scottish Urbaine"
     },
     "files": {
@@ -4346,10 +4352,10 @@
       "files/Odd Scottish - Brume-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Impar",
+    "typeOfDance": "Scottish, Odd",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Impar"
+      "Type of dance": "Scottish, Odd"
     },
     "files": {
       "pdf": "files/Odd Scottish - Brume.pdf",
@@ -4366,13 +4372,13 @@
     "pages": [
       "files/Xote - das meninas-1.png"
     ],
-    "danceGeometry": "Couple",
-    "typeOfDance": "Forró",
+    "danceGeometry": "Couples",
+    "typeOfDance": "Scottish, Xote(Brazil)",
     "labels": {
       "Composer": "Luís Gonzaga",
-      "Dance geometry": "Couple",
+      "Dance geometry": "Couples",
       "Source": "http://musescore.com/user/29328569/scores/6866243",
-      "Type of dance": "Forró",
+      "Type of dance": "Scottish, Xote(Brazil)",
       "Work title": "Xote das meninas"
     },
     "files": {
@@ -4486,10 +4492,10 @@
       "files/Single - Balamut-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)",
+    "typeOfDance": "Single",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Círculo / Chappeloise, Jigs continentais europeus (6/8)"
+      "Type of dance": "Single"
     },
     "files": {
       "pdf": "files/Single - Balamut.pdf",
@@ -5085,11 +5091,11 @@
     "pages": [
       "files/Single - Trumpakojis-1.png"
     ],
-    "danceGeometry": "Couple",
+    "danceGeometry": "Couples",
     "typeOfDance": "Single",
     "labels": {
       "Composer": "Trad.",
-      "Dance geometry": "Couple",
+      "Dance geometry": "Couples",
       "Type of dance": "Single",
       "Work title": "Trumpakojis"
     },
@@ -5160,12 +5166,12 @@
     "pages": [
       "files/Tango - Ausencia-1.png"
     ],
-    "danceGeometry": "Couple",
+    "danceGeometry": "Couples",
     "typeOfDance": "Tango",
     "labels": {
       "Type of dance": "Tango",
       "Composer": "Goran Bregović",
-      "Dance geometry": "Couple",
+      "Dance geometry": "Couples",
       "Work title": "Ausência"
     },
     "files": {
@@ -5307,10 +5313,10 @@
       "files/Valsa 3T - A minha saia velhinha-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - A minha saia velhinha.pdf",
@@ -5327,10 +5333,10 @@
       "files/Valsa 3T - Al yaras-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - Al yaras.pdf",
@@ -5347,10 +5353,10 @@
       "files/Valsa 3T - Ashokan Farewell-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (slow)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (slow)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - Ashokan Farewell.pdf",
@@ -5367,11 +5373,11 @@
       "files/Valsa 3T - Flatwater Fran-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (slow)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
       "Original format": "musicxml",
-      "Type of dance": "Valsa, 3T (slow)",
+      "Type of dance": "Waltz, 3-Time",
       "Work title": "Flatwater Fran"
     },
     "files": {
@@ -5389,10 +5395,10 @@
       "files/Valsa 3T - Flatworld-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - Flatworld.pdf",
@@ -5409,10 +5415,10 @@
       "files/Valsa 3T - Josefin Dopvals-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (slow)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (slow)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - Josefin Dopvals.pdf",
@@ -5429,10 +5435,10 @@
       "files/Valsa 3T - La mal aimable-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)",
+      "Type of dance": "Waltz, 3-Time",
       "Work title": "La Mal Aimable"
     },
     "files": {
@@ -5450,10 +5456,10 @@
       "files/Valsa 3T - La Partida-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - La Partida.pdf",
@@ -5470,10 +5476,10 @@
       "files/Valsa 3T - La riviere de Regourd-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - La riviere de Regourd.pdf",
@@ -5490,10 +5496,10 @@
       "files/Valsa 3T - La valse des negresses vertes-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - La valse des negresses vertes.pdf",
@@ -5510,10 +5516,10 @@
       "files/Valsa 3T - My favourite things-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - My favourite things.pdf",
@@ -5530,13 +5536,13 @@
       "files/Valsa 3T - Primavera a 3 tempos-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Arranger": "Pedro Pimenta Novembro 2023",
       "Composer": "Pedro Pimenta  2019",
       "Dance geometry": "Couples",
       "Subtitle": "Legenda",
-      "Type of dance": "Valsa, 3T (fast)",
+      "Type of dance": "Waltz, 3-Time",
       "Work title": "Valsinha de 3"
     },
     "files": {
@@ -5554,10 +5560,10 @@
       "files/Valsa 3T - Silent Night-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - Silent Night.pdf",
@@ -5574,10 +5580,10 @@
       "files/Valsa 3T - Valse a Ollu-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - Valse a Ollu.pdf",
@@ -5593,9 +5599,14 @@
     "pages": [
       "files/Valsa 3T - Valse Dombelle-1.png"
     ],
-    "danceGeometry": null,
-    "typeOfDance": null,
-    "labels": {},
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 3-Time",
+    "labels": {
+      "Composer": "Marc Perrone",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 3-Time",
+      "Work title": "Dombelle"
+    },
     "files": {
       "pdf": "files/Valsa 3T - Valse Dombelle.pdf",
       "mscz": "files/Valsa 3T - Valse Dombelle.mscz"
@@ -5611,10 +5622,10 @@
       "files/Valsa 3T - Valse Magnetique-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 3T (fast)",
+    "typeOfDance": "Waltz, 3-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 3T (fast)"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
       "pdf": "files/Valsa 3T - Valse Magnetique.pdf",
@@ -5630,9 +5641,14 @@
     "pages": [
       "files/Valsa 3T - We wish you a merry Christmas-1.png"
     ],
-    "danceGeometry": null,
-    "typeOfDance": null,
-    "labels": {},
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 3-Time",
+    "labels": {
+      "Composer": "Trad.",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 3-Time",
+      "Work title": "We wish you a merry Christmas"
+    },
     "files": {
       "pdf": "files/Valsa 3T - We wish you a merry Christmas.pdf",
       "mscz": "files/Valsa 3T - We wish you a merry Christmas.mscz"
@@ -5648,10 +5664,10 @@
       "files/Valsa 5T - Batalia-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 5T",
+    "typeOfDance": "Waltz, 5-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 5T"
+      "Type of dance": "Waltz, 5-Time"
     },
     "files": {
       "pdf": "files/Valsa 5T - Batalia.pdf",
@@ -5668,10 +5684,10 @@
       "files/Valsa 5T - Cinco tempoush-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 5T",
+    "typeOfDance": "Waltz, 5-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 5T"
+      "Type of dance": "Waltz, 5-Time"
     },
     "files": {
       "pdf": "files/Valsa 5T - Cinco tempoush.pdf",
@@ -5688,10 +5704,10 @@
       "files/Valsa 5T - Elle-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 5T",
+    "typeOfDance": "Waltz, 5-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 5T"
+      "Type of dance": "Waltz, 5-Time"
     },
     "files": {
       "pdf": "files/Valsa 5T - Elle.pdf",
@@ -5708,10 +5724,10 @@
       "files/Valsa 5T - Evening Glory-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 5T",
+    "typeOfDance": "Waltz, 5-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 5T"
+      "Type of dance": "Waltz, 5-Time"
     },
     "files": {
       "pdf": "files/Valsa 5T - Evening Glory.pdf",
@@ -5728,10 +5744,10 @@
       "files/Valsa 5T - Vivre-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 5T",
+    "typeOfDance": "Waltz, 5-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 5T"
+      "Type of dance": "Waltz, 5-Time"
     },
     "files": {
       "pdf": "files/Valsa 5T - Vivre.pdf",
@@ -5748,10 +5764,10 @@
       "files/Valsa 8T - Annes walz-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Valsa, 8T",
+    "typeOfDance": "Waltz, 8-Time",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Valsa, 8T"
+      "Type of dance": "Waltz, 8-Time"
     },
     "files": {
       "pdf": "files/Valsa 8T - Annes walz.pdf",
