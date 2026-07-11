@@ -809,10 +809,10 @@
       "files/Bransle de lEpine - No1-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransle, De Noirmoutier",
+    "typeOfDance": "Bransle, De l´Épine",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransle, De Noirmoutier"
+      "Type of dance": "Bransle, De l´Épine"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No1.pdf",
@@ -830,10 +830,10 @@
       "files/Bransle de lEpine - No2-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransle, De Noirmoutier",
+    "typeOfDance": "Bransle, De l´Épine",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransle, De Noirmoutier"
+      "Type of dance": "Bransle, De l´Épine"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No2.pdf",
@@ -851,10 +851,10 @@
       "files/Bransle de lEpine - No3-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransle, De Noirmoutier",
+    "typeOfDance": "Bransle, De l´Épine",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransle, De Noirmoutier"
+      "Type of dance": "Bransle, De l´Épine"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No3.pdf",
@@ -872,10 +872,10 @@
       "files/Bransle de lEpine - No1-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransle, De Noirmoutier",
+    "typeOfDance": "Bransle, De l´Épine",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransle, De Noirmoutier"
+      "Type of dance": "Bransle, De l´Épine"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No1.pdf",
@@ -893,10 +893,10 @@
       "files/Bransle de lEpine - No2-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransle, De Noirmoutier",
+    "typeOfDance": "Bransle, De l´Épine",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransle, De Noirmoutier"
+      "Type of dance": "Bransle, De l´Épine"
     },
     "files": {
       "pdf": "files/Bransle de lEpine - No2.pdf",
@@ -3906,11 +3906,11 @@
       "files/Schottis - Stures-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Schottis, Sweden",
+    "typeOfDance": "Scottish, Schottis (Sweden)",
     "labels": {
       "Composer": "Trad.",
       "Dance geometry": "Couples",
-      "Type of dance": "Schottis, Sweden",
+      "Type of dance": "Scottish, Schottis (Sweden)",
       "Work title": "Stures"
     },
     "files": {
@@ -4373,12 +4373,12 @@
       "files/Xote - das meninas-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Xote(Brazil)",
+    "typeOfDance": "Scottish, Xote (Brazil)",
     "labels": {
       "Composer": "Luís Gonzaga",
       "Dance geometry": "Couples",
       "Source": "http://musescore.com/user/29328569/scores/6866243",
-      "Type of dance": "Scottish, Xote(Brazil)",
+      "Type of dance": "Scottish, Xote (Brazil)",
       "Work title": "Xote das meninas"
     },
     "files": {
