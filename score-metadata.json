@@ -4654,10 +4654,10 @@
     "pages": [
       "files/Single - Gunesim-1.png"
     ],
-    "danceGeometry": "Line dance",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Line dance",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
     "files": {
