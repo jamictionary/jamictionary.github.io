@@ -2363,10 +2363,10 @@
       "files/Mazurka - Mazurka Choro-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
+    "typeOfDance": "Mazurka, Brazil ",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe"
+      "Type of dance": "Mazurka, Brazil "
     },
     "files": {
       "pdf": "files/Mazurka - Mazurka Choro.pdf",
@@ -2613,11 +2613,11 @@
       "files/Mazurka - Donegal-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
+    "typeOfDance": "Mazurka, Ireland",
     "labels": {
       "Composer": "Trad.",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe",
+      "Type of dance": "Mazurka, Ireland",
       "Work title": "Donegal"
     },
     "files": {
@@ -2635,11 +2635,11 @@
       "files/Mazurka - Far away-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
+    "typeOfDance": "Mazurka, U.S.A.",
     "labels": {
       "Composer": "Pete Jung",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe",
+      "Type of dance": "Mazurka, U.S.A.",
       "Work title": "Far away"
     },
     "files": {
@@ -2657,11 +2657,11 @@
       "files/Mazurka - Flatbush waltz-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
+    "typeOfDance": "Mazurka, U.S.A.",
     "labels": {
       "Composer": "Andy Statman",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe",
+      "Type of dance": "Mazurka, U.S.A.",
       "Work title": "Flatbush Waltz"
     },
     "files": {
@@ -2699,10 +2699,10 @@
       "files/Mazurka - Inisheer-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
+    "typeOfDance": "Mazurka, Ireland",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe"
+      "Type of dance": "Mazurka, Ireland"
     },
     "files": {
       "pdf": "files/Mazurka - Inisheer.pdf",
@@ -3043,10 +3043,10 @@
       "files/Mazurka - Sonny Brogans-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
+    "typeOfDance": "Mazurka, Ireland",
     "labels": {
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe"
+      "Type of dance": "Mazurka, Ireland"
     },
     "files": {
       "pdf": "files/Mazurka - Sonny Brogans.pdf",
@@ -3657,16 +3657,16 @@
   },
   {
     "number": 186,
-    "name": "Rond de Landéda - Pedon war bont an Naoned",
+    "name": "Rond de Landéda - Pedon war bont an Naoned",
     "pages": [
       "files/Rond de Landeda - Pedon war bont an Naoned-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rond de Landéda",
+    "typeOfDance": "Ronde, Rond de Landéda",
     "labels": {
       "Composer": "Trad.",
       "Dance geometry": "Circle",
-      "Type of dance": "Rond de Landéda",
+      "Type of dance": "Ronde, Rond de Landéda",
       "Work title": "P'edon war bont an Naoned"
     },
     "files": {
@@ -3679,16 +3679,16 @@
   },
   {
     "number": 187,
-    "name": "Rond de Landéda - Untitled No.1",
+    "name": "Rond de Landéda - Untitled No.1",
     "pages": [
       "files/Rond de Landeda - Untitled No1-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rond de Landéda",
+    "typeOfDance": "Ronde, Rond de Landéda",
     "labels": {
       "Composer": "Trad.",
       "Dance geometry": "Circle",
-      "Type of dance": "Rond de Landéda",
+      "Type of dance": "Ronde, Rond de Landéda",
       "Work title": "Untitled #1"
     },
     "files": {
@@ -4434,10 +4434,10 @@
     "pages": [
       "files/Single - Ajde Jano-1.png"
     ],
-    "danceGeometry": "Circle",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Circle",
+      "Dance geometry": "Single Line",
       "Original format": "musicxml",
       "Source": "http://musescore.com/user/21223142/scores/4695654",
       "Type of dance": "Single",
@@ -4541,7 +4541,7 @@
   },
   {
     "number": 229,
-    "name": "Single - Dança do Urso",
+    "name": "Single - Dança do Urso",
     "pages": [
       "files/Single - Danca do Urso-1.png"
     ],
