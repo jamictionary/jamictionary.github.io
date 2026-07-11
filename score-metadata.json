@@ -5,10 +5,10 @@
     "pages": [
       "files/An Dro - DAlan-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -23,10 +23,10 @@
     "pages": [
       "files/An Dro - De Pluherlin-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -41,10 +41,10 @@
     "pages": [
       "files/An Dro - De Saint Nazaire-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -59,10 +59,10 @@
     "pages": [
       "files/An Dro - Dos An Triskell-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -77,10 +77,10 @@
     "pages": [
       "files/An Dro - Jan Mijne-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -95,10 +95,10 @@
     "pages": [
       "files/An Dro - Kerfank-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -113,10 +113,10 @@
     "pages": [
       "files/An Dro - Saint Patricks-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -131,10 +131,10 @@
     "pages": [
       "files/An Dro - Triolan-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
     "files": {
@@ -746,10 +746,10 @@
     "pages": [
       "files/Bransle dOssau - Civada-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Bransle, D’Ossau",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Bransle, D’Ossau"
     },
     "files": {
@@ -766,10 +766,10 @@
     "pages": [
       "files/Bransle dOssau - Les 3 cailloux-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Bransle, D’Ossau",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Bransle, D’Ossau"
     },
     "files": {
@@ -786,10 +786,10 @@
     "pages": [
       "files/Bransle dOssau - Quan jeri hilha a marider-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Bransle, D’Ossau",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Original format": "mxl",
       "Source": "C:\\Users\\jrss_\\Desktop\\partitions-france-QUOAN JERI FILHA MARIDER --- Quoan_j_eri_filha_a_marider.pdf",
       "Type of dance": "Bransle, D’Ossau"
@@ -929,15 +929,15 @@
   },
   {
     "number": 47,
-    "name": "Renaissance Bransle - D'Écosse",
+    "name": "Renaissance Bransle - D'Écosse",
     "pages": [
       "files/Renaissance Bransle - DEcosse-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransle, Renascentistas",
+    "typeOfDance": "Bransle, Renaissance",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Bransle, Renascentistas"
+      "Type of dance": "Bransle, Renaissance"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - DEcosse.pdf",
@@ -953,11 +953,11 @@
     "pages": [
       "files/Renaissance Bransle - De la Montarde-1.png"
     ],
-    "danceGeometry": "Single line",
-    "typeOfDance": "Bransle, Renascentistas",
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Bransle, Renaissance",
     "labels": {
-      "Dance geometry": "Single line",
-      "Type of dance": "Bransle, Renascentistas"
+      "Dance geometry": "Single Line",
+      "Type of dance": "Bransle, Renaissance"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - De la Montarde.pdf",
@@ -974,10 +974,10 @@
       "files/Renaissance Bransle - De la Torche-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransle, Renascentistas",
+    "typeOfDance": "Bransle, Renaissance",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Bransle, Renascentistas"
+      "Type of dance": "Bransle, Renaissance"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - De la Torche.pdf",
@@ -994,10 +994,10 @@
       "files/Renaissance Bransle - Des chevaux-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransle, Renascentistas",
+    "typeOfDance": "Bransle, Renaissance",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransle, Renascentistas"
+      "Type of dance": "Bransle, Renaissance"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - Des chevaux.pdf",
@@ -1014,10 +1014,10 @@
       "files/Renaissance Bransle - Du rat-1.png"
     ],
     "danceGeometry": "Parallel lines",
-    "typeOfDance": "Bransle, Renascentistas",
+    "typeOfDance": "Bransle, Renaissance",
     "labels": {
       "Dance geometry": "Parallel lines",
-      "Type of dance": "Bransle, Renascentistas"
+      "Type of dance": "Bransle, Renaissance"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - Du rat.pdf",
@@ -1034,10 +1034,10 @@
       "files/Renaissance Bransle - Pinagay-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Bransle, Renascentistas",
+    "typeOfDance": "Bransle, Renaissance",
     "labels": {
       "Dance geometry": "Circle",
-      "Type of dance": "Bransle, Renascentistas"
+      "Type of dance": "Bransle, Renaissance"
     },
     "files": {
       "pdf": "files/Renaissance Bransle - Pinagay.pdf",
@@ -1154,13 +1154,13 @@
       "files/Big circle or Chappeloise - The Gael Jig-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, Jigs britânicos (6/8)",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
       "Composer": "Dougie MacLean",
       "Dance geometry": "Circle",
       "Original format": "xml",
       "Source": "http://musescore.com/user/79422538/scores/14110078",
-      "Type of dance": "Chappeloise / Big Circle, Jigs britânicos (6/8)",
+      "Type of dance": "Chappeloise / Big Circle, British Jigs",
       "Work title": "The Gael"
     },
     "files": {
@@ -1460,10 +1460,10 @@
     "pages": [
       "files/Congo - Au Casteth de Monsur Monteth-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
     "files": {
@@ -1478,10 +1478,10 @@
     "pages": [
       "files/Congo - Congo de Captieux-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
     "files": {
@@ -1496,10 +1496,10 @@
     "pages": [
       "files/Congo - De Marcel Lagardere-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
     "files": {
@@ -1514,10 +1514,10 @@
     "pages": [
       "files/Congo - Man Encantada-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
     "files": {
@@ -1532,10 +1532,10 @@
     "pages": [
       "files/Congo - Untitled No1-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
     "files": {
@@ -1628,10 +1628,10 @@
     "pages": [
       "files/Dans Tricot - Dave-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Tricot",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Tricot"
     },
     "files": {
@@ -1646,10 +1646,10 @@
     "pages": [
       "files/Dans Tricot - Le beau rosier-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Tricot",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Tricot"
     },
     "files": {
@@ -1745,10 +1745,10 @@
     "pages": [
       "files/Gavotte de Grenoble - Berceuse pour un loulou-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
@@ -1765,10 +1765,10 @@
     "pages": [
       "files/Gavotte de Grenoble - Fiif-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
@@ -1785,10 +1785,10 @@
     "pages": [
       "files/Gavotte de Grenoble - Gavotte dAlzen-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
@@ -1805,10 +1805,10 @@
     "pages": [
       "files/Gavotte de Grenoble - Ivoirine-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
@@ -1825,10 +1825,10 @@
     "pages": [
       "files/Gavotte de Grenoble - Mira-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Gavotte, De Grenoble"
     },
     "files": {
@@ -1845,11 +1845,11 @@
     "pages": [
       "files/Gavotte de Grenoble - Very Jeune-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
       "Composer": "Hartwin Dhoore",
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Original format": "xml",
       "Source": "http://musescore.com/user/79422538/scores/14664298",
       "Type of dance": "Gavotte, De Grenoble",
@@ -1887,10 +1887,10 @@
     "pages": [
       "files/Hanter Dro - Calimero-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -1905,10 +1905,10 @@
     "pages": [
       "files/Hanter Dro - De Languidig-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -1923,10 +1923,10 @@
     "pages": [
       "files/Hanter Dro - Duhontar Ar Mane-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -1941,10 +1941,10 @@
     "pages": [
       "files/Hanter Dro - Flying Porto-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -1959,10 +1959,10 @@
     "pages": [
       "files/Hanter Dro - Hanterdrone-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -1977,10 +1977,10 @@
     "pages": [
       "files/Hanter Dro - Kabalerien-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -1995,10 +1995,10 @@
     "pages": [
       "files/Hanter Dro - La belle dame-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -2013,10 +2013,10 @@
     "pages": [
       "files/Hanter Dro - Nothing hill-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -2031,10 +2031,10 @@
     "pages": [
       "files/Hanter Dro - Paumes damour-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -2049,10 +2049,10 @@
     "pages": [
       "files/Hanter Dro - Pera Verde-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -2067,10 +2067,10 @@
     "pages": [
       "files/Hanter Dro - Y a 10 marins sur mer-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
     "files": {
@@ -2280,10 +2280,10 @@
     "pages": [
       "files/Marchoise - No1-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Marchoise",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Marchoise"
     },
     "files": {
@@ -2300,10 +2300,10 @@
     "pages": [
       "files/Marchoise - No2-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Marchoise",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Marchoise"
     },
     "files": {
@@ -2320,10 +2320,10 @@
     "pages": [
       "files/Marchoise - No3-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Marchoise",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Marchoise"
     },
     "files": {
@@ -3214,11 +3214,11 @@
     "pages": [
       "files/Plinn - E garnison-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Plinn",
     "labels": {
       "Composer": "Trad.",
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Plinn",
       "Work title": "E garnison"
     },
@@ -3569,10 +3569,10 @@
     "pages": [
       "files/Repasseado - Carapau Preto-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Repasseado",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Repasseado"
     },
     "files": {
@@ -3587,10 +3587,10 @@
     "pages": [
       "files/Repasseado - De Rio dOnor-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Repasseado",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Repasseado"
     },
     "files": {
@@ -3605,10 +3605,10 @@
     "pages": [
       "files/Repasseado - Do Vasco-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Repasseado",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Repasseado"
     },
     "files": {
@@ -4545,10 +4545,10 @@
     "pages": [
       "files/Single - Danca do Urso-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
     "files": {
@@ -4563,10 +4563,10 @@
     "pages": [
       "files/Single - Dansul pinguinului-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
     "files": {
@@ -4762,10 +4762,10 @@
     "pages": [
       "files/Single - Les olivettes-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
     "files": {
@@ -4852,10 +4852,10 @@
     "pages": [
       "files/Single - Misirlou-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single",
       "Work title": "Tzadik Katamar"
     },
@@ -5019,10 +5019,10 @@
     "pages": [
       "files/Single - Rumelaj-1.png"
     ],
-    "danceGeometry": "Single line",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Single line",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
     "files": {
@@ -5222,10 +5222,10 @@
     "pages": [
       "files/Vira - De Quatro-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
     "files": {
@@ -5240,10 +5240,10 @@
     "pages": [
       "files/Vira - Do Minho-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
     "files": {
@@ -5258,10 +5258,10 @@
     "pages": [
       "files/Vira - Elvira-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
     "files": {
@@ -5276,10 +5276,10 @@
     "pages": [
       "files/Vira - Rosinha-1.png"
     ],
-    "danceGeometry": "Quadrille",
+    "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
-      "Dance geometry": "Quadrille",
+      "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
     "files": {
@@ -5471,7 +5471,7 @@
   },
   {
     "number": 279,
-    "name": "Valsa 3T - La rivière de Regourd",
+    "name": "Valsa 3T - La rivière de Regourd",
     "pages": [
       "files/Valsa 3T - La riviere de Regourd-1.png"
     ],
