@@ -8,6 +8,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
@@ -15,7 +16,9 @@
       "pdf": "files/An Dro - DAlan.pdf",
       "mscz": "files/An Dro - DAlan.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 2,
@@ -26,6 +29,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
@@ -33,7 +37,9 @@
       "pdf": "files/An Dro - De Pluherlin.pdf",
       "mscz": "files/An Dro - De Pluherlin.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 3,
@@ -44,6 +50,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
@@ -51,7 +58,9 @@
       "pdf": "files/An Dro - De Saint Nazaire.pdf",
       "mscz": "files/An Dro - De Saint Nazaire.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 4,
@@ -62,6 +71,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
@@ -69,10 +79,75 @@
       "pdf": "files/An Dro - Dos An Triskell.pdf",
       "mscz": "files/An Dro - Dos An Triskell.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 5,
+    "name": "An Dro - Kerfank",
+    "pages": [
+      "files/An Dro - Kerfank-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "An Dro",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Single Line",
+      "Type of dance": "An Dro"
+    },
+    "files": {
+      "pdf": "files/An Dro - Kerfank.pdf",
+      "mscz": "files/An Dro - Kerfank.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 6,
+    "name": "An Dro - Saint Patrick's",
+    "pages": [
+      "files/An Dro - Saint Patricks-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "An Dro",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Single Line",
+      "Type of dance": "An Dro"
+    },
+    "files": {
+      "pdf": "files/An Dro - Saint Patricks.pdf",
+      "mscz": "files/An Dro - Saint Patricks.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 7,
+    "name": "An Dro - Triolan",
+    "pages": [
+      "files/An Dro - Triolan-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "An Dro",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Single Line",
+      "Type of dance": "An Dro"
+    },
+    "files": {
+      "pdf": "files/An Dro - Triolan.pdf",
+      "mscz": "files/An Dro - Triolan.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 8,
     "name": "An Dro - Jan Mijne",
     "pages": [
       "files/An Dro - Jan Mijne-1.png"
@@ -87,61 +162,9 @@
       "pdf": "files/An Dro - Jan Mijne.pdf",
       "mscz": "files/An Dro - Jan Mijne.mscz"
     },
-    "folderStructure": []
-  },
-  {
-    "number": 6,
-    "name": "An Dro - Kerfank",
-    "pages": [
-      "files/An Dro - Kerfank-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "An Dro",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "An Dro"
-    },
-    "files": {
-      "pdf": "files/An Dro - Kerfank.pdf",
-      "mscz": "files/An Dro - Kerfank.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 7,
-    "name": "An Dro - Saint Patrick's",
-    "pages": [
-      "files/An Dro - Saint Patricks-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "An Dro",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "An Dro"
-    },
-    "files": {
-      "pdf": "files/An Dro - Saint Patricks.pdf",
-      "mscz": "files/An Dro - Saint Patricks.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 8,
-    "name": "An Dro - Triolan",
-    "pages": [
-      "files/An Dro - Triolan-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "An Dro",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "An Dro"
-    },
-    "files": {
-      "pdf": "files/An Dro - Triolan.pdf",
-      "mscz": "files/An Dro - Triolan.mscz"
-    },
-    "folderStructure": []
+    "folderStructure": [
+      "Netherlands"
+    ]
   },
   {
     "number": 9,
@@ -152,6 +175,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Arin-Arin",
     "labels": {
+      "Country": "Spain",
       "Arranger": "JMiB",
       "Composer": "Trad Gascogne",
       "Copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
@@ -164,7 +188,9 @@
       "pdf": "files/Arin Arin - Quebec.pdf",
       "mscz": "files/Arin Arin - Quebec.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
   },
   {
     "number": 10,
@@ -175,6 +201,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Arin-Arin",
     "labels": {
+      "Country": "Spain",
       "Arranger": "JMiB",
       "Composer": "Trad Gascogne",
       "Copyright": "JMiB 20231229 - Tablature D.E.S. pour accordéon diatonique Sol/Do",
@@ -187,7 +214,9 @@
       "pdf": "files/Arin Arin - Untitled No1.pdf",
       "mscz": "files/Arin Arin - Untitled No1.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
   },
   {
     "number": 11,
@@ -198,6 +227,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Baião",
     "labels": {
+      "Country": "Brazil",
       "Composer": "Luiz Gonzaga",
       "Dance geometry": "Couples",
       "Type of dance": "Baião",
@@ -207,7 +237,9 @@
       "pdf": "files/Baiao - Asa branca.pdf",
       "mscz": "files/Baiao - Asa branca.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Brazil"
+    ]
   },
   {
     "number": 12,
@@ -218,6 +250,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Baião",
     "labels": {
+      "Country": "Brazil",
       "Composer": "Luiz Gonzaga",
       "Dance geometry": "Couples",
       "Type of dance": "Baião",
@@ -227,7 +260,9 @@
       "pdf": "files/Baiao - Baiao.pdf",
       "mscz": "files/Baiao - Baiao.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Brazil"
+    ]
   },
   {
     "number": 13,
@@ -238,6 +273,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Baião",
     "labels": {
+      "Country": "Brazil",
       "Composer": "Hermeto Pascoal",
       "Dance geometry": "Couples",
       "Type of dance": "Baião",
@@ -247,72 +283,12 @@
       "pdf": "files/Baiao - O ovo.pdf",
       "mscz": "files/Baiao - O ovo.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Brazil"
+    ]
   },
   {
     "number": 14,
-    "name": "Bourrée 2T - À Malochet",
-    "pages": [
-      "files/Bourree 2T - A Malochet-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Bourrée, 2-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Bourrée, 2-Time",
-      "Work title": "Bourrée à Malochet"
-    },
-    "files": {
-      "pdf": "files/Bourree 2T - A Malochet.pdf",
-      "mscz": "files/Bourree 2T - A Malochet.mscz"
-    },
-    "folderStructure": [
-      "2 Time"
-    ]
-  },
-  {
-    "number": 15,
-    "name": "Bourree 2T - Aurore Sand",
-    "pages": [
-      "files/Bourree 2T - Aurore Sand-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Bourrée, 2-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Bourrée, 2-Time"
-    },
-    "files": {
-      "pdf": "files/Bourree 2T - Aurore Sand.pdf",
-      "mscz": "files/Bourree 2T - Aurore Sand.mscz"
-    },
-    "folderStructure": [
-      "2 Time"
-    ]
-  },
-  {
-    "number": 16,
-    "name": "Bourrée 2T - Bachelier",
-    "pages": [
-      "files/Bourree 2T - Bachelier-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Bourrée, 2-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Bourrée, 2-Time",
-      "Work title": "Bourrée à Malochet"
-    },
-    "files": {
-      "pdf": "files/Bourree 2T - Bachelier.pdf",
-      "mscz": "files/Bourree 2T - Bachelier.mscz"
-    },
-    "folderStructure": [
-      "2 Time"
-    ]
-  },
-  {
-    "number": 17,
     "name": "Bourrée 2T - De Montford",
     "pages": [
       "files/Bourree 2T - De Montford-1.png"
@@ -320,6 +296,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "England",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
@@ -329,7 +306,76 @@
       "mscz": "files/Bourree 2T - De Montford.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "England"
+    ]
+  },
+  {
+    "number": 15,
+    "name": "Bourrée 2T - À Malochet",
+    "pages": [
+      "files/Bourree 2T - A Malochet-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
+      "Work title": "Bourrée à Malochet"
+    },
+    "files": {
+      "pdf": "files/Bourree 2T - A Malochet.pdf",
+      "mscz": "files/Bourree 2T - A Malochet.mscz"
+    },
+    "folderStructure": [
+      "2 Time",
+      "France"
+    ]
+  },
+  {
+    "number": 16,
+    "name": "Bourree 2T - Aurore Sand",
+    "pages": [
+      "files/Bourree 2T - Aurore Sand-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time"
+    },
+    "files": {
+      "pdf": "files/Bourree 2T - Aurore Sand.pdf",
+      "mscz": "files/Bourree 2T - Aurore Sand.mscz"
+    },
+    "folderStructure": [
+      "2 Time",
+      "France"
+    ]
+  },
+  {
+    "number": 17,
+    "name": "Bourrée 2T - Bachelier",
+    "pages": [
+      "files/Bourree 2T - Bachelier-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Bourrée, 2-Time",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Bourrée, 2-Time",
+      "Work title": "Bourrée à Malochet"
+    },
+    "files": {
+      "pdf": "files/Bourree 2T - Bachelier.pdf",
+      "mscz": "files/Bourree 2T - Bachelier.mscz"
+    },
+    "folderStructure": [
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -341,6 +387,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
@@ -350,7 +397,8 @@
       "mscz": "files/Bourree 2T - De Montserrat.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -362,6 +410,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time"
     },
@@ -370,7 +419,8 @@
       "mscz": "files/Bourree 2T - Derriere chez nous.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -382,6 +432,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time"
     },
@@ -390,7 +441,8 @@
       "mscz": "files/Bourree 2T - Du zinzin.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -402,6 +454,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
@@ -411,7 +464,8 @@
       "mscz": "files/Bourree 2T - He la mon Jean.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -423,6 +477,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time"
     },
@@ -431,7 +486,8 @@
       "mscz": "files/Bourree 2T - Kerleguer.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -443,6 +499,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time"
     },
@@ -451,7 +508,8 @@
       "mscz": "files/Bourree 2T - Lombre verte.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -463,6 +521,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time"
     },
@@ -471,7 +530,8 @@
       "mscz": "files/Bourree 2T - La dansarem pas pus.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -483,6 +543,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
@@ -492,7 +553,8 @@
       "mscz": "files/Bourree 2T - La derobee.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -504,6 +566,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time"
     },
@@ -512,7 +575,8 @@
       "mscz": "files/Bourree 2T - Last chance.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -524,6 +588,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
@@ -533,7 +598,8 @@
       "mscz": "files/Bourree 2T - Le ruban bleu.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -545,6 +611,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time",
       "Work title": "Bourrée à Malochet"
@@ -554,7 +621,8 @@
       "mscz": "files/Bourree 2T - Marilou.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -566,6 +634,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 2-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 2-Time"
     },
@@ -574,7 +643,8 @@
       "mscz": "files/Bourree 2T - Marrakech.mscz"
     },
     "folderStructure": [
-      "2 Time"
+      "2 Time",
+      "France"
     ]
   },
   {
@@ -586,6 +656,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 3-Time"
     },
@@ -594,7 +665,8 @@
       "mscz": "files/Bouree 3T - Bal limousin.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
@@ -606,6 +678,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 3-Time"
     },
@@ -614,7 +687,8 @@
       "mscz": "files/Bouree 3T - Des jeunes.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
@@ -626,6 +700,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 3-Time"
     },
@@ -634,7 +709,8 @@
       "mscz": "files/Bouree 3T - Les poules houpees.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
@@ -646,6 +722,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 3-Time"
     },
@@ -654,7 +731,8 @@
       "mscz": "files/Bourree 3T - Des gars.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
@@ -666,6 +744,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 3-Time"
     },
@@ -674,7 +753,8 @@
       "mscz": "files/Bourree 3T - Jeu de Balle.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
@@ -686,6 +766,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 3-Time"
     },
@@ -694,7 +775,8 @@
       "mscz": "files/Bourree 3T - Koffeinmentes.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
@@ -706,6 +788,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Bourrée, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Bourrée, 3-Time"
     },
@@ -714,7 +797,8 @@
       "mscz": "files/Bourree 3T - Ma maitraisse.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
@@ -726,6 +810,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Bransle, Brando (Italian Bransle)",
     "labels": {
+      "Country": "Italy",
       "Dance geometry": "Circle",
       "Original format": "musicxml",
       "Source": "http://musescore.com/user/10636897/scores/5135548",
@@ -737,7 +822,8 @@
       "mscz": "files/Brando - Sbrando.mscz"
     },
     "folderStructure": [
-      "Brando (Italian Bransle)"
+      "Brando (Italian Bransle)",
+      "Italy"
     ]
   },
   {
@@ -749,6 +835,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Bransle, D’Ossau",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Bransle, D’Ossau"
     },
@@ -757,7 +844,8 @@
       "mscz": "files/Bransle dOssau - Civada.mscz"
     },
     "folderStructure": [
-      "D'Ossau"
+      "D'Ossau",
+      "France"
     ]
   },
   {
@@ -769,6 +857,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Bransle, D’Ossau",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Bransle, D’Ossau"
     },
@@ -777,18 +866,20 @@
       "mscz": "files/Bransle dOssau - Les 3 cailloux.mscz"
     },
     "folderStructure": [
-      "D'Ossau"
+      "D'Ossau",
+      "France"
     ]
   },
   {
     "number": 40,
-    "name": "Bransle d'Ossau - Quan j’eri hilha a maridèr",
+    "name": "Bransle d'Ossau - Quan j’eri hilha a maridèr",
     "pages": [
       "files/Bransle dOssau - Quan jeri hilha a marider-1.png"
     ],
     "danceGeometry": "Single Line",
     "typeOfDance": "Bransle, D’Ossau",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Original format": "mxl",
       "Source": "C:\\Users\\jrss_\\Desktop\\partitions-france-QUOAN JERI FILHA MARIDER --- Quoan_j_eri_filha_a_marider.pdf",
@@ -799,7 +890,8 @@
       "mscz": "files/Bransle dOssau - Quan jeri hilha a marider.mscz"
     },
     "folderStructure": [
-      "D'Ossau"
+      "D'Ossau",
+      "France"
     ]
   },
   {
@@ -811,6 +903,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Bransle, De l´Épine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Bransle, De l´Épine"
     },
@@ -820,7 +913,8 @@
     },
     "folderStructure": [
       "De l'Epine (aka Noirmoutier)",
-      "Ciac Boum's Set 1"
+      "Ciac Boum's Set 1",
+      "France"
     ]
   },
   {
@@ -832,6 +926,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Bransle, De l´Épine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Bransle, De l´Épine"
     },
@@ -841,7 +936,8 @@
     },
     "folderStructure": [
       "De l'Epine (aka Noirmoutier)",
-      "Ciac Boum's Set 1"
+      "Ciac Boum's Set 1",
+      "France"
     ]
   },
   {
@@ -853,6 +949,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Bransle, De l´Épine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Bransle, De l´Épine"
     },
@@ -862,7 +959,8 @@
     },
     "folderStructure": [
       "De l'Epine (aka Noirmoutier)",
-      "Ciac Boum's Set 1"
+      "Ciac Boum's Set 1",
+      "France"
     ]
   },
   {
@@ -874,6 +972,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Bransle, De l´Épine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Bransle, De l´Épine"
     },
@@ -883,7 +982,8 @@
     },
     "folderStructure": [
       "De l'Epine (aka Noirmoutier)",
-      "Ciac Boum's Set 2"
+      "Ciac Boum's Set 2",
+      "France"
     ]
   },
   {
@@ -895,6 +995,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Bransle, De l´Épine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Bransle, De l´Épine"
     },
@@ -904,7 +1005,8 @@
     },
     "folderStructure": [
       "De l'Epine (aka Noirmoutier)",
-      "Ciac Boum's Set 2"
+      "Ciac Boum's Set 2",
+      "France"
     ]
   },
   {
@@ -916,6 +1018,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Bransle, Modern",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Bransle, Modern"
     },
@@ -924,7 +1027,8 @@
       "mscz": "files/Modern Bransle - De la fosse aux loups.mscz"
     },
     "folderStructure": [
-      "Modern"
+      "Modern",
+      "France"
     ]
   },
   {
@@ -936,6 +1040,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Bransle, Renaissance",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Bransle, Renaissance"
     },
@@ -944,7 +1049,8 @@
       "mscz": "files/Renaissance Bransle - DEcosse.mscz"
     },
     "folderStructure": [
-      "Renaissance"
+      "Renaissance",
+      "France"
     ]
   },
   {
@@ -956,6 +1062,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Bransle, Renaissance",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Bransle, Renaissance"
     },
@@ -964,7 +1071,8 @@
       "mscz": "files/Renaissance Bransle - De la Montarde.mscz"
     },
     "folderStructure": [
-      "Renaissance"
+      "Renaissance",
+      "France"
     ]
   },
   {
@@ -976,6 +1084,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Bransle, Renaissance",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Bransle, Renaissance"
     },
@@ -984,7 +1093,8 @@
       "mscz": "files/Renaissance Bransle - De la Torche.mscz"
     },
     "folderStructure": [
-      "Renaissance"
+      "Renaissance",
+      "France"
     ]
   },
   {
@@ -996,6 +1106,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Bransle, Renaissance",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Bransle, Renaissance"
     },
@@ -1004,7 +1115,8 @@
       "mscz": "files/Renaissance Bransle - Des chevaux.mscz"
     },
     "folderStructure": [
-      "Renaissance"
+      "Renaissance",
+      "France"
     ]
   },
   {
@@ -1016,6 +1128,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Bransle, Renaissance",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Bransle, Renaissance"
     },
@@ -1024,7 +1137,8 @@
       "mscz": "files/Renaissance Bransle - Du rat.mscz"
     },
     "folderStructure": [
-      "Renaissance"
+      "Renaissance",
+      "France"
     ]
   },
   {
@@ -1036,6 +1150,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Bransle, Renaissance",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Bransle, Renaissance"
     },
@@ -1044,7 +1159,8 @@
       "mscz": "files/Renaissance Bransle - Pinagay.mscz"
     },
     "folderStructure": [
-      "Renaissance"
+      "Renaissance",
+      "France"
     ]
   },
   {
@@ -1056,6 +1172,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
+      "Country": "England",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
@@ -1064,7 +1181,8 @@
       "mscz": "files/Big circle - Cleveland park Jig.mscz"
     },
     "folderStructure": [
-      "British Jigs"
+      "British Jigs",
+      "England"
     ]
   },
   {
@@ -1076,6 +1194,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
+      "Country": "England",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
@@ -1084,51 +1203,12 @@
       "mscz": "files/Big circle - Horizonto.mscz"
     },
     "folderStructure": [
-      "British Jigs"
+      "British Jigs",
+      "England"
     ]
   },
   {
     "number": 55,
-    "name": "Big circle - Jump at the sun Jig",
-    "pages": [
-      "files/Big circle - Jump at the sun Jig-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, British Jigs"
-    },
-    "files": {
-      "pdf": "files/Big circle - Jump at the sun Jig.pdf",
-      "mscz": "files/Big circle - Jump at the sun Jig.mscz"
-    },
-    "folderStructure": [
-      "British Jigs"
-    ]
-  },
-  {
-    "number": 56,
-    "name": "Big circle - The sailor's wife Jig",
-    "pages": [
-      "files/Big circle - The sailors wife Jig-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, British Jigs"
-    },
-    "files": {
-      "pdf": "files/Big circle - The sailors wife Jig.pdf",
-      "mscz": "files/Big circle - The sailors wife Jig.mscz"
-    },
-    "folderStructure": [
-      "British Jigs"
-    ]
-  },
-  {
-    "number": 57,
     "name": "Big circle or Chappeloise - Hunting the squirrel Jig",
     "pages": [
       "files/Big circle or Chappeloise - Hunting the squirrel Jig-1.png"
@@ -1136,6 +1216,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
+      "Country": "England",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, British Jigs"
     },
@@ -1144,7 +1225,52 @@
       "mscz": "files/Big circle or Chappeloise - Hunting the squirrel Jig.mscz"
     },
     "folderStructure": [
-      "British Jigs"
+      "British Jigs",
+      "England"
+    ]
+  },
+  {
+    "number": 56,
+    "name": "Big circle - Jump at the sun Jig",
+    "pages": [
+      "files/Big circle - Jump at the sun Jig-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
+    "labels": {
+      "Country": "Scotland",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, British Jigs"
+    },
+    "files": {
+      "pdf": "files/Big circle - Jump at the sun Jig.pdf",
+      "mscz": "files/Big circle - Jump at the sun Jig.mscz"
+    },
+    "folderStructure": [
+      "British Jigs",
+      "Scotland"
+    ]
+  },
+  {
+    "number": 57,
+    "name": "Big circle - The sailor's wife Jig",
+    "pages": [
+      "files/Big circle - The sailors wife Jig-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, British Jigs",
+    "labels": {
+      "Country": "Scotland",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, British Jigs"
+    },
+    "files": {
+      "pdf": "files/Big circle - The sailors wife Jig.pdf",
+      "mscz": "files/Big circle - The sailors wife Jig.mscz"
+    },
+    "folderStructure": [
+      "British Jigs",
+      "Scotland"
     ]
   },
   {
@@ -1156,6 +1282,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, British Jigs",
     "labels": {
+      "Country": "Scotland",
       "Composer": "Dougie MacLean",
       "Dance geometry": "Circle",
       "Original format": "xml",
@@ -1168,71 +1295,12 @@
       "mscz": "files/Big circle or Chappeloise - The Gael Jig.mscz"
     },
     "folderStructure": [
-      "British Jigs"
+      "British Jigs",
+      "Scotland"
     ]
   },
   {
     "number": 59,
-    "name": "Big circle - Il inferno",
-    "pages": [
-      "files/Big circle - Il inferno-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
-    },
-    "files": {
-      "pdf": "files/Big circle - Il inferno.pdf",
-      "mscz": "files/Big circle - Il inferno.mscz"
-    },
-    "folderStructure": [
-      "Continental Europe Jigs"
-    ]
-  },
-  {
-    "number": 60,
-    "name": "Big circle - Kreisverkher",
-    "pages": [
-      "files/Big circle - Kreisverkher-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
-    },
-    "files": {
-      "pdf": "files/Big circle - Kreisverkher.pdf",
-      "mscz": "files/Big circle - Kreisverkher.mscz"
-    },
-    "folderStructure": [
-      "Continental Europe Jigs"
-    ]
-  },
-  {
-    "number": 61,
-    "name": "Big circle - Zelda",
-    "pages": [
-      "files/Big circle - Zelda-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
-    },
-    "files": {
-      "pdf": "files/Big circle - Zelda.pdf",
-      "mscz": "files/Big circle - Zelda.mscz"
-    },
-    "folderStructure": [
-      "Continental Europe Jigs"
-    ]
-  },
-  {
-    "number": 62,
     "name": "Big circle or Chappeloise - Gaspacho",
     "pages": [
       "files/Big circle or Chappeloise - Gaspacho-1.png"
@@ -1240,6 +1308,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
     },
@@ -1248,7 +1317,74 @@
       "mscz": "files/Big circle or Chappeloise - Gaspacho.mscz"
     },
     "folderStructure": [
-      "Continental Europe Jigs"
+      "Continental Europe Jigs",
+      "Belgium"
+    ]
+  },
+  {
+    "number": 60,
+    "name": "Big circle - Il inferno",
+    "pages": [
+      "files/Big circle - Il inferno-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
+    },
+    "files": {
+      "pdf": "files/Big circle - Il inferno.pdf",
+      "mscz": "files/Big circle - Il inferno.mscz"
+    },
+    "folderStructure": [
+      "Continental Europe Jigs",
+      "France"
+    ]
+  },
+  {
+    "number": 61,
+    "name": "Big circle - Kreisverkher",
+    "pages": [
+      "files/Big circle - Kreisverkher-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
+    },
+    "files": {
+      "pdf": "files/Big circle - Kreisverkher.pdf",
+      "mscz": "files/Big circle - Kreisverkher.mscz"
+    },
+    "folderStructure": [
+      "Continental Europe Jigs",
+      "France"
+    ]
+  },
+  {
+    "number": 62,
+    "name": "Big circle - Zelda",
+    "pages": [
+      "files/Big circle - Zelda-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, Continental Europe Jigs",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, Continental Europe Jigs"
+    },
+    "files": {
+      "pdf": "files/Big circle - Zelda.pdf",
+      "mscz": "files/Big circle - Zelda.mscz"
+    },
+    "folderStructure": [
+      "Continental Europe Jigs",
+      "France"
     ]
   },
   {
@@ -1260,6 +1396,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
+      "Country": "Ireland",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
@@ -1268,7 +1405,8 @@
       "mscz": "files/Big circle - Blarney pilgrim.mscz"
     },
     "folderStructure": [
-      "Irish Jigs"
+      "Irish Jigs",
+      "Ireland"
     ]
   },
   {
@@ -1280,6 +1418,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
+      "Country": "Ireland",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
@@ -1288,7 +1427,8 @@
       "mscz": "files/Big circle - Get up old woman  shake yourself Jig.mscz"
     },
     "folderStructure": [
-      "Irish Jigs"
+      "Irish Jigs",
+      "Ireland"
     ]
   },
   {
@@ -1300,6 +1440,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
+      "Country": "Ireland",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
@@ -1308,7 +1449,8 @@
       "mscz": "files/Big circle - Out in the ocean Jig.mscz"
     },
     "folderStructure": [
-      "Irish Jigs"
+      "Irish Jigs",
+      "Ireland"
     ]
   },
   {
@@ -1320,6 +1462,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
+      "Country": "Ireland",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
@@ -1328,7 +1471,8 @@
       "mscz": "files/Big circle - The cliifs of Moher Jig.mscz"
     },
     "folderStructure": [
-      "Irish Jigs"
+      "Irish Jigs",
+      "Ireland"
     ]
   },
   {
@@ -1340,6 +1484,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
+      "Country": "Ireland",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
@@ -1348,7 +1493,8 @@
       "mscz": "files/Big circle - The dancing master.mscz"
     },
     "folderStructure": [
-      "Irish Jigs"
+      "Irish Jigs",
+      "Ireland"
     ]
   },
   {
@@ -1360,6 +1506,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Irish Jigs",
     "labels": {
+      "Country": "Ireland",
       "Dance geometry": "Circle",
       "Type of dance": "Chappeloise / Big Circle, Irish Jigs"
     },
@@ -1368,71 +1515,12 @@
       "mscz": "files/Big circle - The Kesh Jig.mscz"
     },
     "folderStructure": [
-      "Irish Jigs"
+      "Irish Jigs",
+      "Ireland"
     ]
   },
   {
     "number": 69,
-    "name": "Chappeloise Pop - Amigos do Gaspar",
-    "pages": [
-      "files/Chappeloise Pop - Amigos do Gaspar-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
-    },
-    "files": {
-      "pdf": "files/Chappeloise Pop - Amigos do Gaspar.pdf",
-      "mscz": "files/Chappeloise Pop - Amigos do Gaspar.mscz"
-    },
-    "folderStructure": [
-      "Pop Music themes"
-    ]
-  },
-  {
-    "number": 70,
-    "name": "Chappeloise Pop - Dartacão",
-    "pages": [
-      "files/Chappeloise Pop - Dartacao-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
-    },
-    "files": {
-      "pdf": "files/Chappeloise Pop - Dartacao.pdf",
-      "mscz": "files/Chappeloise Pop - Dartacao.mscz"
-    },
-    "folderStructure": [
-      "Pop Music themes"
-    ]
-  },
-  {
-    "number": 71,
-    "name": "Chappeloise Pop - É tao bom",
-    "pages": [
-      "files/Chappeloise Pop - E tao bom-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
-    },
-    "files": {
-      "pdf": "files/Chappeloise Pop - E tao bom.pdf",
-      "mscz": "files/Chappeloise Pop - E tao bom.mscz"
-    },
-    "folderStructure": [
-      "Pop Music themes"
-    ]
-  },
-  {
-    "number": 72,
     "name": "Chappeloise Pop - Wellerman",
     "pages": [
       "files/Chappeloise Pop - Wellerman-1.png"
@@ -1440,6 +1528,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
     "labels": {
+      "Country": "New Zealand",
       "Composer": "Trad.",
       "Dance geometry": "Circle",
       "Source": "http://musescore.com/user/6695411/scores/6613120",
@@ -1451,7 +1540,74 @@
       "mscz": "files/Chappeloise Pop - Wellerman.mscz"
     },
     "folderStructure": [
-      "Pop Music themes"
+      "Pop Music themes",
+      "New Zealand"
+    ]
+  },
+  {
+    "number": 70,
+    "name": "Chappeloise Pop - Amigos do Gaspar",
+    "pages": [
+      "files/Chappeloise Pop - Amigos do Gaspar-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
+    },
+    "files": {
+      "pdf": "files/Chappeloise Pop - Amigos do Gaspar.pdf",
+      "mscz": "files/Chappeloise Pop - Amigos do Gaspar.mscz"
+    },
+    "folderStructure": [
+      "Pop Music themes",
+      "Portugal"
+    ]
+  },
+  {
+    "number": 71,
+    "name": "Chappeloise Pop - É tao bom",
+    "pages": [
+      "files/Chappeloise Pop - E tao bom-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
+    },
+    "files": {
+      "pdf": "files/Chappeloise Pop - E tao bom.pdf",
+      "mscz": "files/Chappeloise Pop - E tao bom.mscz"
+    },
+    "folderStructure": [
+      "Pop Music themes",
+      "Portugal"
+    ]
+  },
+  {
+    "number": 72,
+    "name": "Chappeloise Pop - Dartacão",
+    "pages": [
+      "files/Chappeloise Pop - Dartacao-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Chappeloise / Big Circle, Pop Music themes",
+    "labels": {
+      "Country": "Spain",
+      "Dance geometry": "Circle",
+      "Type of dance": "Chappeloise / Big Circle, Pop Music themes"
+    },
+    "files": {
+      "pdf": "files/Chappeloise Pop - Dartacao.pdf",
+      "mscz": "files/Chappeloise Pop - Dartacao.mscz"
+    },
+    "folderStructure": [
+      "Pop Music themes",
+      "Spain"
     ]
   },
   {
@@ -1463,6 +1619,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
@@ -1470,7 +1627,9 @@
       "pdf": "files/Congo - Au Casteth de Monsur Monteth.pdf",
       "mscz": "files/Congo - Au Casteth de Monsur Monteth.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 74,
@@ -1481,6 +1640,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
@@ -1488,7 +1648,9 @@
       "pdf": "files/Congo - Congo de Captieux.pdf",
       "mscz": "files/Congo - Congo de Captieux.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 75,
@@ -1499,6 +1661,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
@@ -1506,7 +1669,9 @@
       "pdf": "files/Congo - De Marcel Lagardere.pdf",
       "mscz": "files/Congo - De Marcel Lagardere.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 76,
@@ -1517,6 +1682,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
@@ -1524,7 +1690,9 @@
       "pdf": "files/Congo - Man Encantada.pdf",
       "mscz": "files/Congo - Man Encantada.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 77,
@@ -1535,6 +1703,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Congò",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Congò"
     },
@@ -1542,7 +1711,9 @@
       "pdf": "files/Congo - Untitled No1.pdf",
       "mscz": "files/Congo - Untitled No1.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 78,
@@ -1553,6 +1724,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Contra Dance, Portuguese",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Contra Dance, Portuguese"
     },
@@ -1573,6 +1745,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Contra Dance, Portuguese",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Contra Dance, Portuguese"
     },
@@ -1593,6 +1766,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Contra Dance, Portuguese",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Contra Dance, Portuguese"
     },
@@ -1613,6 +1787,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Corridinho",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Corridinho"
     },
@@ -1620,28 +1795,12 @@
       "pdf": "files/Corridinho - Sariquite.pdf",
       "mscz": "files/Corridinho - Sariquite.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 82,
-    "name": "Dañs Tricot - Dave",
-    "pages": [
-      "files/Dans Tricot - Dave-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Tricot",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Tricot"
-    },
-    "files": {
-      "pdf": "files/Dans Tricot - Dave.pdf",
-      "mscz": "files/Dans Tricot - Dave.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 83,
     "name": "Dañs Tricot - Le beau rosier",
     "pages": [
       "files/Dans Tricot - Le beau rosier-1.png"
@@ -1649,6 +1808,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Tricot",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Single Line",
       "Type of dance": "Tricot"
     },
@@ -1656,7 +1816,30 @@
       "pdf": "files/Dans Tricot - Le beau rosier.pdf",
       "mscz": "files/Dans Tricot - Le beau rosier.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Belgium"
+    ]
+  },
+  {
+    "number": 83,
+    "name": "Dañs Tricot - Dave",
+    "pages": [
+      "files/Dans Tricot - Dave-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Tricot",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Single Line",
+      "Type of dance": "Tricot"
+    },
+    "files": {
+      "pdf": "files/Dans Tricot - Dave.pdf",
+      "mscz": "files/Dans Tricot - Dave.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 84,
@@ -1667,6 +1850,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Fado",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Fado"
     },
@@ -1674,7 +1858,9 @@
       "pdf": "files/Fado - Batido.pdf",
       "mscz": "files/Fado - Batido.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 85,
@@ -1685,6 +1871,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Fandango",
     "labels": {
+      "Country": "Spain",
       "Composer": "Trad.",
       "Copyright": "JMiB 20220314 - Tablature accordéon diatonique Sol/Do",
       "Dance geometry": "Circle",
@@ -1696,7 +1883,9 @@
       "pdf": "files/Fandango - Albiztur.pdf",
       "mscz": "files/Fandango - Albiztur.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
   },
   {
     "number": 86,
@@ -1708,6 +1897,7 @@
     "typeOfDance": "Frevo",
     "labels": {
       "Category": "Couples",
+      "Country": "Brazil",
       "Composer": "Luiz Gonzaga",
       "Dance geometry": "Couples",
       "Type of dance": "Frevo",
@@ -1717,7 +1907,9 @@
       "pdf": "files/Frevo - Pagode Russo.pdf",
       "mscz": "files/Frevo - Pagode Russo.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Brazil"
+    ]
   },
   {
     "number": 87,
@@ -1728,6 +1920,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Gavotte, Breton Gavotte",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Gavotte, Breton Gavotte"
     },
@@ -1736,91 +1929,12 @@
       "mscz": "files/Breton Gavotte - War devenn Sant Pabu.mscz"
     },
     "folderStructure": [
-      "Breton Gavotte"
+      "Breton Gavotte",
+      "France"
     ]
   },
   {
     "number": 88,
-    "name": "Gavotte de Grenoble - Berceuse pour un loulou",
-    "pages": [
-      "files/Gavotte de Grenoble - Berceuse pour un loulou-1.png"
-    ],
-    "danceGeometry": "Quartet",
-    "typeOfDance": "Gavotte, De Grenoble",
-    "labels": {
-      "Dance geometry": "Quartet",
-      "Type of dance": "Gavotte, De Grenoble"
-    },
-    "files": {
-      "pdf": "files/Gavotte de Grenoble - Berceuse pour un loulou.pdf",
-      "mscz": "files/Gavotte de Grenoble - Berceuse pour un loulou.mscz"
-    },
-    "folderStructure": [
-      "Gavotte of Grenoble"
-    ]
-  },
-  {
-    "number": 89,
-    "name": "Gavotte de Grenoble - Fiif",
-    "pages": [
-      "files/Gavotte de Grenoble - Fiif-1.png"
-    ],
-    "danceGeometry": "Quartet",
-    "typeOfDance": "Gavotte, De Grenoble",
-    "labels": {
-      "Dance geometry": "Quartet",
-      "Type of dance": "Gavotte, De Grenoble"
-    },
-    "files": {
-      "pdf": "files/Gavotte de Grenoble - Fiif.pdf",
-      "mscz": "files/Gavotte de Grenoble - Fiif.mscz"
-    },
-    "folderStructure": [
-      "Gavotte of Grenoble"
-    ]
-  },
-  {
-    "number": 90,
-    "name": "Gavotte de Grenoble - Gavotte d'Alzen",
-    "pages": [
-      "files/Gavotte de Grenoble - Gavotte dAlzen-1.png"
-    ],
-    "danceGeometry": "Quartet",
-    "typeOfDance": "Gavotte, De Grenoble",
-    "labels": {
-      "Dance geometry": "Quartet",
-      "Type of dance": "Gavotte, De Grenoble"
-    },
-    "files": {
-      "pdf": "files/Gavotte de Grenoble - Gavotte dAlzen.pdf",
-      "mscz": "files/Gavotte de Grenoble - Gavotte dAlzen.mscz"
-    },
-    "folderStructure": [
-      "Gavotte of Grenoble"
-    ]
-  },
-  {
-    "number": 91,
-    "name": "Gavotte de Grenoble - Ivoirine",
-    "pages": [
-      "files/Gavotte de Grenoble - Ivoirine-1.png"
-    ],
-    "danceGeometry": "Quartet",
-    "typeOfDance": "Gavotte, De Grenoble",
-    "labels": {
-      "Dance geometry": "Quartet",
-      "Type of dance": "Gavotte, De Grenoble"
-    },
-    "files": {
-      "pdf": "files/Gavotte de Grenoble - Ivoirine.pdf",
-      "mscz": "files/Gavotte de Grenoble - Ivoirine.mscz"
-    },
-    "folderStructure": [
-      "Gavotte of Grenoble"
-    ]
-  },
-  {
-    "number": 92,
     "name": "Gavotte de Grenoble - Mira",
     "pages": [
       "files/Gavotte de Grenoble - Mira-1.png"
@@ -1828,6 +1942,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Quartet",
       "Type of dance": "Gavotte, De Grenoble"
     },
@@ -1836,11 +1951,12 @@
       "mscz": "files/Gavotte de Grenoble - Mira.mscz"
     },
     "folderStructure": [
-      "Gavotte of Grenoble"
+      "Gavotte of Grenoble",
+      "Belgium"
     ]
   },
   {
-    "number": 93,
+    "number": 89,
     "name": "Gavotte de Grenoble - Very Jeune",
     "pages": [
       "files/Gavotte de Grenoble - Very Jeune-1.png"
@@ -1848,6 +1964,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Gavotte, De Grenoble",
     "labels": {
+      "Country": "Belgium",
       "Composer": "Hartwin Dhoore",
       "Dance geometry": "Quartet",
       "Original format": "xml",
@@ -1860,7 +1977,96 @@
       "mscz": "files/Gavotte de Grenoble - Very Jeune.mscz"
     },
     "folderStructure": [
-      "Gavotte of Grenoble"
+      "Gavotte of Grenoble",
+      "Belgium"
+    ]
+  },
+  {
+    "number": 90,
+    "name": "Gavotte de Grenoble - Berceuse pour un loulou",
+    "pages": [
+      "files/Gavotte de Grenoble - Berceuse pour un loulou-1.png"
+    ],
+    "danceGeometry": "Quartet",
+    "typeOfDance": "Gavotte, De Grenoble",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Quartet",
+      "Type of dance": "Gavotte, De Grenoble"
+    },
+    "files": {
+      "pdf": "files/Gavotte de Grenoble - Berceuse pour un loulou.pdf",
+      "mscz": "files/Gavotte de Grenoble - Berceuse pour un loulou.mscz"
+    },
+    "folderStructure": [
+      "Gavotte of Grenoble",
+      "France"
+    ]
+  },
+  {
+    "number": 91,
+    "name": "Gavotte de Grenoble - Fiif",
+    "pages": [
+      "files/Gavotte de Grenoble - Fiif-1.png"
+    ],
+    "danceGeometry": "Quartet",
+    "typeOfDance": "Gavotte, De Grenoble",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Quartet",
+      "Type of dance": "Gavotte, De Grenoble"
+    },
+    "files": {
+      "pdf": "files/Gavotte de Grenoble - Fiif.pdf",
+      "mscz": "files/Gavotte de Grenoble - Fiif.mscz"
+    },
+    "folderStructure": [
+      "Gavotte of Grenoble",
+      "France"
+    ]
+  },
+  {
+    "number": 92,
+    "name": "Gavotte de Grenoble - Gavotte d'Alzen",
+    "pages": [
+      "files/Gavotte de Grenoble - Gavotte dAlzen-1.png"
+    ],
+    "danceGeometry": "Quartet",
+    "typeOfDance": "Gavotte, De Grenoble",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Quartet",
+      "Type of dance": "Gavotte, De Grenoble"
+    },
+    "files": {
+      "pdf": "files/Gavotte de Grenoble - Gavotte dAlzen.pdf",
+      "mscz": "files/Gavotte de Grenoble - Gavotte dAlzen.mscz"
+    },
+    "folderStructure": [
+      "Gavotte of Grenoble",
+      "France"
+    ]
+  },
+  {
+    "number": 93,
+    "name": "Gavotte de Grenoble - Ivoirine",
+    "pages": [
+      "files/Gavotte de Grenoble - Ivoirine-1.png"
+    ],
+    "danceGeometry": "Quartet",
+    "typeOfDance": "Gavotte, De Grenoble",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Quartet",
+      "Type of dance": "Gavotte, De Grenoble"
+    },
+    "files": {
+      "pdf": "files/Gavotte de Grenoble - Ivoirine.pdf",
+      "mscz": "files/Gavotte de Grenoble - Ivoirine.mscz"
+    },
+    "folderStructure": [
+      "Gavotte of Grenoble",
+      "France"
     ]
   },
   {
@@ -1872,6 +2078,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Halay",
     "labels": {
+      "Country": "Turkey",
       "Dance geometry": "Circle",
       "Type of dance": "Halay"
     },
@@ -1879,7 +2086,9 @@
       "pdf": "files/Halay - Damat Havasi.pdf",
       "mscz": "files/Halay - Damat Havasi.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Turkey"
+    ]
   },
   {
     "number": 95,
@@ -1890,6 +2099,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
@@ -1897,46 +2107,12 @@
       "pdf": "files/Hanter Dro - Calimero.pdf",
       "mscz": "files/Hanter Dro - Calimero.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Belgium"
+    ]
   },
   {
     "number": 96,
-    "name": "Hanter Dro - De Languidig",
-    "pages": [
-      "files/Hanter Dro - De Languidig-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Hanter Dro",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Hanter Dro"
-    },
-    "files": {
-      "pdf": "files/Hanter Dro - De Languidig.pdf",
-      "mscz": "files/Hanter Dro - De Languidig.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 97,
-    "name": "Hanter Dro - Duhont'ar Ar Mane",
-    "pages": [
-      "files/Hanter Dro - Duhontar Ar Mane-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Hanter Dro",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Hanter Dro"
-    },
-    "files": {
-      "pdf": "files/Hanter Dro - Duhontar Ar Mane.pdf",
-      "mscz": "files/Hanter Dro - Duhontar Ar Mane.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 98,
     "name": "Hanter Dro - Flying Porto",
     "pages": [
       "files/Hanter Dro - Flying Porto-1.png"
@@ -1944,6 +2120,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
@@ -1951,10 +2128,12 @@
       "pdf": "files/Hanter Dro - Flying Porto.pdf",
       "mscz": "files/Hanter Dro - Flying Porto.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Belgium"
+    ]
   },
   {
-    "number": 99,
+    "number": 97,
     "name": "Hanter Dro - Hanterdrone",
     "pages": [
       "files/Hanter Dro - Hanterdrone-1.png"
@@ -1962,6 +2141,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
@@ -1969,28 +2149,12 @@
       "pdf": "files/Hanter Dro - Hanterdrone.pdf",
       "mscz": "files/Hanter Dro - Hanterdrone.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Belgium"
+    ]
   },
   {
-    "number": 100,
-    "name": "Hanter Dro - Kabalerien",
-    "pages": [
-      "files/Hanter Dro - Kabalerien-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Hanter Dro",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Hanter Dro"
-    },
-    "files": {
-      "pdf": "files/Hanter Dro - Kabalerien.pdf",
-      "mscz": "files/Hanter Dro - Kabalerien.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 101,
+    "number": 98,
     "name": "Hanter Dro - La belle dame",
     "pages": [
       "files/Hanter Dro - La belle dame-1.png"
@@ -1998,6 +2162,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
@@ -2005,7 +2170,72 @@
       "pdf": "files/Hanter Dro - La belle dame.pdf",
       "mscz": "files/Hanter Dro - La belle dame.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Belgium"
+    ]
+  },
+  {
+    "number": 99,
+    "name": "Hanter Dro - De Languidig",
+    "pages": [
+      "files/Hanter Dro - De Languidig-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Hanter Dro",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Single Line",
+      "Type of dance": "Hanter Dro"
+    },
+    "files": {
+      "pdf": "files/Hanter Dro - De Languidig.pdf",
+      "mscz": "files/Hanter Dro - De Languidig.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 100,
+    "name": "Hanter Dro - Duhont'ar Ar Mane",
+    "pages": [
+      "files/Hanter Dro - Duhontar Ar Mane-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Hanter Dro",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Single Line",
+      "Type of dance": "Hanter Dro"
+    },
+    "files": {
+      "pdf": "files/Hanter Dro - Duhontar Ar Mane.pdf",
+      "mscz": "files/Hanter Dro - Duhontar Ar Mane.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 101,
+    "name": "Hanter Dro - Kabalerien",
+    "pages": [
+      "files/Hanter Dro - Kabalerien-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Hanter Dro",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Single Line",
+      "Type of dance": "Hanter Dro"
+    },
+    "files": {
+      "pdf": "files/Hanter Dro - Kabalerien.pdf",
+      "mscz": "files/Hanter Dro - Kabalerien.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 102,
@@ -2016,6 +2246,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
@@ -2023,7 +2254,9 @@
       "pdf": "files/Hanter Dro - Nothing hill.pdf",
       "mscz": "files/Hanter Dro - Nothing hill.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 103,
@@ -2034,6 +2267,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
@@ -2041,28 +2275,12 @@
       "pdf": "files/Hanter Dro - Paumes damour.pdf",
       "mscz": "files/Hanter Dro - Paumes damour.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 104,
-    "name": "Hanter Dro - Pera Verde",
-    "pages": [
-      "files/Hanter Dro - Pera Verde-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Hanter Dro",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Hanter Dro"
-    },
-    "files": {
-      "pdf": "files/Hanter Dro - Pera Verde.pdf",
-      "mscz": "files/Hanter Dro - Pera Verde.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 105,
     "name": "Hanter Dro - Y a 10 marins sur mer",
     "pages": [
       "files/Hanter Dro - Y a 10 marins sur mer-1.png"
@@ -2070,6 +2288,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Hanter Dro",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Hanter Dro"
     },
@@ -2077,7 +2296,30 @@
       "pdf": "files/Hanter Dro - Y a 10 marins sur mer.pdf",
       "mscz": "files/Hanter Dro - Y a 10 marins sur mer.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 105,
+    "name": "Hanter Dro - Pera Verde",
+    "pages": [
+      "files/Hanter Dro - Pera Verde-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Hanter Dro",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Single Line",
+      "Type of dance": "Hanter Dro"
+    },
+    "files": {
+      "pdf": "files/Hanter Dro - Pera Verde.pdf",
+      "mscz": "files/Hanter Dro - Pera Verde.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 106,
@@ -2088,6 +2330,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Hasapiko",
     "labels": {
+      "Country": "Greece",
       "Dance geometry": "Circle",
       "Type of dance": "Hasapiko"
     },
@@ -2095,7 +2338,9 @@
       "pdf": "files/Hasapiko - Nostalgic.pdf",
       "mscz": "files/Hasapiko - Nostalgic.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Greece"
+    ]
   },
   {
     "number": 107,
@@ -2106,6 +2351,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Kost Ar C'hoat",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Kost Ar C'hoat",
       "Work title": "Untitled #1"
@@ -2114,7 +2360,9 @@
       "pdf": "files/Kost Ar CHoat - Untitled No1.pdf",
       "mscz": "files/Kost Ar CHoat - Untitled No1.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 108,
@@ -2125,6 +2373,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Kost Ar C'hoat",
     "labels": {
+      "Country": "France",
       "Composer": "Trad.",
       "Dance geometry": "Single Line",
       "Type of dance": "Kost Ar C'hoat",
@@ -2134,7 +2383,9 @@
       "pdf": "files/Kost Ar CHoat - Untitled No2.pdf",
       "mscz": "files/Kost Ar CHoat - Untitled No2.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 109,
@@ -2145,6 +2396,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Lambada",
     "labels": {
+      "Country": "Bolivia",
       "Composer": "Kaoma",
       "Dance geometry": "Couples",
       "Type of dance": "Lambada",
@@ -2154,7 +2406,9 @@
       "pdf": "files/Lambada - Llorando se fue.pdf",
       "mscz": "files/Lambada - Llorando se fue.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Bolivia"
+    ]
   },
   {
     "number": 110,
@@ -2165,6 +2419,7 @@
     "danceGeometry": "Line dance",
     "typeOfDance": "Madison",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Line dance",
       "Type of dance": "Madison",
       "Work title": "Tzadik Katamar"
@@ -2173,7 +2428,9 @@
       "pdf": "files/Madison - French Connexions.pdf",
       "mscz": "files/Madison - French Connexions.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 111,
@@ -2184,6 +2441,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Malhão",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Malhão"
     },
@@ -2191,7 +2449,9 @@
       "pdf": "files/Malhao - Da Graca.pdf",
       "mscz": "files/Malhao - Da Graca.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 112,
@@ -2202,6 +2462,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Malhão",
     "labels": {
+      "Country": "Portugal",
       "Composer": "Trad.",
       "Dance geometry": "Parallel lines",
       "Original format": "musicxml",
@@ -2212,7 +2473,9 @@
       "pdf": "files/Malhao - Malhao Malhao.pdf",
       "mscz": "files/Malhao - Malhao Malhao.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 113,
@@ -2223,6 +2486,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Maraichine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Maraichine"
     },
@@ -2231,7 +2495,8 @@
       "mscz": "files/Maraichine - No1.mscz"
     },
     "folderStructure": [
-      "Ciac Boum's set"
+      "Ciac Boum's set",
+      "France"
     ]
   },
   {
@@ -2243,6 +2508,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Maraichine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Maraichine"
     },
@@ -2251,7 +2517,8 @@
       "mscz": "files/Maraichine - No2.mscz"
     },
     "folderStructure": [
-      "Ciac Boum's set"
+      "Ciac Boum's set",
+      "France"
     ]
   },
   {
@@ -2263,6 +2530,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Maraichine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Maraichine"
     },
@@ -2271,7 +2539,8 @@
       "mscz": "files/Maraichine - No3.mscz"
     },
     "folderStructure": [
-      "Ciac Boum's set"
+      "Ciac Boum's set",
+      "France"
     ]
   },
   {
@@ -2283,6 +2552,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Marchoise",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Marchoise"
     },
@@ -2291,7 +2561,8 @@
       "mscz": "files/Marchoise - No1.mscz"
     },
     "folderStructure": [
-      "Guerbigny's set"
+      "Guerbigny's set",
+      "France"
     ]
   },
   {
@@ -2303,6 +2574,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Marchoise",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Marchoise"
     },
@@ -2311,7 +2583,8 @@
       "mscz": "files/Marchoise - No2.mscz"
     },
     "folderStructure": [
-      "Guerbigny's set"
+      "Guerbigny's set",
+      "France"
     ]
   },
   {
@@ -2323,6 +2596,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Marchoise",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Quartet",
       "Type of dance": "Marchoise"
     },
@@ -2331,7 +2605,8 @@
       "mscz": "files/Marchoise - No3.mscz"
     },
     "folderStructure": [
-      "Guerbigny's set"
+      "Guerbigny's set",
+      "France"
     ]
   },
   {
@@ -2343,6 +2618,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Brazil ",
     "labels": {
+      "Country": "Brazil",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Brazil ",
@@ -2365,6 +2641,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Brazil ",
     "labels": {
+      "Country": "Brazil",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Brazil "
     },
@@ -2385,6 +2662,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Cape Verde ",
     "labels": {
+      "Country": "Cape Verde",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Cape Verde ",
@@ -2407,6 +2685,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Cape Verde ",
     "labels": {
+      "Country": "Cape Verde",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Cape Verde ",
@@ -2422,24 +2701,24 @@
   },
   {
     "number": 123,
-    "name": "Mazurka - A bruxa",
+    "name": "Mazurka - Alio",
     "pages": [
-      "files/Mazurka - A bruxa-1.png"
+      "files/Mazurka - Alio-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
-      "Composer": "Antón Seoane",
+      "Country": "Belgium",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe",
-      "Work title": "A bruxa"
+      "Type of dance": "Mazurka, Europe"
     },
     "files": {
-      "pdf": "files/Mazurka - A bruxa.pdf",
-      "mscz": "files/Mazurka - A bruxa.mscz"
+      "pdf": "files/Mazurka - Alio.pdf",
+      "mscz": "files/Mazurka - Alio.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "Belgium"
     ]
   },
   {
@@ -2451,6 +2730,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2459,51 +2739,12 @@
       "mscz": "files/Mazurka - A Clement.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
     "number": 125,
-    "name": "Mazurka - Alio",
-    "pages": [
-      "files/Mazurka - Alio-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Alio.pdf",
-      "mscz": "files/Mazurka - Alio.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 126,
-    "name": "Mazurka - Almofada",
-    "pages": [
-      "files/Mazurka - Almofada-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Almofada.pdf",
-      "mscz": "files/Mazurka - Almofada.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 127,
     "name": "Mazurka - Au bord de l'eau",
     "pages": [
       "files/Mazurka - Au bord de leau-1.png"
@@ -2511,6 +2752,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2519,31 +2761,12 @@
       "mscz": "files/Mazurka - Au bord de leau.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 128,
-    "name": "Mazurka - Biqueiras d'aço",
-    "pages": [
-      "files/Mazurka - Biqueiras daco-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Europe",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Europe"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Biqueiras daco.pdf",
-      "mscz": "files/Mazurka - Biqueiras daco.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 129,
+    "number": 126,
     "name": "Mazurka - Candela",
     "pages": [
       "files/Mazurka - Candela-1.png"
@@ -2551,6 +2774,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2559,11 +2783,12 @@
       "mscz": "files/Mazurka - Candela.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 130,
+    "number": 127,
     "name": "Mazurka - De la Beluse",
     "pages": [
       "files/Mazurka - De la Beluse-1.png"
@@ -2571,6 +2796,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Composer": "Laurent Geoffroy",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe",
@@ -2581,11 +2807,12 @@
       "mscz": "files/Mazurka - De la Beluse.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 131,
+    "number": 128,
     "name": "Mazurka - Des Tuileries",
     "pages": [
       "files/Mazurka - Des Tuileries-1.png"
@@ -2593,6 +2820,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Composer": "Marten Decombel",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe",
@@ -2603,77 +2831,12 @@
       "mscz": "files/Mazurka - Des Tuileries.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 132,
-    "name": "Mazurka - Donegal",
-    "pages": [
-      "files/Mazurka - Donegal-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Ireland",
-    "labels": {
-      "Composer": "Trad.",
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Ireland",
-      "Work title": "Donegal"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Donegal.pdf",
-      "mscz": "files/Mazurka - Donegal.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 133,
-    "name": "Mazurka - Far away",
-    "pages": [
-      "files/Mazurka - Far away-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, U.S.A.",
-    "labels": {
-      "Composer": "Pete Jung",
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, U.S.A.",
-      "Work title": "Far away"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Far away.pdf",
-      "mscz": "files/Mazurka - Far away.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 134,
-    "name": "Mazurka - Flatbush waltz",
-    "pages": [
-      "files/Mazurka - Flatbush waltz-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, U.S.A.",
-    "labels": {
-      "Composer": "Andy Statman",
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, U.S.A.",
-      "Work title": "Flatbush Waltz"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Flatbush waltz.pdf",
-      "mscz": "files/Mazurka - Flatbush waltz.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 135,
+    "number": 129,
     "name": "Mazurka - Il neige a Porto",
     "pages": [
       "files/Mazurka - Il neige a Porto-1.png"
@@ -2681,6 +2844,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2689,31 +2853,12 @@
       "mscz": "files/Mazurka - Il neige a Porto.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 136,
-    "name": "Mazurka - Inisheer",
-    "pages": [
-      "files/Mazurka - Inisheer-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Ireland",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Ireland"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Inisheer.pdf",
-      "mscz": "files/Mazurka - Inisheer.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 137,
+    "number": 130,
     "name": "Mazurka - Italienne",
     "pages": [
       "files/Mazurka - Italienne-1.png"
@@ -2721,6 +2866,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2729,11 +2875,12 @@
       "mscz": "files/Mazurka - Italienne.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 138,
+    "number": 131,
     "name": "Mazurka - Je soi perdut",
     "pages": [
       "files/Mazurka - Je soi perdut-1.png"
@@ -2741,6 +2888,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2749,11 +2897,12 @@
       "mscz": "files/Mazurka - Je soi perdut.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 139,
+    "number": 132,
     "name": "Mazurka - L'impasse",
     "pages": [
       "files/Mazurka - Limpasse-1.png"
@@ -2761,6 +2910,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2769,11 +2919,12 @@
       "mscz": "files/Mazurka - Limpasse.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 140,
+    "number": 133,
     "name": "Mazurka - La discrète",
     "pages": [
       "files/Mazurka - La discrete-1.png"
@@ -2781,6 +2932,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe",
@@ -2791,11 +2943,12 @@
       "mscz": "files/Mazurka - La discrete.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 141,
+    "number": 134,
     "name": "Mazurka - La nonchalante",
     "pages": [
       "files/Mazurka - La nonchalante-1.png"
@@ -2803,6 +2956,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2811,11 +2965,12 @@
       "mscz": "files/Mazurka - La nonchalante.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 142,
+    "number": 135,
     "name": "Mazurka - La p'tite fée",
     "pages": [
       "files/Mazurka - La ptite fee-1.png"
@@ -2823,6 +2978,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2831,11 +2987,12 @@
       "mscz": "files/Mazurka - La ptite fee.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 143,
+    "number": 136,
     "name": "Mazurka - La paire de Saulxures",
     "pages": [
       "files/Mazurka - La paire de Saulxures-1.png"
@@ -2843,6 +3000,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2851,11 +3009,12 @@
       "mscz": "files/Mazurka - La paire de Saulxures.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 144,
+    "number": 137,
     "name": "Mazurka - Les écoliers de Saint Genest",
     "pages": [
       "files/Mazurka - Les ecoliers de Saint Genest-1.png"
@@ -2863,6 +3022,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2871,11 +3031,12 @@
       "mscz": "files/Mazurka - Les ecoliers de Saint Genest.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 145,
+    "number": 138,
     "name": "Mazurka - Lisbonne",
     "pages": [
       "files/Mazurka - Lisbonne-1.png"
@@ -2883,6 +3044,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2891,11 +3053,12 @@
       "mscz": "files/Mazurka - Lisbonne.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 146,
+    "number": 139,
     "name": "Mazurka - Motorway",
     "pages": [
       "files/Mazurka - Motorway-1.png"
@@ -2903,6 +3066,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2911,11 +3075,12 @@
       "mscz": "files/Mazurka - Motorway.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 147,
+    "number": 140,
     "name": "Mazurka - Mouchti",
     "pages": [
       "files/Mazurka - Mouchti-1.png"
@@ -2923,6 +3088,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2931,11 +3097,12 @@
       "mscz": "files/Mazurka - Mouchti.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 148,
+    "number": 141,
     "name": "Mazurka - Musike",
     "pages": [
       "files/Mazurka - Musike-1.png"
@@ -2943,6 +3110,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2951,11 +3119,12 @@
       "mscz": "files/Mazurka - Musike.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 149,
+    "number": 142,
     "name": "Mazurka - Nadiejda",
     "pages": [
       "files/Mazurka - Nadiejda-1.png"
@@ -2963,6 +3132,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe",
@@ -2973,11 +3143,12 @@
       "mscz": "files/Mazurka - Nadiejda.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 150,
+    "number": 143,
     "name": "Mazurka - Natzurka",
     "pages": [
       "files/Mazurka - Natzurka-1.png"
@@ -2985,6 +3156,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -2993,11 +3165,12 @@
       "mscz": "files/Mazurka - Natzurka.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 151,
+    "number": 144,
     "name": "Mazurka - Nina",
     "pages": [
       "files/Mazurka - Nina-1.png"
@@ -3005,6 +3178,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -3013,11 +3187,12 @@
       "mscz": "files/Mazurka - Nina.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 152,
+    "number": 145,
     "name": "Mazurka - Solitude",
     "pages": [
       "files/Mazurka - Solitude-1.png"
@@ -3025,6 +3200,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -3033,31 +3209,12 @@
       "mscz": "files/Mazurka - Solitude.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 153,
-    "name": "Mazurka - Sonny Brogan's",
-    "pages": [
-      "files/Mazurka - Sonny Brogans-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Ireland",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Ireland"
-    },
-    "files": {
-      "pdf": "files/Mazurka - Sonny Brogans.pdf",
-      "mscz": "files/Mazurka - Sonny Brogans.mscz"
-    },
-    "folderStructure": [
-      "Europe"
-    ]
-  },
-  {
-    "number": 154,
+    "number": 146,
     "name": "Mazurka - Tourbillonne",
     "pages": [
       "files/Mazurka - Tourbillonne-1.png"
@@ -3065,6 +3222,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -3073,11 +3231,12 @@
       "mscz": "files/Mazurka - Tourbillonne.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
     ]
   },
   {
-    "number": 155,
+    "number": 147,
     "name": "Mazurka - Trafic d'orgasmes",
     "pages": [
       "files/Mazurka - Trafic dorgasmes-1.png"
@@ -3085,6 +3244,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Mazurka, Europe",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -3093,7 +3253,192 @@
       "mscz": "files/Mazurka - Trafic dorgasmes.mscz"
     },
     "folderStructure": [
-      "Europe"
+      "Europe",
+      "France"
+    ]
+  },
+  {
+    "number": 148,
+    "name": "Mazurka - Donegal",
+    "pages": [
+      "files/Mazurka - Donegal-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, Ireland",
+    "labels": {
+      "Country": "Ireland",
+      "Composer": "Trad.",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, Ireland",
+      "Work title": "Donegal"
+    },
+    "files": {
+      "pdf": "files/Mazurka - Donegal.pdf",
+      "mscz": "files/Mazurka - Donegal.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "Ireland"
+    ]
+  },
+  {
+    "number": 149,
+    "name": "Mazurka - Inisheer",
+    "pages": [
+      "files/Mazurka - Inisheer-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, Ireland",
+    "labels": {
+      "Country": "Ireland",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, Ireland"
+    },
+    "files": {
+      "pdf": "files/Mazurka - Inisheer.pdf",
+      "mscz": "files/Mazurka - Inisheer.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "Ireland"
+    ]
+  },
+  {
+    "number": 150,
+    "name": "Mazurka - Sonny Brogan's",
+    "pages": [
+      "files/Mazurka - Sonny Brogans-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, Ireland",
+    "labels": {
+      "Country": "Ireland",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, Ireland"
+    },
+    "files": {
+      "pdf": "files/Mazurka - Sonny Brogans.pdf",
+      "mscz": "files/Mazurka - Sonny Brogans.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "Ireland"
+    ]
+  },
+  {
+    "number": 151,
+    "name": "Mazurka - Almofada",
+    "pages": [
+      "files/Mazurka - Almofada-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, Europe",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, Europe"
+    },
+    "files": {
+      "pdf": "files/Mazurka - Almofada.pdf",
+      "mscz": "files/Mazurka - Almofada.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "Portugal"
+    ]
+  },
+  {
+    "number": 152,
+    "name": "Mazurka - Biqueiras d'aço",
+    "pages": [
+      "files/Mazurka - Biqueiras daco-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, Europe",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, Europe"
+    },
+    "files": {
+      "pdf": "files/Mazurka - Biqueiras daco.pdf",
+      "mscz": "files/Mazurka - Biqueiras daco.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "Portugal"
+    ]
+  },
+  {
+    "number": 153,
+    "name": "Mazurka - A bruxa",
+    "pages": [
+      "files/Mazurka - A bruxa-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, Europe",
+    "labels": {
+      "Country": "Spain",
+      "Composer": "Antón Seoane",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, Europe",
+      "Work title": "A bruxa"
+    },
+    "files": {
+      "pdf": "files/Mazurka - A bruxa.pdf",
+      "mscz": "files/Mazurka - A bruxa.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "Spain"
+    ]
+  },
+  {
+    "number": 154,
+    "name": "Mazurka - Far away",
+    "pages": [
+      "files/Mazurka - Far away-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, U.S.A.",
+    "labels": {
+      "Country": "U.S.A.",
+      "Composer": "Pete Jung",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, U.S.A.",
+      "Work title": "Far away"
+    },
+    "files": {
+      "pdf": "files/Mazurka - Far away.pdf",
+      "mscz": "files/Mazurka - Far away.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "U.S.A."
+    ]
+  },
+  {
+    "number": 155,
+    "name": "Mazurka - Flatbush waltz",
+    "pages": [
+      "files/Mazurka - Flatbush waltz-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Mazurka, U.S.A.",
+    "labels": {
+      "Country": "U.S.A.",
+      "Composer": "Andy Statman",
+      "Dance geometry": "Couples",
+      "Type of dance": "Mazurka, U.S.A.",
+      "Work title": "Flatbush Waltz"
+    },
+    "files": {
+      "pdf": "files/Mazurka - Flatbush waltz.pdf",
+      "mscz": "files/Mazurka - Flatbush waltz.mscz"
+    },
+    "folderStructure": [
+      "Europe",
+      "U.S.A."
     ]
   },
   {
@@ -3105,6 +3450,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Muñeira",
     "labels": {
+      "Country": "Spain",
       "Dance geometry": "Circle",
       "Original format": "musicxml",
       "Type of dance": "Muñeira",
@@ -3114,17 +3460,20 @@
       "pdf": "files/Muneira - A camposa.pdf",
       "mscz": "files/Muneira - A camposa.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
   },
   {
     "number": 157,
-    "name": "Muñeira - De Chantada",
+    "name": "Muñeira - De Chantada",
     "pages": [
       "files/Muneira - De Chantada-1.png"
     ],
     "danceGeometry": "Circle",
     "typeOfDance": "Muñeira",
     "labels": {
+      "Country": "Spain",
       "Dance geometry": "Circle",
       "Type of dance": "Muñeira"
     },
@@ -3132,7 +3481,9 @@
       "pdf": "files/Muneira - De Chantada.pdf",
       "mscz": "files/Muneira - De Chantada.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
   },
   {
     "number": 158,
@@ -3143,6 +3494,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Muñeira",
     "labels": {
+      "Country": "Spain",
       "Dance geometry": "Circle",
       "Type of dance": "Muñeira"
     },
@@ -3150,7 +3502,9 @@
       "pdf": "files/Muneira - De Ponte Sampaio.pdf",
       "mscz": "files/Muneira - De Ponte Sampaio.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
   },
   {
     "number": 159,
@@ -3161,6 +3515,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Murinheira",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Murinheira"
     },
@@ -3168,7 +3523,9 @@
       "pdf": "files/Murinheira - Burriqueira.pdf",
       "mscz": "files/Murinheira - Burriqueira.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 160,
@@ -3179,6 +3536,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Murinheira",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Murinheira"
     },
@@ -3186,7 +3544,9 @@
       "pdf": "files/Murinheira - Transmontana.pdf",
       "mscz": "files/Murinheira - Transmontana.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 161,
@@ -3197,6 +3557,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Pilé Menu",
     "labels": {
+      "Country": "France",
       "Composer": "Trad.,",
       "Dance geometry": "Circle",
       "Type of dance": "Pilé Menu",
@@ -3206,7 +3567,9 @@
       "pdf": "files/Pile Menu - Non tu nauras pas mon ami.pdf",
       "mscz": "files/Pile Menu - Non tu nauras pas mon ami.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 162,
@@ -3217,6 +3580,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Plinn",
     "labels": {
+      "Country": "France",
       "Composer": "Trad.",
       "Dance geometry": "Single Line",
       "Type of dance": "Plinn",
@@ -3226,7 +3590,9 @@
       "pdf": "files/Plinn - E garnison.pdf",
       "mscz": "files/Plinn - E garnison.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 163,
@@ -3237,6 +3603,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Polka",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Polka"
     },
@@ -3244,28 +3611,12 @@
       "pdf": "files/Polka - DAuvergne No1.pdf",
       "mscz": "files/Polka - DAuvergne No1.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 164,
-    "name": "Polka - John Egan's",
-    "pages": [
-      "files/Polka - John Egans-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Polka",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Polka"
-    },
-    "files": {
-      "pdf": "files/Polka - John Egans.pdf",
-      "mscz": "files/Polka - John Egans.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 165,
     "name": "Polka - L'élan",
     "pages": [
       "files/Polka - Lelan-1.png"
@@ -3273,6 +3624,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Polka",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Polka"
     },
@@ -3280,10 +3632,75 @@
       "pdf": "files/Polka - Lelan.pdf",
       "mscz": "files/Polka - Lelan.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 165,
+    "name": "Polka - John Egan's",
+    "pages": [
+      "files/Polka - John Egans-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Polka",
+    "labels": {
+      "Country": "Ireland",
+      "Dance geometry": "Couples",
+      "Type of dance": "Polka"
+    },
+    "files": {
+      "pdf": "files/Polka - John Egans.pdf",
+      "mscz": "files/Polka - John Egans.mscz"
+    },
+    "folderStructure": [
+      "Ireland"
+    ]
   },
   {
     "number": 166,
+    "name": "Polka - The Ballydesmond 1",
+    "pages": [
+      "files/Polka - The Ballydesmond 1-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Polka",
+    "labels": {
+      "Country": "Ireland",
+      "Dance geometry": "Couples",
+      "Type of dance": "Polka"
+    },
+    "files": {
+      "pdf": "files/Polka - The Ballydesmond 1.pdf",
+      "mscz": "files/Polka - The Ballydesmond 1.mscz"
+    },
+    "folderStructure": [
+      "Ireland"
+    ]
+  },
+  {
+    "number": 167,
+    "name": "Polka - The Ballydesmond 2",
+    "pages": [
+      "files/Polka - The Ballydesmond 2-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Polka",
+    "labels": {
+      "Country": "Ireland",
+      "Dance geometry": "Couples",
+      "Type of dance": "Polka"
+    },
+    "files": {
+      "pdf": "files/Polka - The Ballydesmond 2.pdf",
+      "mscz": "files/Polka - The Ballydesmond 2.mscz"
+    },
+    "folderStructure": [
+      "Ireland"
+    ]
+  },
+  {
+    "number": 168,
     "name": "Polka - Mairi's wedding",
     "pages": [
       "files/Polka - Mairis wedding-1.png"
@@ -3291,6 +3708,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Polka",
     "labels": {
+      "Country": "Scotland",
       "Composer": "Trad.",
       "Dance geometry": "Couples",
       "Type of dance": "Polka",
@@ -3300,43 +3718,9 @@
       "pdf": "files/Polka - Mairis wedding.pdf",
       "mscz": "files/Polka - Mairis wedding.mscz"
     },
-    "folderStructure": []
-  },
-  {
-    "number": 167,
-    "name": "Polka - The Ballydesmond 1",
-    "pages": [
-      "files/Polka - The Ballydesmond 1-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Polka",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Polka"
-    },
-    "files": {
-      "pdf": "files/Polka - The Ballydesmond 1.pdf",
-      "mscz": "files/Polka - The Ballydesmond 1.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 168,
-    "name": "Polka - The Ballydesmond 2",
-    "pages": [
-      "files/Polka - The Ballydesmond 2-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Polka",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Polka"
-    },
-    "files": {
-      "pdf": "files/Polka - The Ballydesmond 2.pdf",
-      "mscz": "files/Polka - The Ballydesmond 2.mscz"
-    },
-    "folderStructure": []
+    "folderStructure": [
+      "Scotland"
+    ]
   },
   {
     "number": 169,
@@ -3347,6 +3731,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3354,7 +3739,9 @@
       "pdf": "files/Polska - Efter Kings Selma.pdf",
       "mscz": "files/Polska - Efter Kings Selma.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 170,
@@ -3365,6 +3752,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Couples",
       "Type of dance": "Polska"
     },
@@ -3372,7 +3760,9 @@
       "pdf": "files/Polska - Efter Olof Tillman.pdf",
       "mscz": "files/Polska - Efter Olof Tillman.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 171,
@@ -3383,6 +3773,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3390,7 +3781,9 @@
       "pdf": "files/Polska - Flodens dod.pdf",
       "mscz": "files/Polska - Flodens dod.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 172,
@@ -3401,6 +3794,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3408,7 +3802,9 @@
       "pdf": "files/Polska - Hoglorfen.pdf",
       "mscz": "files/Polska - Hoglorfen.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 173,
@@ -3419,6 +3815,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3426,7 +3823,9 @@
       "pdf": "files/Polska - Krus Polska.pdf",
       "mscz": "files/Polska - Krus Polska.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 174,
@@ -3437,6 +3836,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3444,7 +3844,9 @@
       "pdf": "files/Slangpolska - Efter Byss-Calle.pdf",
       "mscz": "files/Slangpolska - Efter Byss-Calle.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 175,
@@ -3455,6 +3857,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3462,7 +3865,9 @@
       "pdf": "files/Slangpolska - Efter Juringius.pdf",
       "mscz": "files/Slangpolska - Efter Juringius.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 176,
@@ -3473,6 +3878,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3480,7 +3886,9 @@
       "pdf": "files/Slangpolska - Fran Barseback.pdf",
       "mscz": "files/Slangpolska - Fran Barseback.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 177,
@@ -3491,6 +3899,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Polska",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Circle",
       "Type of dance": "Polska"
     },
@@ -3498,7 +3907,9 @@
       "pdf": "files/Slangpolska - Fran Halleforsnas.pdf",
       "mscz": "files/Slangpolska - Fran Halleforsnas.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Sweden"
+    ]
   },
   {
     "number": 178,
@@ -3509,6 +3920,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Reel, Continental European",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Reel, Continental European"
     },
@@ -3517,7 +3929,8 @@
       "mscz": "files/Reel - Farewell to Chernobyl.mscz"
     },
     "folderStructure": [
-      "Continental European"
+      "Continental European",
+      "France"
     ]
   },
   {
@@ -3529,6 +3942,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Reel, Scotland",
     "labels": {
+      "Country": "Scotland",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Reel, Scotland"
     },
@@ -3537,6 +3951,7 @@
       "mscz": "files/Reel - The Ballivanich.mscz"
     },
     "folderStructure": [
+      "Scotland",
       "Scotland"
     ]
   },
@@ -3549,6 +3964,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Reel, Scotland",
     "labels": {
+      "Country": "Scotland",
       "Dance geometry": "Parallel lines",
       "Original format": "musicxml",
       "Type of dance": "Reel, Scotland",
@@ -3560,6 +3976,7 @@
       "mscz": "files/Reel - The deil among the tailors.mscz"
     },
     "folderStructure": [
+      "Scotland",
       "Scotland"
     ]
   },
@@ -3572,6 +3989,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Repasseado",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Quartet",
       "Type of dance": "Repasseado"
     },
@@ -3579,7 +3997,9 @@
       "pdf": "files/Repasseado - Carapau Preto.pdf",
       "mscz": "files/Repasseado - Carapau Preto.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 182,
@@ -3590,6 +4010,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Repasseado",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Quartet",
       "Type of dance": "Repasseado"
     },
@@ -3597,7 +4018,9 @@
       "pdf": "files/Repasseado - De Rio dOnor.pdf",
       "mscz": "files/Repasseado - De Rio dOnor.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 183,
@@ -3608,6 +4031,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Repasseado",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Quartet",
       "Type of dance": "Repasseado"
     },
@@ -3615,7 +4039,9 @@
       "pdf": "files/Repasseado - Do Vasco.pdf",
       "mscz": "files/Repasseado - Do Vasco.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 184,
@@ -3626,6 +4052,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Rigodon",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Rigodon"
     },
@@ -3633,7 +4060,9 @@
       "pdf": "files/Rigodon - Lane.pdf",
       "mscz": "files/Rigodon - Lane.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 185,
@@ -3644,6 +4073,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, 3 step Ronde ",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, 3 step Ronde "
     },
@@ -3652,7 +4082,8 @@
       "mscz": "files/3 step Ronde - Tri Martolod.mscz"
     },
     "folderStructure": [
-      "3 step Ronde"
+      "3 step Ronde",
+      "France"
     ]
   },
   {
@@ -3664,6 +4095,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, Rond de Landéda",
     "labels": {
+      "Country": "France",
       "Composer": "Trad.",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, Rond de Landéda",
@@ -3674,7 +4106,8 @@
       "mscz": "files/Rond de Landeda - Pedon war bont an Naoned.mscz"
     },
     "folderStructure": [
-      "Rond de Landéda"
+      "Rond de Landéda",
+      "France"
     ]
   },
   {
@@ -3686,6 +4119,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, Rond de Landéda",
     "labels": {
+      "Country": "France",
       "Composer": "Trad.",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, Rond de Landéda",
@@ -3696,7 +4130,8 @@
       "mscz": "files/Rond de Landeda - Untitled No1.mscz"
     },
     "folderStructure": [
-      "Rond de Landéda"
+      "Rond de Landéda",
+      "France"
     ]
   },
   {
@@ -3708,6 +4143,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, Ronde d'Argenton",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, Ronde d'Argenton"
     },
@@ -3716,7 +4152,8 @@
       "mscz": "files/Ronde dArgenton - Le jeune homme de Nantes.mscz"
     },
     "folderStructure": [
-      "Ronde d'Argenton"
+      "Ronde d'Argenton",
+      "France"
     ]
   },
   {
@@ -3728,6 +4165,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, du Quercy ",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, du Quercy "
     },
@@ -3736,7 +4174,8 @@
       "mscz": "files/Ronde du Quercy - Amazone.mscz"
     },
     "folderStructure": [
-      "Ronde du Quercy"
+      "Ronde du Quercy",
+      "France"
     ]
   },
   {
@@ -3748,6 +4187,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, du Quercy ",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, du Quercy "
     },
@@ -3756,7 +4196,8 @@
       "mscz": "files/Ronde du Quercy - De bon matin.mscz"
     },
     "folderStructure": [
-      "Ronde du Quercy"
+      "Ronde du Quercy",
+      "France"
     ]
   },
   {
@@ -3768,6 +4209,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, du Quercy ",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, du Quercy "
     },
@@ -3776,7 +4218,8 @@
       "mscz": "files/Ronde du Quercy - Dejol pont de Lion.mscz"
     },
     "folderStructure": [
-      "Ronde du Quercy"
+      "Ronde du Quercy",
+      "France"
     ]
   },
   {
@@ -3788,6 +4231,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Ronde, du Quercy ",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Ronde, du Quercy "
     },
@@ -3796,7 +4240,8 @@
       "mscz": "files/Ronde du Quercy - Dessous la grava de Bordeu.mscz"
     },
     "folderStructure": [
-      "Ronde du Quercy"
+      "Ronde du Quercy",
+      "France"
     ]
   },
   {
@@ -3808,6 +4253,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Rondeau, En chaine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Rondeau, En chaine"
     },
@@ -3816,7 +4262,8 @@
       "mscz": "files/Rondeau en chaine - KC.mscz"
     },
     "folderStructure": [
-      "En chaine"
+      "En chaine",
+      "France"
     ]
   },
   {
@@ -3828,6 +4275,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Rondeau, En chaine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Rondeau, En chaine"
     },
@@ -3836,7 +4284,8 @@
       "mscz": "files/Rondeau en chaine - Loeil du cyclone.mscz"
     },
     "folderStructure": [
-      "En chaine"
+      "En chaine",
+      "France"
     ]
   },
   {
@@ -3848,6 +4297,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Rondeau, En chaine",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Rondeau, En chaine"
     },
@@ -3856,7 +4306,8 @@
       "mscz": "files/Rondeau en chaine - Valhermeil.mscz"
     },
     "folderStructure": [
-      "En chaine"
+      "En chaine",
+      "France"
     ]
   },
   {
@@ -3888,6 +4339,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Rumba",
     "labels": {
+      "Country": "Spain",
       "Composer": "Trad.",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Rumba",
@@ -3897,7 +4349,9 @@
       "pdf": "files/Rumba - Dos cinco marineiros.pdf",
       "mscz": "files/Rumba - Dos cinco marineiros.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
   },
   {
     "number": 198,
@@ -3908,6 +4362,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Schottis (Sweden)",
     "labels": {
+      "Country": "Sweden",
       "Composer": "Trad.",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Schottis (Sweden)",
@@ -3918,116 +4373,81 @@
       "mscz": "files/Schottis - Stures.mscz"
     },
     "folderStructure": [
-      "Schottis (Sweden)"
+      "Schottis (Sweden)",
+      "Sweden"
     ]
   },
   {
     "number": 199,
-    "name": "Scottish - À l'amante",
+    "name": "Scottish - Hellebore",
     "pages": [
-      "files/Scottish - A lamante-1.png"
+      "files/Scottish - Hellebore-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
     "files": {
-      "pdf": "files/Scottish - A lamante.pdf",
-      "mscz": "files/Scottish - A lamante.mscz"
+      "pdf": "files/Scottish - Hellebore.pdf",
+      "mscz": "files/Scottish - Hellebore.mscz"
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "Belgium"
     ]
   },
   {
     "number": 200,
-    "name": "Scottish - Brittish swing",
+    "name": "Scottish - Pink Molly",
     "pages": [
-      "files/Scottish - Brittish swing-1.png"
+      "files/Scottish - Pink Molly-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
     "files": {
-      "pdf": "files/Scottish - Brittish swing.pdf",
-      "mscz": "files/Scottish - Brittish swing.mscz"
+      "pdf": "files/Scottish - Pink Molly.pdf",
+      "mscz": "files/Scottish - Pink Molly.mscz"
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "Belgium"
     ]
   },
   {
     "number": 201,
-    "name": "Scottish - Du 29 de mars",
+    "name": "Scottish - Too late to sleep",
     "pages": [
-      "files/Scottish - Du 29 de mars-1.png"
+      "files/Scottish - Too late to sleep-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
     "files": {
-      "pdf": "files/Scottish - Du 29 de mars.pdf",
-      "mscz": "files/Scottish - Du 29 de mars.mscz"
+      "pdf": "files/Scottish - Too late to sleep.pdf",
+      "mscz": "files/Scottish - Too late to sleep.mscz"
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "Belgium"
     ]
   },
   {
     "number": 202,
-    "name": "Scottish - Du Taraf",
-    "pages": [
-      "files/Scottish - Du Taraf-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Even",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Even"
-    },
-    "files": {
-      "pdf": "files/Scottish - Du Taraf.pdf",
-      "mscz": "files/Scottish - Du Taraf.mscz"
-    },
-    "folderStructure": [
-      "Scottish (European Balfolk)",
-      "Even"
-    ]
-  },
-  {
-    "number": 203,
-    "name": "Scottish - Esperanza",
-    "pages": [
-      "files/Scottish - Esperanza-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Even",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Even"
-    },
-    "files": {
-      "pdf": "files/Scottish - Esperanza.pdf",
-      "mscz": "files/Scottish - Esperanza.mscz"
-    },
-    "folderStructure": [
-      "Scottish (European Balfolk)",
-      "Even"
-    ]
-  },
-  {
-    "number": 204,
     "name": "Scottish - Go Mauve",
     "pages": [
       "files/Scottish - Go Mauve-1.png"
@@ -4044,32 +4464,127 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "England"
     ]
   },
   {
-    "number": 205,
-    "name": "Scottish - Hellebore",
+    "number": 203,
+    "name": "Scottish - À l'amante",
     "pages": [
-      "files/Scottish - Hellebore-1.png"
+      "files/Scottish - A lamante-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
     "files": {
-      "pdf": "files/Scottish - Hellebore.pdf",
-      "mscz": "files/Scottish - Hellebore.mscz"
+      "pdf": "files/Scottish - A lamante.pdf",
+      "mscz": "files/Scottish - A lamante.mscz"
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
+    ]
+  },
+  {
+    "number": 204,
+    "name": "Scottish - Brittish swing",
+    "pages": [
+      "files/Scottish - Brittish swing-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Scottish, Even",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Scottish, Even"
+    },
+    "files": {
+      "pdf": "files/Scottish - Brittish swing.pdf",
+      "mscz": "files/Scottish - Brittish swing.mscz"
+    },
+    "folderStructure": [
+      "Scottish (European Balfolk)",
+      "Even",
+      "France"
+    ]
+  },
+  {
+    "number": 205,
+    "name": "Scottish - Du 29 de mars",
+    "pages": [
+      "files/Scottish - Du 29 de mars-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Scottish, Even",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Scottish, Even"
+    },
+    "files": {
+      "pdf": "files/Scottish - Du 29 de mars.pdf",
+      "mscz": "files/Scottish - Du 29 de mars.mscz"
+    },
+    "folderStructure": [
+      "Scottish (European Balfolk)",
+      "Even",
+      "France"
     ]
   },
   {
     "number": 206,
+    "name": "Scottish - Du Taraf",
+    "pages": [
+      "files/Scottish - Du Taraf-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Scottish, Even",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Scottish, Even"
+    },
+    "files": {
+      "pdf": "files/Scottish - Du Taraf.pdf",
+      "mscz": "files/Scottish - Du Taraf.mscz"
+    },
+    "folderStructure": [
+      "Scottish (European Balfolk)",
+      "Even",
+      "France"
+    ]
+  },
+  {
+    "number": 207,
+    "name": "Scottish - Esperanza",
+    "pages": [
+      "files/Scottish - Esperanza-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Scottish, Even",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Scottish, Even"
+    },
+    "files": {
+      "pdf": "files/Scottish - Esperanza.pdf",
+      "mscz": "files/Scottish - Esperanza.mscz"
+    },
+    "folderStructure": [
+      "Scottish (European Balfolk)",
+      "Even",
+      "France"
+    ]
+  },
+  {
+    "number": 208,
     "name": "Scottish - L'ourson",
     "pages": [
       "files/Scottish - Lourson-1.png"
@@ -4077,6 +4592,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
@@ -4086,11 +4602,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
-    "number": 207,
+    "number": 209,
     "name": "Scottish - La sansonette",
     "pages": [
       "files/Scottish - La sansonette-1.png"
@@ -4098,6 +4615,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
@@ -4107,11 +4625,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
-    "number": 208,
+    "number": 210,
     "name": "Scottish - Las fatmas",
     "pages": [
       "files/Scottish - Las fatmas-1.png"
@@ -4119,6 +4638,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
@@ -4128,11 +4648,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
-    "number": 209,
+    "number": 211,
     "name": "Scottish - Le lezard",
     "pages": [
       "files/Scottish - Le lezard-1.png"
@@ -4140,6 +4661,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
@@ -4149,11 +4671,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
-    "number": 210,
+    "number": 212,
     "name": "Scottish - Les beaux jours",
     "pages": [
       "files/Scottish - Les beaux jours-1.png"
@@ -4161,6 +4684,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
@@ -4170,11 +4694,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
-    "number": 211,
+    "number": 213,
     "name": "Scottish - Lulu Typon",
     "pages": [
       "files/Scottish - Lulu Typon-1.png"
@@ -4182,6 +4707,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
@@ -4191,11 +4717,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
-    "number": 212,
+    "number": 214,
     "name": "Scottish - Luquejada",
     "pages": [
       "files/Scottish - Luquejada-1.png"
@@ -4203,6 +4730,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Even"
     },
@@ -4212,32 +4740,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
-    "number": 213,
-    "name": "Scottish - Pink Molly",
-    "pages": [
-      "files/Scottish - Pink Molly-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Even",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Even"
-    },
-    "files": {
-      "pdf": "files/Scottish - Pink Molly.pdf",
-      "mscz": "files/Scottish - Pink Molly.mscz"
-    },
-    "folderStructure": [
-      "Scottish (European Balfolk)",
-      "Even"
-    ]
-  },
-  {
-    "number": 214,
+    "number": 215,
     "name": "Scottish - Sunshine",
     "pages": [
       "files/Scottish - Sunshine-1.png"
@@ -4245,6 +4753,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Original format": "musicxml",
       "Type of dance": "Scottish, Even",
@@ -4256,74 +4765,12 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
-    ]
-  },
-  {
-    "number": 215,
-    "name": "Scottish - Too late to sleep",
-    "pages": [
-      "files/Scottish - Too late to sleep-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Even",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Even"
-    },
-    "files": {
-      "pdf": "files/Scottish - Too late to sleep.pdf",
-      "mscz": "files/Scottish - Too late to sleep.mscz"
-    },
-    "folderStructure": [
-      "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
     ]
   },
   {
     "number": 216,
-    "name": "Scottish - Trip to Pakistan",
-    "pages": [
-      "files/Scottish - Trip to Pakistan-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Even",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Even"
-    },
-    "files": {
-      "pdf": "files/Scottish - Trip to Pakistan.pdf",
-      "mscz": "files/Scottish - Trip to Pakistan.mscz"
-    },
-    "folderStructure": [
-      "Scottish (European Balfolk)",
-      "Even"
-    ]
-  },
-  {
-    "number": 217,
-    "name": "Scottish - Trip to Prague",
-    "pages": [
-      "files/Scottish - Trip to Prague-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Scottish, Even",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Scottish, Even"
-    },
-    "files": {
-      "pdf": "files/Scottish - Trip to Prague.pdf",
-      "mscz": "files/Scottish - Trip to Prague.mscz"
-    },
-    "folderStructure": [
-      "Scottish (European Balfolk)",
-      "Even"
-    ]
-  },
-  {
-    "number": 218,
     "name": "Scottish - Urbaine",
     "pages": [
       "files/Scottish - Urbaine-1.png"
@@ -4331,6 +4778,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Even",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Original format": "musicxml",
       "Type of dance": "Scottish, Even",
@@ -4342,7 +4790,54 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Even"
+      "Even",
+      "France"
+    ]
+  },
+  {
+    "number": 217,
+    "name": "Scottish - Trip to Prague",
+    "pages": [
+      "files/Scottish - Trip to Prague-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Scottish, Even",
+    "labels": {
+      "Country": "Germany",
+      "Dance geometry": "Couples",
+      "Type of dance": "Scottish, Even"
+    },
+    "files": {
+      "pdf": "files/Scottish - Trip to Prague.pdf",
+      "mscz": "files/Scottish - Trip to Prague.mscz"
+    },
+    "folderStructure": [
+      "Scottish (European Balfolk)",
+      "Even",
+      "Germany"
+    ]
+  },
+  {
+    "number": 218,
+    "name": "Scottish - Trip to Pakistan",
+    "pages": [
+      "files/Scottish - Trip to Pakistan-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Scottish, Even",
+    "labels": {
+      "Country": "Scotland",
+      "Dance geometry": "Couples",
+      "Type of dance": "Scottish, Even"
+    },
+    "files": {
+      "pdf": "files/Scottish - Trip to Pakistan.pdf",
+      "mscz": "files/Scottish - Trip to Pakistan.mscz"
+    },
+    "folderStructure": [
+      "Scottish (European Balfolk)",
+      "Even",
+      "Scotland"
     ]
   },
   {
@@ -4354,6 +4849,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Odd",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Scottish, Odd"
     },
@@ -4363,7 +4859,8 @@
     },
     "folderStructure": [
       "Scottish (European Balfolk)",
-      "Odd"
+      "Odd",
+      "France"
     ]
   },
   {
@@ -4375,6 +4872,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Scottish, Xote (Brazil)",
     "labels": {
+      "Country": "Brazil",
       "Composer": "Luís Gonzaga",
       "Dance geometry": "Couples",
       "Source": "http://musescore.com/user/29328569/scores/6866243",
@@ -4386,7 +4884,8 @@
       "mscz": "files/Xote - das meninas.mscz"
     },
     "folderStructure": [
-      "Xote (Brazil)"
+      "Xote (Brazil)",
+      "Brazil"
     ]
   },
   {
@@ -4398,6 +4897,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Shyrto",
     "labels": {
+      "Country": "Bulgaria",
       "Composer": "Valentin Spasovi, Sevdalina Spasovi",
       "Dance geometry": "Single Line",
       "Original format": "musicxml",
@@ -4408,67 +4908,12 @@
       "pdf": "files/Shyrto - Liliano Mome.pdf",
       "mscz": "files/Shyrto - Liliano Mome.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Bulgaria"
+    ]
   },
   {
     "number": 222,
-    "name": "Single - A saia da Carolina",
-    "pages": [
-      "files/Single - A saia da Carolina-1.png"
-    ],
-    "danceGeometry": "Parallel lines",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Parallel lines",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - A saia da Carolina.pdf",
-      "mscz": "files/Single - A saia da Carolina.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 223,
-    "name": "Single - Ajde Jano",
-    "pages": [
-      "files/Single - Ajde Jano-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Original format": "musicxml",
-      "Source": "http://musescore.com/user/21223142/scores/4695654",
-      "Type of dance": "Single",
-      "Work title": "Gankino Horo"
-    },
-    "files": {
-      "pdf": "files/Single - Ajde Jano.pdf",
-      "mscz": "files/Single - Ajde Jano.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 224,
-    "name": "Single - Alunelul",
-    "pages": [
-      "files/Single - Alunelul-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Alunelul.pdf",
-      "mscz": "files/Single - Alunelul.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 225,
     "name": "Single - Ambee Dageets",
     "pages": [
       "files/Single - Ambee Dageets-1.png"
@@ -4476,6 +4921,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Armenia",
       "Dance geometry": "Circle",
       "Type of dance": "Single"
     },
@@ -4483,46 +4929,12 @@
       "pdf": "files/Single - Ambee Dageets.pdf",
       "mscz": "files/Single - Ambee Dageets.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Armenia"
+    ]
   },
   {
-    "number": 226,
-    "name": "Single - Balamut",
-    "pages": [
-      "files/Single - Balamut-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Balamut.pdf",
-      "mscz": "files/Single - Balamut.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 227,
-    "name": "Single - Carnaval de Lanz",
-    "pages": [
-      "files/Single - Carnaval de Lanz-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Carnaval de Lanz.pdf",
-      "mscz": "files/Single - Carnaval de Lanz.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 228,
+    "number": 223,
     "name": "Single - Cochinchine",
     "pages": [
       "files/Single - Cochinchine-1.png"
@@ -4530,6 +4942,7 @@
     "danceGeometry": "Trio",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Denmark",
       "Dance geometry": "Trio",
       "Type of dance": "Single"
     },
@@ -4537,10 +4950,54 @@
       "pdf": "files/Single - Cochinchine.pdf",
       "mscz": "files/Single - Cochinchine.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Denmark"
+    ]
   },
   {
-    "number": 229,
+    "number": 224,
+    "name": "Single - Serjoza",
+    "pages": [
+      "files/Single - Serjoza-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Estonia",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Serjoza.pdf",
+      "mscz": "files/Single - Serjoza.mscz"
+    },
+    "folderStructure": [
+      "Estonia"
+    ]
+  },
+  {
+    "number": 225,
+    "name": "Single - Carnaval de Lanz",
+    "pages": [
+      "files/Single - Carnaval de Lanz-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Carnaval de Lanz.pdf",
+      "mscz": "files/Single - Carnaval de Lanz.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 226,
     "name": "Single - Dança do Urso",
     "pages": [
       "files/Single - Danca do Urso-1.png"
@@ -4548,6 +5005,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
@@ -4555,119 +5013,99 @@
       "pdf": "files/Single - Danca do Urso.pdf",
       "mscz": "files/Single - Danca do Urso.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
-    "number": 230,
-    "name": "Single - Dansul pinguinului",
+    "number": 227,
+    "name": "Single - Les olivettes",
     "pages": [
-      "files/Single - Dansul pinguinului-1.png"
+      "files/Single - Les olivettes-1.png"
     ],
     "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
     "files": {
-      "pdf": "files/Single - Dansul pinguinului.pdf",
-      "mscz": "files/Single - Dansul pinguinului.mscz"
+      "pdf": "files/Single - Les olivettes.pdf",
+      "mscz": "files/Single - Les olivettes.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
-    "number": 231,
-    "name": "Single - Drumul Dracului",
+    "number": 228,
+    "name": "Single - Mardi Gras",
     "pages": [
-      "files/Single - Drumul Dracului-1.png"
+      "files/Single - Mardi Gras-1.png"
     ],
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Mardi Gras.pdf",
+      "mscz": "files/Single - Mardi Gras.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 229,
+    "name": "Single - Pas d'été de Médoeux",
+    "pages": [
+      "files/Single - Pas dete de Medoeux-1.png"
+    ],
+    "danceGeometry": "Solo",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "France",
+      "Composer": "Trad.",
+      "Dance geometry": "Solo",
+      "Type of dance": "Single",
+      "Work title": "Pas d'été de Médoeux"
+    },
+    "files": {
+      "pdf": "files/Single - Pas dete de Medoeux.pdf",
+      "mscz": "files/Single - Pas dete de Medoeux.mscz"
+    },
+    "folderStructure": [
+      "France"
+    ]
+  },
+  {
+    "number": 230,
+    "name": "Single - Misirlou",
+    "pages": [
+      "files/Single - Misirlou-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Greece",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single",
       "Work title": "Tzadik Katamar"
     },
     "files": {
-      "pdf": "files/Single - Drumul Dracului.pdf",
-      "mscz": "files/Single - Drumul Dracului.mscz"
+      "pdf": "files/Single - Misirlou.pdf",
+      "mscz": "files/Single - Misirlou.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Greece"
+    ]
   },
   {
-    "number": 232,
-    "name": "Single - El sueño de la hija del rey",
-    "pages": [
-      "files/Single - El sueno de la hija del rey-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - El sueno de la hija del rey.pdf",
-      "mscz": "files/Single - El sueno de la hija del rey.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 233,
-    "name": "Single - Erva Cidreira",
-    "pages": [
-      "files/Single - Erva Cidreira-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Erva Cidreira.pdf",
-      "mscz": "files/Single - Erva Cidreira.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 234,
-    "name": "Single - Fado do espinho",
-    "pages": [
-      "files/Single - Fado do espinho-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Fado do espinho.pdf",
-      "mscz": "files/Single - Fado do espinho.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 235,
-    "name": "Single - Gunesim",
-    "pages": [
-      "files/Single - Gunesim-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Gunesim.pdf",
-      "mscz": "files/Single - Gunesim.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 236,
+    "number": 231,
     "name": "Single - Harabi Hameraked",
     "pages": [
       "files/Single - Harabi Hameraked-1.png"
@@ -4675,6 +5113,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Israel",
       "Dance geometry": "Circle",
       "Type of dance": "Single"
     },
@@ -4682,10 +5121,12 @@
       "pdf": "files/Single - Harabi Hameraked.pdf",
       "mscz": "files/Single - Harabi Hameraked.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Israel"
+    ]
   },
   {
-    "number": 237,
+    "number": 232,
     "name": "Single - Hora Medura",
     "pages": [
       "files/Single - Hora Medura-1.png"
@@ -4693,6 +5134,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Israel",
       "Dance geometry": "Circle",
       "Type of dance": "Single"
     },
@@ -4700,25 +5142,140 @@
       "pdf": "files/Single - Hora Medura.pdf",
       "mscz": "files/Single - Hora Medura.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Israel"
+    ]
+  },
+  {
+    "number": 233,
+    "name": "Single - Ma Navu",
+    "pages": [
+      "files/Single - Ma Navu-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Israel",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Ma Navu.pdf",
+      "mscz": "files/Single - Ma Navu.mscz"
+    },
+    "folderStructure": [
+      "Israel"
+    ]
+  },
+  {
+    "number": 234,
+    "name": "Single - Nigun Shel Yossi",
+    "pages": [
+      "files/Single - Nigun Shel Yossi-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Israel",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Nigun Shel Yossi.pdf",
+      "mscz": "files/Single - Nigun Shel Yossi.mscz"
+    },
+    "folderStructure": [
+      "Israel"
+    ]
+  },
+  {
+    "number": 235,
+    "name": "Single - Oy Yossel Yossel",
+    "pages": [
+      "files/Single - Oy Yossel Yossel-1.png"
+    ],
+    "danceGeometry": "Line dance",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Israel",
+      "Dance geometry": "Line dance",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Oy Yossel Yossel.pdf",
+      "mscz": "files/Single - Oy Yossel Yossel.mscz"
+    },
+    "folderStructure": [
+      "Israel"
+    ]
+  },
+  {
+    "number": 236,
+    "name": "Single - Tzadik Katamar",
+    "pages": [
+      "files/Single - Tzadik Katamar-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Israel",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single",
+      "Work title": "Tzadik Katamar"
+    },
+    "files": {
+      "pdf": "files/Single - Tzadik Katamar.pdf",
+      "mscz": "files/Single - Tzadik Katamar.mscz"
+    },
+    "folderStructure": [
+      "Israel"
+    ]
+  },
+  {
+    "number": 237,
+    "name": "Single - Oira oira",
+    "pages": [
+      "files/Single - Oira oira-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Lithuania",
+      "Composer": "Trad.",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single",
+      "Work title": "Oira oira"
+    },
+    "files": {
+      "pdf": "files/Single - Oira oira.pdf",
+      "mscz": "files/Single - Oira oira.mscz"
+    },
+    "folderStructure": [
+      "Lithuania"
+    ]
   },
   {
     "number": 238,
-    "name": "Single - Karapet",
+    "name": "Single - Trumpakojis",
     "pages": [
-      "files/Single - Karapet-1.png"
+      "files/Single - Trumpakojis-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Polka",
+    "typeOfDance": "Single",
     "labels": {
+      "Country": "Lithuania",
+      "Composer": "Trad.",
       "Dance geometry": "Couples",
-      "Type of dance": "Polka"
+      "Type of dance": "Single",
+      "Work title": "Trumpakojis"
     },
     "files": {
-      "pdf": "files/Single - Karapet.pdf",
-      "mscz": "files/Single - Karapet.mscz"
+      "pdf": "files/Single - Trumpakojis.pdf",
+      "mscz": "files/Single - Trumpakojis.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Lithuania"
+    ]
   },
   {
     "number": 239,
@@ -4729,6 +5286,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Macedonia",
       "Dance geometry": "Circle",
       "Type of dance": "Single"
     },
@@ -4736,231 +5294,55 @@
       "pdf": "files/Single - Koce Berberot.pdf",
       "mscz": "files/Single - Koce Berberot.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Macedonia"
+    ]
   },
   {
     "number": 240,
-    "name": "Single - Ladrao do meio",
+    "name": "Single - Rumelaj",
     "pages": [
-      "files/Single - Ladrao do meio-1.png"
+      "files/Single - Rumelaj-1.png"
     ],
-    "danceGeometry": "Circle",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Dance geometry": "Circle",
+      "Country": "Macedonia",
+      "Dance geometry": "Single Line",
       "Type of dance": "Single"
     },
     "files": {
-      "pdf": "files/Single - Ladrao do meio.pdf",
-      "mscz": "files/Single - Ladrao do meio.mscz"
+      "pdf": "files/Single - Rumelaj.pdf",
+      "mscz": "files/Single - Rumelaj.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Macedonia"
+    ]
   },
   {
     "number": 241,
-    "name": "Single - Les olivettes",
+    "name": "Single - Drumul Dracului",
     "pages": [
-      "files/Single - Les olivettes-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Les olivettes.pdf",
-      "mscz": "files/Single - Les olivettes.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 242,
-    "name": "Single - Ma Navu",
-    "pages": [
-      "files/Single - Ma Navu-1.png"
+      "files/Single - Drumul Dracului-1.png"
     ],
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Moldavia",
       "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Ma Navu.pdf",
-      "mscz": "files/Single - Ma Navu.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 243,
-    "name": "Single - Maneio",
-    "pages": [
-      "files/Single - Maneio-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Maneio.pdf",
-      "mscz": "files/Single - Maneio.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 244,
-    "name": "Single - Mardi Gras",
-    "pages": [
-      "files/Single - Mardi Gras-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Mardi Gras.pdf",
-      "mscz": "files/Single - Mardi Gras.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 245,
-    "name": "Single - Mat'Aranha",
-    "pages": [
-      "files/Single - MatAranha-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - MatAranha.pdf",
-      "mscz": "files/Single - MatAranha.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 246,
-    "name": "Single - Misirlou",
-    "pages": [
-      "files/Single - Misirlou-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Single Line",
       "Type of dance": "Single",
       "Work title": "Tzadik Katamar"
     },
     "files": {
-      "pdf": "files/Single - Misirlou.pdf",
-      "mscz": "files/Single - Misirlou.mscz"
+      "pdf": "files/Single - Drumul Dracului.pdf",
+      "mscz": "files/Single - Drumul Dracului.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Moldavia"
+    ]
   },
   {
-    "number": 247,
-    "name": "Single - Nigun Shel Yossi",
-    "pages": [
-      "files/Single - Nigun Shel Yossi-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Nigun Shel Yossi.pdf",
-      "mscz": "files/Single - Nigun Shel Yossi.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 248,
-    "name": "Single - Oira oira",
-    "pages": [
-      "files/Single - Oira oira-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Composer": "Trad.",
-      "Dance geometry": "Circle",
-      "Type of dance": "Single",
-      "Work title": "Oira oira"
-    },
-    "files": {
-      "pdf": "files/Single - Oira oira.pdf",
-      "mscz": "files/Single - Oira oira.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 249,
-    "name": "Single - Oy Yossel Yossel",
-    "pages": [
-      "files/Single - Oy Yossel Yossel-1.png"
-    ],
-    "danceGeometry": "Line dance",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Line dance",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Oy Yossel Yossel.pdf",
-      "mscz": "files/Single - Oy Yossel Yossel.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 250,
-    "name": "Single - Pas d'été de Médoeux",
-    "pages": [
-      "files/Single - Pas dete de Medoeux-1.png"
-    ],
-    "danceGeometry": "Solo",
-    "typeOfDance": "Single",
-    "labels": {
-      "Composer": "Trad.",
-      "Dance geometry": "Solo",
-      "Type of dance": "Single",
-      "Work title": "Pas d'été de Médoeux"
-    },
-    "files": {
-      "pdf": "files/Single - Pas dete de Medoeux.pdf",
-      "mscz": "files/Single - Pas dete de Medoeux.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 251,
-    "name": "Single - Picadinha",
-    "pages": [
-      "files/Single - Picadinha-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Picadinha.pdf",
-      "mscz": "files/Single - Picadinha.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 252,
+    "number": 242,
     "name": "Single - Pieternelle",
     "pages": [
       "files/Single - Pieternelle-1.png"
@@ -4975,10 +5357,159 @@
       "pdf": "files/Single - Pieternelle.pdf",
       "mscz": "files/Single - Pieternelle.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Netherlands"
+    ]
   },
   {
-    "number": 253,
+    "number": 243,
+    "name": "Single - A saia da Carolina",
+    "pages": [
+      "files/Single - A saia da Carolina-1.png"
+    ],
+    "danceGeometry": "Parallel lines",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Parallel lines",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - A saia da Carolina.pdf",
+      "mscz": "files/Single - A saia da Carolina.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
+  },
+  {
+    "number": 244,
+    "name": "Single - Erva Cidreira",
+    "pages": [
+      "files/Single - Erva Cidreira-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Erva Cidreira.pdf",
+      "mscz": "files/Single - Erva Cidreira.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
+  },
+  {
+    "number": 245,
+    "name": "Single - Fado do espinho",
+    "pages": [
+      "files/Single - Fado do espinho-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Fado do espinho.pdf",
+      "mscz": "files/Single - Fado do espinho.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
+  },
+  {
+    "number": 246,
+    "name": "Single - Ladrao do meio",
+    "pages": [
+      "files/Single - Ladrao do meio-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Ladrao do meio.pdf",
+      "mscz": "files/Single - Ladrao do meio.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
+  },
+  {
+    "number": 247,
+    "name": "Single - Maneio",
+    "pages": [
+      "files/Single - Maneio-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Couples",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Maneio.pdf",
+      "mscz": "files/Single - Maneio.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
+  },
+  {
+    "number": 248,
+    "name": "Single - Mat'Aranha",
+    "pages": [
+      "files/Single - MatAranha-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - MatAranha.pdf",
+      "mscz": "files/Single - MatAranha.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
+  },
+  {
+    "number": 249,
+    "name": "Single - Picadinha",
+    "pages": [
+      "files/Single - Picadinha-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Picadinha.pdf",
+      "mscz": "files/Single - Picadinha.mscz"
+    },
+    "folderStructure": [
+      "Portugal"
+    ]
+  },
+  {
+    "number": 250,
     "name": "Single - Pingacho",
     "pages": [
       "files/Single - Pingacho-1.png"
@@ -4986,6 +5517,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Single"
     },
@@ -4993,10 +5525,12 @@
       "pdf": "files/Single - Pingacho.pdf",
       "mscz": "files/Single - Pingacho.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
-    "number": 254,
+    "number": 251,
     "name": "Single - Regadinho",
     "pages": [
       "files/Single - Regadinho-1.png"
@@ -5004,6 +5538,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Single"
     },
@@ -5011,28 +5546,12 @@
       "pdf": "files/Single - Regadinho.pdf",
       "mscz": "files/Single - Regadinho.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
-    "number": 255,
-    "name": "Single - Rumelaj",
-    "pages": [
-      "files/Single - Rumelaj-1.png"
-    ],
-    "danceGeometry": "Single Line",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Single Line",
-      "Type of dance": "Single"
-    },
-    "files": {
-      "pdf": "files/Single - Rumelaj.pdf",
-      "mscz": "files/Single - Rumelaj.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 256,
+    "number": 252,
     "name": "Single - Senhor Galandum",
     "pages": [
       "files/Single - Senhor Galandum-1.png"
@@ -5040,6 +5559,7 @@
     "danceGeometry": "Parallel lines",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Parallel lines",
       "Type of dance": "Single"
     },
@@ -5047,28 +5567,54 @@
       "pdf": "files/Single - Senhor Galandum.pdf",
       "mscz": "files/Single - Senhor Galandum.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
-    "number": 257,
-    "name": "Single - Serjoza",
+    "number": 253,
+    "name": "Single - Alunelul",
     "pages": [
-      "files/Single - Serjoza-1.png"
+      "files/Single - Alunelul-1.png"
     ],
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Romenia",
       "Dance geometry": "Circle",
       "Type of dance": "Single"
     },
     "files": {
-      "pdf": "files/Single - Serjoza.pdf",
-      "mscz": "files/Single - Serjoza.mscz"
+      "pdf": "files/Single - Alunelul.pdf",
+      "mscz": "files/Single - Alunelul.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Romania"
+    ]
   },
   {
-    "number": 258,
+    "number": 254,
+    "name": "Single - Dansul pinguinului",
+    "pages": [
+      "files/Single - Dansul pinguinului-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Romenia",
+      "Dance geometry": "Single Line",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Dansul pinguinului.pdf",
+      "mscz": "files/Single - Dansul pinguinului.mscz"
+    },
+    "folderStructure": [
+      "Romania"
+    ]
+  },
+  {
+    "number": 255,
     "name": "Single - Troika",
     "pages": [
       "files/Single - Troika-1.png"
@@ -5076,6 +5622,7 @@
     "danceGeometry": "Trio",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Russia",
       "Dance geometry": "Trio",
       "Type of dance": "Single"
     },
@@ -5083,49 +5630,36 @@
       "pdf": "files/Single - Troika.pdf",
       "mscz": "files/Single - Troika.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Russia"
+    ]
   },
   {
-    "number": 259,
-    "name": "Single - Trumpakojis",
+    "number": 256,
+    "name": "Single - Ajde Jano",
     "pages": [
-      "files/Single - Trumpakojis-1.png"
+      "files/Single - Ajde Jano-1.png"
     ],
-    "danceGeometry": "Couples",
+    "danceGeometry": "Single Line",
     "typeOfDance": "Single",
     "labels": {
-      "Composer": "Trad.",
-      "Dance geometry": "Couples",
+      "Country": "Serbia",
+      "Dance geometry": "Single Line",
+      "Original format": "musicxml",
+      "Source": "http://musescore.com/user/21223142/scores/4695654",
       "Type of dance": "Single",
-      "Work title": "Trumpakojis"
+      "Work title": "Gankino Horo"
     },
     "files": {
-      "pdf": "files/Single - Trumpakojis.pdf",
-      "mscz": "files/Single - Trumpakojis.mscz"
+      "pdf": "files/Single - Ajde Jano.pdf",
+      "mscz": "files/Single - Ajde Jano.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Serbia"
+    ]
   },
   {
-    "number": 260,
-    "name": "Single - Tzadik Katamar",
-    "pages": [
-      "files/Single - Tzadik Katamar-1.png"
-    ],
-    "danceGeometry": "Circle",
-    "typeOfDance": "Single",
-    "labels": {
-      "Dance geometry": "Circle",
-      "Type of dance": "Single",
-      "Work title": "Tzadik Katamar"
-    },
-    "files": {
-      "pdf": "files/Single - Tzadik Katamar.pdf",
-      "mscz": "files/Single - Tzadik Katamar.mscz"
-    },
-    "folderStructure": []
-  },
-  {
-    "number": 261,
+    "number": 257,
     "name": "Single - Valsa da mota",
     "pages": [
       "files/Single - Valsa da mota-1.png"
@@ -5143,7 +5677,28 @@
     "folderStructure": []
   },
   {
-    "number": 262,
+    "number": 258,
+    "name": "Single - El sueño de la hija del rey",
+    "pages": [
+      "files/Single - El sueno de la hija del rey-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Spain",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - El sueno de la hija del rey.pdf",
+      "mscz": "files/Single - El sueno de la hija del rey.mscz"
+    },
+    "folderStructure": [
+      "Spain"
+    ]
+  },
+  {
+    "number": 259,
     "name": "Single - Zazpi jauziak",
     "pages": [
       "files/Single - Zazpi jauziak-1.png"
@@ -5151,6 +5706,7 @@
     "danceGeometry": "Solo",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "Spain",
       "Dance geometry": "Solo",
       "Type of dance": "Single"
     },
@@ -5158,7 +5714,72 @@
       "pdf": "files/Single - Zazpi jauziak.pdf",
       "mscz": "files/Single - Zazpi jauziak.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Spain"
+    ]
+  },
+  {
+    "number": 260,
+    "name": "Single - Gunesim",
+    "pages": [
+      "files/Single - Gunesim-1.png"
+    ],
+    "danceGeometry": "Single Line",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Turkey",
+      "Dance geometry": "Single Line",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Gunesim.pdf",
+      "mscz": "files/Single - Gunesim.mscz"
+    },
+    "folderStructure": [
+      "Turkey"
+    ]
+  },
+  {
+    "number": 261,
+    "name": "Single - Balamut",
+    "pages": [
+      "files/Single - Balamut-1.png"
+    ],
+    "danceGeometry": "Circle",
+    "typeOfDance": "Single",
+    "labels": {
+      "Country": "Ukraine",
+      "Dance geometry": "Circle",
+      "Type of dance": "Single"
+    },
+    "files": {
+      "pdf": "files/Single - Balamut.pdf",
+      "mscz": "files/Single - Balamut.mscz"
+    },
+    "folderStructure": [
+      "Ukraine"
+    ]
+  },
+  {
+    "number": 262,
+    "name": "Single - Karapet",
+    "pages": [
+      "files/Single - Karapet-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Polka",
+    "labels": {
+      "Country": "Ukraine",
+      "Dance geometry": "Couples",
+      "Type of dance": "Polka"
+    },
+    "files": {
+      "pdf": "files/Single - Karapet.pdf",
+      "mscz": "files/Single - Karapet.mscz"
+    },
+    "folderStructure": [
+      "Ukraine"
+    ]
   },
   {
     "number": 263,
@@ -5169,6 +5790,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Tango",
     "labels": {
+      "Country": "Bosnia",
       "Type of dance": "Tango",
       "Composer": "Goran Bregović",
       "Dance geometry": "Couples",
@@ -5178,7 +5800,9 @@
       "pdf": "files/Tango - Ausencia.pdf",
       "mscz": "files/Tango - Ausencia.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Bosnia"
+    ]
   },
   {
     "number": 264,
@@ -5189,6 +5813,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Tarantella",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Tarantella"
     },
@@ -5196,7 +5821,9 @@
       "pdf": "files/Tarantella - Napoilitana.pdf",
       "mscz": "files/Tarantella - Napoilitana.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 265,
@@ -5207,6 +5834,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Tourdion",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
       "Type of dance": "Tourdion"
     },
@@ -5214,7 +5842,9 @@
       "pdf": "files/Tourdion - Quand je bois du vin claret.pdf",
       "mscz": "files/Tourdion - Quand je bois du vin claret.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "France"
+    ]
   },
   {
     "number": 266,
@@ -5225,6 +5855,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
@@ -5232,7 +5863,9 @@
       "pdf": "files/Vira - De Quatro.pdf",
       "mscz": "files/Vira - De Quatro.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 267,
@@ -5243,6 +5876,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
@@ -5250,7 +5884,9 @@
       "pdf": "files/Vira - Do Minho.pdf",
       "mscz": "files/Vira - Do Minho.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 268,
@@ -5261,6 +5897,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
@@ -5268,7 +5905,9 @@
       "pdf": "files/Vira - Elvira.pdf",
       "mscz": "files/Vira - Elvira.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 269,
@@ -5279,6 +5918,7 @@
     "danceGeometry": "Quartet",
     "typeOfDance": "Vira",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Quartet",
       "Type of dance": "Vira"
     },
@@ -5286,7 +5926,9 @@
       "pdf": "files/Vira - Rosinha.pdf",
       "mscz": "files/Vira - Rosinha.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 270,
@@ -5297,6 +5939,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Vira",
     "labels": {
+      "Country": "Portugal",
       "Dance geometry": "Circle",
       "Type of dance": "Vira"
     },
@@ -5304,92 +5947,34 @@
       "pdf": "files/Vira - Toma la da ca.pdf",
       "mscz": "files/Vira - Toma la da ca.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Portugal"
+    ]
   },
   {
     "number": 271,
-    "name": "Valsa 3T - A minha saia velhinha",
+    "name": "Valsa 3T - Silent Night",
     "pages": [
-      "files/Valsa 3T - A minha saia velhinha-1.png"
+      "files/Valsa 3T - Silent Night-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "Austria",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
     "files": {
-      "pdf": "files/Valsa 3T - A minha saia velhinha.pdf",
-      "mscz": "files/Valsa 3T - A minha saia velhinha.mscz"
+      "pdf": "files/Valsa 3T - Silent Night.pdf",
+      "mscz": "files/Valsa 3T - Silent Night.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "Austria"
     ]
   },
   {
     "number": 272,
-    "name": "Valsa 3T - Al yaras",
-    "pages": [
-      "files/Valsa 3T - Al yaras-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 3-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 3-Time"
-    },
-    "files": {
-      "pdf": "files/Valsa 3T - Al yaras.pdf",
-      "mscz": "files/Valsa 3T - Al yaras.mscz"
-    },
-    "folderStructure": [
-      "3 Time"
-    ]
-  },
-  {
-    "number": 273,
-    "name": "Valsa 3T - Ashokan Farewell",
-    "pages": [
-      "files/Valsa 3T - Ashokan Farewell-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 3-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 3-Time"
-    },
-    "files": {
-      "pdf": "files/Valsa 3T - Ashokan Farewell.pdf",
-      "mscz": "files/Valsa 3T - Ashokan Farewell.mscz"
-    },
-    "folderStructure": [
-      "3 Time"
-    ]
-  },
-  {
-    "number": 274,
-    "name": "Valsa 3T - Flatwater Fran",
-    "pages": [
-      "files/Valsa 3T - Flatwater Fran-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 3-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Original format": "musicxml",
-      "Type of dance": "Waltz, 3-Time",
-      "Work title": "Flatwater Fran"
-    },
-    "files": {
-      "pdf": "files/Valsa 3T - Flatwater Fran.pdf",
-      "mscz": "files/Valsa 3T - Flatwater Fran.mscz"
-    },
-    "folderStructure": [
-      "3 Time"
-    ]
-  },
-  {
-    "number": 275,
     "name": "Valsa 3T - Flatworld",
     "pages": [
       "files/Valsa 3T - Flatworld-1.png"
@@ -5397,6 +5982,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "England",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
@@ -5405,31 +5991,58 @@
       "mscz": "files/Valsa 3T - Flatworld.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "England"
     ]
   },
   {
-    "number": 276,
-    "name": "Valsa 3T - Josefin Dopvals",
+    "number": 273,
+    "name": "Valsa 3T - We wish you a merry Christmas",
     "pages": [
-      "files/Valsa 3T - Josefin Dopvals-1.png"
+      "files/Valsa 3T - We wish you a merry Christmas-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "England",
+      "Composer": "Trad.",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 3-Time",
+      "Work title": "We wish you a merry Christmas"
+    },
+    "files": {
+      "pdf": "files/Valsa 3T - We wish you a merry Christmas.pdf",
+      "mscz": "files/Valsa 3T - We wish you a merry Christmas.mscz"
+    },
+    "folderStructure": [
+      "3 Time",
+      "England"
+    ]
+  },
+  {
+    "number": 274,
+    "name": "Valsa 3T - Al yaras",
+    "pages": [
+      "files/Valsa 3T - Al yaras-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 3-Time",
+    "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
     "files": {
-      "pdf": "files/Valsa 3T - Josefin Dopvals.pdf",
-      "mscz": "files/Valsa 3T - Josefin Dopvals.mscz"
+      "pdf": "files/Valsa 3T - Al yaras.pdf",
+      "mscz": "files/Valsa 3T - Al yaras.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
-    "number": 277,
+    "number": 275,
     "name": "Valsa 3T - La mal aimable",
     "pages": [
       "files/Valsa 3T - La mal aimable-1.png"
@@ -5437,6 +6050,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time",
       "Work title": "La Mal Aimable"
@@ -5446,31 +6060,12 @@
       "mscz": "files/Valsa 3T - La mal aimable.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
-    "number": 278,
-    "name": "Valsa 3T - La Partida",
-    "pages": [
-      "files/Valsa 3T - La Partida-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 3-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 3-Time"
-    },
-    "files": {
-      "pdf": "files/Valsa 3T - La Partida.pdf",
-      "mscz": "files/Valsa 3T - La Partida.mscz"
-    },
-    "folderStructure": [
-      "3 Time"
-    ]
-  },
-  {
-    "number": 279,
+    "number": 276,
     "name": "Valsa 3T - La rivière de Regourd",
     "pages": [
       "files/Valsa 3T - La riviere de Regourd-1.png"
@@ -5478,6 +6073,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
@@ -5486,11 +6082,12 @@
       "mscz": "files/Valsa 3T - La riviere de Regourd.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
-    "number": 280,
+    "number": 277,
     "name": "Valsa 3T - La valse des negresses vertes",
     "pages": [
       "files/Valsa 3T - La valse des negresses vertes-1.png"
@@ -5498,6 +6095,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
@@ -5506,27 +6104,98 @@
       "mscz": "files/Valsa 3T - La valse des negresses vertes.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
     ]
   },
   {
-    "number": 281,
-    "name": "Valsa 3T - My favourite things",
+    "number": 278,
+    "name": "Valsa 3T - Valse à Ollu",
     "pages": [
-      "files/Valsa 3T - My favourite things-1.png"
+      "files/Valsa 3T - Valse a Ollu-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
     "files": {
-      "pdf": "files/Valsa 3T - My favourite things.pdf",
-      "mscz": "files/Valsa 3T - My favourite things.mscz"
+      "pdf": "files/Valsa 3T - Valse a Ollu.pdf",
+      "mscz": "files/Valsa 3T - Valse a Ollu.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "France"
+    ]
+  },
+  {
+    "number": 279,
+    "name": "Valsa 3T - Valse Dombelle",
+    "pages": [
+      "files/Valsa 3T - Valse Dombelle-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 3-Time",
+    "labels": {
+      "Country": "France",
+      "Composer": "Marc Perrone",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 3-Time",
+      "Work title": "Dombelle"
+    },
+    "files": {
+      "pdf": "files/Valsa 3T - Valse Dombelle.pdf",
+      "mscz": "files/Valsa 3T - Valse Dombelle.mscz"
+    },
+    "folderStructure": [
+      "3 Time",
+      "France"
+    ]
+  },
+  {
+    "number": 280,
+    "name": "Valsa 3T - Valse Magnetique",
+    "pages": [
+      "files/Valsa 3T - Valse Magnetique-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 3-Time",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 3-Time"
+    },
+    "files": {
+      "pdf": "files/Valsa 3T - Valse Magnetique.pdf",
+      "mscz": "files/Valsa 3T - Valse Magnetique.mscz"
+    },
+    "folderStructure": [
+      "3 Time",
+      "France"
+    ]
+  },
+  {
+    "number": 281,
+    "name": "Valsa 3T - A minha saia velhinha",
+    "pages": [
+      "files/Valsa 3T - A minha saia velhinha-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 3-Time",
+    "labels": {
+      "Country": "Portugal",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 3-Time"
+    },
+    "files": {
+      "pdf": "files/Valsa 3T - A minha saia velhinha.pdf",
+      "mscz": "files/Valsa 3T - A minha saia velhinha.mscz"
+    },
+    "folderStructure": [
+      "3 Time",
+      "Portugal"
     ]
   },
   {
@@ -5538,6 +6207,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "Portugal",
       "Arranger": "Pedro Pimenta Novembro 2023",
       "Composer": "Pedro Pimenta  2019",
       "Dance geometry": "Couples",
@@ -5550,175 +6220,124 @@
       "mscz": "files/Valsa 3T - Primavera a 3 tempos.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "Portugal"
     ]
   },
   {
     "number": 283,
-    "name": "Valsa 3T - Silent Night",
+    "name": "Valsa 3T - Flatwater Fran",
     "pages": [
-      "files/Valsa 3T - Silent Night-1.png"
+      "files/Valsa 3T - Flatwater Fran-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "Scotland",
       "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 3-Time"
+      "Original format": "musicxml",
+      "Type of dance": "Waltz, 3-Time",
+      "Work title": "Flatwater Fran"
     },
     "files": {
-      "pdf": "files/Valsa 3T - Silent Night.pdf",
-      "mscz": "files/Valsa 3T - Silent Night.mscz"
+      "pdf": "files/Valsa 3T - Flatwater Fran.pdf",
+      "mscz": "files/Valsa 3T - Flatwater Fran.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "Scotland"
     ]
   },
   {
     "number": 284,
-    "name": "Valsa 3T - Valse à Ollu",
+    "name": "Valsa 3T - Josefin Dopvals",
     "pages": [
-      "files/Valsa 3T - Valse a Ollu-1.png"
+      "files/Valsa 3T - Josefin Dopvals-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
+      "Country": "Sweden",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
     "files": {
-      "pdf": "files/Valsa 3T - Valse a Ollu.pdf",
-      "mscz": "files/Valsa 3T - Valse a Ollu.mscz"
+      "pdf": "files/Valsa 3T - Josefin Dopvals.pdf",
+      "mscz": "files/Valsa 3T - Josefin Dopvals.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "Sweden"
     ]
   },
   {
     "number": 285,
-    "name": "Valsa 3T - Valse Dombelle",
+    "name": "Valsa 3T - Ashokan Farewell",
     "pages": [
-      "files/Valsa 3T - Valse Dombelle-1.png"
+      "files/Valsa 3T - Ashokan Farewell-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
-      "Composer": "Marc Perrone",
-      "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 3-Time",
-      "Work title": "Dombelle"
-    },
-    "files": {
-      "pdf": "files/Valsa 3T - Valse Dombelle.pdf",
-      "mscz": "files/Valsa 3T - Valse Dombelle.mscz"
-    },
-    "folderStructure": [
-      "3 Time"
-    ]
-  },
-  {
-    "number": 286,
-    "name": "Valsa 3T - Valse Magnetique",
-    "pages": [
-      "files/Valsa 3T - Valse Magnetique-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 3-Time",
-    "labels": {
+      "Country": "U.S.A.",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 3-Time"
     },
     "files": {
-      "pdf": "files/Valsa 3T - Valse Magnetique.pdf",
-      "mscz": "files/Valsa 3T - Valse Magnetique.mscz"
+      "pdf": "files/Valsa 3T - Ashokan Farewell.pdf",
+      "mscz": "files/Valsa 3T - Ashokan Farewell.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "U.S.A."
     ]
   },
   {
-    "number": 287,
-    "name": "Valsa 3T - We wish you a merry Christmas",
+    "number": 286,
+    "name": "Valsa 3T - My favourite things",
     "pages": [
-      "files/Valsa 3T - We wish you a merry Christmas-1.png"
+      "files/Valsa 3T - My favourite things-1.png"
     ],
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 3-Time",
     "labels": {
-      "Composer": "Trad.",
+      "Country": "U.S.A.",
       "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 3-Time",
-      "Work title": "We wish you a merry Christmas"
+      "Type of dance": "Waltz, 3-Time"
     },
     "files": {
-      "pdf": "files/Valsa 3T - We wish you a merry Christmas.pdf",
-      "mscz": "files/Valsa 3T - We wish you a merry Christmas.mscz"
+      "pdf": "files/Valsa 3T - My favourite things.pdf",
+      "mscz": "files/Valsa 3T - My favourite things.mscz"
     },
     "folderStructure": [
-      "3 Time"
+      "3 Time",
+      "U.S.A."
+    ]
+  },
+  {
+    "number": 287,
+    "name": "Valsa 3T - La Partida",
+    "pages": [
+      "files/Valsa 3T - La Partida-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 3-Time",
+    "labels": {
+      "Country": "Venezuela",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 3-Time"
+    },
+    "files": {
+      "pdf": "files/Valsa 3T - La Partida.pdf",
+      "mscz": "files/Valsa 3T - La Partida.mscz"
+    },
+    "folderStructure": [
+      "3 Time",
+      "Venezuela"
     ]
   },
   {
     "number": 288,
-    "name": "Valsa 5T - Batalia",
-    "pages": [
-      "files/Valsa 5T - Batalia-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 5-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 5-Time"
-    },
-    "files": {
-      "pdf": "files/Valsa 5T - Batalia.pdf",
-      "mscz": "files/Valsa 5T - Batalia.mscz"
-    },
-    "folderStructure": [
-      "5 Time"
-    ]
-  },
-  {
-    "number": 289,
-    "name": "Valsa 5T - Cinco tempoush",
-    "pages": [
-      "files/Valsa 5T - Cinco tempoush-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 5-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 5-Time"
-    },
-    "files": {
-      "pdf": "files/Valsa 5T - Cinco tempoush.pdf",
-      "mscz": "files/Valsa 5T - Cinco tempoush.mscz"
-    },
-    "folderStructure": [
-      "5 Time"
-    ]
-  },
-  {
-    "number": 290,
-    "name": "Valsa 5T - Elle",
-    "pages": [
-      "files/Valsa 5T - Elle-1.png"
-    ],
-    "danceGeometry": "Couples",
-    "typeOfDance": "Waltz, 5-Time",
-    "labels": {
-      "Dance geometry": "Couples",
-      "Type of dance": "Waltz, 5-Time"
-    },
-    "files": {
-      "pdf": "files/Valsa 5T - Elle.pdf",
-      "mscz": "files/Valsa 5T - Elle.mscz"
-    },
-    "folderStructure": [
-      "5 Time"
-    ]
-  },
-  {
-    "number": 291,
     "name": "Valsa 5T - Evening Glory",
     "pages": [
       "files/Valsa 5T - Evening Glory-1.png"
@@ -5726,6 +6345,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 5-Time",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 5-Time"
     },
@@ -5734,7 +6354,74 @@
       "mscz": "files/Valsa 5T - Evening Glory.mscz"
     },
     "folderStructure": [
-      "5 Time"
+      "5 Time",
+      "Belgium"
+    ]
+  },
+  {
+    "number": 289,
+    "name": "Valsa 5T - Batalia",
+    "pages": [
+      "files/Valsa 5T - Batalia-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 5-Time",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 5-Time"
+    },
+    "files": {
+      "pdf": "files/Valsa 5T - Batalia.pdf",
+      "mscz": "files/Valsa 5T - Batalia.mscz"
+    },
+    "folderStructure": [
+      "5 Time",
+      "France"
+    ]
+  },
+  {
+    "number": 290,
+    "name": "Valsa 5T - Cinco tempoush",
+    "pages": [
+      "files/Valsa 5T - Cinco tempoush-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 5-Time",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 5-Time"
+    },
+    "files": {
+      "pdf": "files/Valsa 5T - Cinco tempoush.pdf",
+      "mscz": "files/Valsa 5T - Cinco tempoush.mscz"
+    },
+    "folderStructure": [
+      "5 Time",
+      "France"
+    ]
+  },
+  {
+    "number": 291,
+    "name": "Valsa 5T - Elle",
+    "pages": [
+      "files/Valsa 5T - Elle-1.png"
+    ],
+    "danceGeometry": "Couples",
+    "typeOfDance": "Waltz, 5-Time",
+    "labels": {
+      "Country": "France",
+      "Dance geometry": "Couples",
+      "Type of dance": "Waltz, 5-Time"
+    },
+    "files": {
+      "pdf": "files/Valsa 5T - Elle.pdf",
+      "mscz": "files/Valsa 5T - Elle.mscz"
+    },
+    "folderStructure": [
+      "5 Time",
+      "France"
     ]
   },
   {
@@ -5746,6 +6433,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 5-Time",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 5-Time"
     },
@@ -5754,7 +6442,8 @@
       "mscz": "files/Valsa 5T - Vivre.mscz"
     },
     "folderStructure": [
-      "5 Time"
+      "5 Time",
+      "France"
     ]
   },
   {
@@ -5766,6 +6455,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Waltz, 8-Time",
     "labels": {
+      "Country": "Belgium",
       "Dance geometry": "Couples",
       "Type of dance": "Waltz, 8-Time"
     },
@@ -5774,7 +6464,8 @@
       "mscz": "files/Valsa 8T - Annes walz.mscz"
     },
     "folderStructure": [
-      "8 Time"
+      "8 Time",
+      "Belgium"
     ]
   },
   {
@@ -5786,6 +6477,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Wiwat",
     "labels": {
+      "Country": "Poland",
       "Dance geometry": "Circle",
       "Type of dance": "Wiwat"
     },
@@ -5793,7 +6485,9 @@
       "pdf": "files/Wiwat - Halina.pdf",
       "mscz": "files/Wiwat - Halina.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Poland"
+    ]
   },
   {
     "number": 295,
@@ -5804,6 +6498,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Wiwat",
     "labels": {
+      "Country": "Poland",
       "Dance geometry": "Circle",
       "Type of dance": "Wiwat"
     },
@@ -5811,6 +6506,8 @@
       "pdf": "files/Wiwat - Musialaw ty dziewcze co umiec.pdf",
       "mscz": "files/Wiwat - Musialaw ty dziewcze co umiec.mscz"
     },
-    "folderStructure": []
+    "folderStructure": [
+      "Poland"
+    ]
   }
 ]
