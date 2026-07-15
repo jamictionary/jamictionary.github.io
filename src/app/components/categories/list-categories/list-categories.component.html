@@ -1,14 +1,24 @@
 
-@if (!categories.length) {
+<section class="search-box">
+    <input
+        type="search"
+        name="categorySearch"
+        placeholder="Search by dance"
+        [(ngModel)]="searchText"
+        aria-label="Search by dance"
+    />
+</section>
+
+@if (!rootCategories.length) {
     <p>
-        <span class="missing data">No categories found.</span>
+        <span class="missing data">No dances found.</span>
         <br />
         Try searching in <a routerLink="/scores">all scores</a>.
     </p>
 } @else {
-    {{ categories.length | pluralize: "category" }}
+    {{ rootCategories.length | pluralize: "category" }}
     <section class="card-list">
-        @for (category of categories; track $index) {
+        @for (category of rootCategories; track $index) {
             <!-- Using routerLink array to ensure that slashes etc are escaped. -->
             <a [routerLink]="['/categories', category.name]"><app-category-card [category]="category"
                 ></app-category-card></a>

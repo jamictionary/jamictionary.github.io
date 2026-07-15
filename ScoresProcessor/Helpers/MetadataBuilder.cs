@@ -8,13 +8,15 @@ public class MetadataBuilder(ScoresConfig config)
     //       In its own file, not here in the middle of the code and down by SeemsToHaveValue() etc...
     private static class Categories
     {
-        // Keep synchronized with CategoriesOfInterest in file categories.service.ts .
+        // Keep synchronized with categories used in the frontend filter UI.
         private static readonly HashSet<string> All = [
             DanceGeometry,
+            Country,
             TypeOfDance,
         ];
 
         public const string DanceGeometry = "Dance geometry";
+        public const string Country = "Country";
         public const string TypeOfDance = "Type of dance";
 
         public static bool IsKnown(string category) => All.Contains(category, StringComparer.InvariantCultureIgnoreCase);

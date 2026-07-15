@@ -15,7 +15,7 @@
             [checked]="selectionType === SelectionType.Categories"
             (change)="changeSelectionTypeTo(SelectionType.Categories)"
             />
-        by category
+        by dance
     </label>
     <label>
         <input type="radio"
@@ -47,11 +47,23 @@
                     <li class="collapsable" [class.collapsed]="category.isCollapsed">
                         <label (click)="category.isCollapsed = !category.isCollapsed">
                             {{category.name}}
-                            <span class="count"> — {{category.scores.length}}</span>
+                            <span class="count"> — {{category.totalScores}}</span>
                         </label>
-                        <ul>
+                        <ul class="scores">
                             @for (score of category.scores; track score.number) {
                                 <li><a routerLink="/scores/{{score.number}}">{{score.number}} {{score.name}}</a></li>
+                            }
+                            @if (category.children.length) {
+                                @for (child of category.children; track child.name) {
+                                    <li class="subcategory">
+                                        <strong>{{child.name}}</strong>
+                                        <ul class="scores">
+                                            @for (score of child.scores; track score.number) {
+                                                <li><a routerLink="/scores/{{score.number}}">{{score.number}} {{score.name}}</a></li>
+                                            }
+                                        </ul>
+                                    </li>
+                                }
                             }
                         </ul>
                     </li>

@@ -4,6 +4,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { Category } from '@models/category';
 import { CategoriesService } from '@services/categories.service';
 import { map, Observable } from 'rxjs';
+import { CategoryCardComponent } from '@components/categories/category-card/category-card.component';
 import { PluralizePipe } from "@utils/pluralize.pipe";
 
 @Component({
@@ -11,6 +12,7 @@ import { PluralizePipe } from "@utils/pluralize.pipe";
   imports: [
     AsyncPipe,
     RouterLink,
+    CategoryCardComponent,
     PluralizePipe,
 ],
   templateUrl: './category-details.component.html',

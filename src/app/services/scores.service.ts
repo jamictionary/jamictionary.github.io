@@ -17,12 +17,24 @@ export class ScoresService {
       // I don't know how to use the untyped Dictionary otherwise.
       // Because it is loaded untyped from JSON.
       const convertedLabels = new Map<string, string>(Object.entries(item.labels));
-      const searchableName: string = normalizeStringForSearch(item.name);
-      Object.assign(item, {
+      const searchableName = normalizeStringForSearch(item.name);
+
+      const score: Score = {
+        ...item,
         labels: convertedLabels,
-        searchableName: searchableName,
-      });
-      return <Score> item;
+        searchableName: searchableName
+      };
+
+return score;
+      
+      //const convertedLabels = new Map<string, string>(Object.entries(item.labels));
+      //const searchableName: string = normalizeStringForSearch(item.name);
+      //Object.assign(item, {
+      //  labels: convertedLabels,
+      //  searchableName: searchableName,
+      // });
+      //return <Score> item;
+    
     });
   }
 

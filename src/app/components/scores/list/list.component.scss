@@ -2,19 +2,240 @@
 
 :host {
     display: block;
+    min-width: 0;
 }
 
-:link.active {
-    font-weight: bold;
+header {
+    margin-bottom: 1rem;
+    padding: 1.1rem 1.3rem;
+    border-radius: 1.2rem;
+    background: var(--jm-surface);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    box-shadow: 0 18px 40px rgba(15, 23, 42, 0.06);
 }
 
-.label-filter {
-    display: grid;
-    grid-template-columns: subgrid;
-    grid-column-end: span 2;
-    align-items: center;
+header h3 {
+    margin: 0;
+    font-size: 1.8rem;
+    letter-spacing: 0.02em;
+    color: var(--jm-text);
+}
+
+.selectionType,
+.search,
+.selection {
+    margin: section-margins.$margin;
+    padding: 1rem 1.2rem;
+    border-radius: 1.2rem;
+    background: var(--jm-surface);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    box-shadow: 0 18px 40px rgba(15, 23, 42, 0.04);
+}
+
+.search {
+    margin-top: 0.75rem;
 }
 
 .selectionType {
-    margin: section-margins.$margin;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.selectionType label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.75rem 1rem;
+    border-radius: 999px;
+    background: rgba(79, 70, 229, 0.08);
+    cursor: pointer;
+    transition: transform 0.18s ease, background-color 0.18s ease, box-shadow 0.18s ease;
+    color: var(--jm-text);
+}
+
+.selectionType label:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+}
+
+.selectionType input {
+    flex-shrink: 0;
+    width: 1rem;
+    height: 1rem;
+    accent-color: var(--jm-primary);
+}
+
+.selectionType input:checked + span {
+    font-weight: 700;
+    color: var(--jm-text);
+}
+
+.selection {
+    margin-top: 0.75rem;
+}
+
+.selection .missing.data {
+    margin: 0;
+    padding: 1.1rem 1rem;
+    border-radius: 1rem;
+    background: rgba(248, 250, 252, 0.95);
+    color: var(--jm-text-secondary);
+}
+
+.selection.list ul {
+    list-style: disc outside;
+    margin: 0;
+    padding: 0 0 0 1.25rem;
+    display: block;
+    gap: 0;
+}
+
+.selection.categories ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.8rem;
+}
+
+.selection.list ul li {
+    border: none;
+    background: transparent;
+    padding: 0;
+    margin: 0.2rem 0;
+}
+
+.selection.list ul li a {
+    display: inline;
+    color: var(--jm-text);
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.selection.list ul li a:hover {
+    text-decoration: underline;
+}
+
+.selection.list ul li:hover {
+    transform: none;
+    box-shadow: none;
+}
+
+.selection.categories ul li.collapsable {
+    border-radius: 1rem;
+    overflow: hidden;
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    background: rgba(248, 250, 252, 0.95);
+}
+
+.selection.list ul li {
+    padding: 1rem 1.1rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.selection.list ul li:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 14px 32px rgba(15, 23, 42, 0.08);
+}
+
+.selection.list ul li a {
+    display: block;
+    color: var(--jm-text);
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.selection.categories .collapsable label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.85rem;
+    padding: 0.85rem 0.95rem;
+    min-height: 3rem;
+    cursor: pointer;
+    color: var(--jm-text);
+    background: rgba(79, 70, 229, 0.06);
+    transition: background 0.18s ease;
+    font-size: 0.95rem;
+}
+
+.selection.categories .collapsable:hover label {
+    background: rgba(79, 70, 229, 0.1);
+}
+
+.selection.categories .collapsable ul {
+    margin: 0;
+    padding: 0 1rem 1rem 1.25rem;
+    list-style: disc outside;
+    display: block;
+    gap: 0;
+}
+
+.selection.categories .collapsable ul li {
+    margin: 0.25rem 0;
+}
+
+.selection.categories .collapsable ul li a {
+    display: inline;
+    padding: 0;
+    border-radius: 0;
+    background: transparent;
+    color: var(--jm-text);
+    text-decoration: none;
+    border: none;
+    transition: color 0.18s ease;
+}
+
+.selection.categories .collapsable ul li a:hover {
+    text-decoration: underline;
+}
+
+.selection.categories .collapsable ul li.subcategory {
+    list-style: none;
+    margin: 1rem 0 0;
+    padding: 0;
+}
+
+.selection.categories .collapsable ul li.subcategory > ul {
+    list-style: disc outside;
+    margin: 0.5rem 0 0 1.25rem;
+    padding: 0;
+}
+
+.subcategory {
+    padding: 0.5rem 0 0;
+}
+
+.subcategory strong {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: var(--jm-text);
+    font-size: 0.95rem;
+    font-weight: 700;
+}
+
+.selection.categories li.collapsable.collapsed ul {
+    display: none;
+}
+
+.selection.categories .count {
+    color: var(--jm-text-secondary);
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+@media (max-width: 720px) {
+    .selectionType {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .selectionType label {
+        width: 100%;
+        justify-content: center;
+    }
 }

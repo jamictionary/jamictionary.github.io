@@ -47,22 +47,50 @@ export class CategoriesService {
       throw new Error("Cannot parse metadata files.");
     }
 
-    // Build the categories, from the existing metadata.
     const scores: Score[] = scoreService.getAll();
-    const categories: Category[] = rawCategory
-      .values
-      .map(categoryName => {
-        return new Category(
-          categoryName,
-          scores.filter(score => score.typeOfDance == categoryName)
-        )
-      });
+    const rootCategoriesMap = new Map<string, Category>();
+    const rootCategories: Category[] = [];
+    const commaCategories: Category[] = [];
 
-    // Include an "Other" category, for the scores that are not categorized.
+    for (const categoryName of rawCategory.values) {
+      const categoryScores = scores.filter(score => score.typeOfDance == categoryName);
+      const commaIndex = categoryName.indexOf(',');
+
+      if (commaIndex === -1) {
+        const existingRoot = rootCategoriesMap.get(categoryName);
+        if (existingRoot) {
+          existingRoot.scores = categoryScores;
+          continue;
+        }
+
+        const exactCategory = new Category(categoryName, categoryScores, [], true);
+        rootCategoriesMap.set(categoryName, exactCategory);
+        rootCategories.push(exactCategory);
+        continue;
+      }
+
+      const prefix = categoryName.slice(0, commaIndex).trim();
+      const suffix = categoryName.slice(commaIndex + 1).trim();
+      let rootCategory = rootCategoriesMap.get(prefix);
+
+      if (!rootCategory) {
+        rootCategory = new Category(prefix, [], [], true);
+        rootCategoriesMap.set(prefix, rootCategory);
+        rootCategories.push(rootCategory);
+      }
+
+      rootCategory.children.push(new Category(suffix, categoryScores, [], false, categoryName));
+      commaCategories.push(new Category(categoryName, categoryScores, [], false));
+    }
+
+    const categories: Category[] = [
+      ...rootCategories,
+      ...commaCategories,
+    ];
+
     const assignedScoreNumbers: number[] = categories.flatMap(cat => cat.scores.map(score => score.number));
     const unassignedScores = scores.filter(score => !assignedScoreNumbers.includes(score.number));
-    // Categories in the metadata are sorted. We put "other" at the end.
-    categories.push(new Category('Other', unassignedScores));
+    categories.push(new Category('Other', unassignedScores, [], true));
 
     return categories;
   }

@@ -1,10 +1,50 @@
 
 :host {
     display: block;
-    border-radius: 10px;
-    padding: 1em;
+    border-radius: var(--jm-radius-lg);
+    padding: 1.25rem;
+    background: var(--jm-surface);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    box-shadow: var(--jm-shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+:host(:hover) {
+    transform: translateY(-3px);
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.12);
+    border-color: rgba(79, 70, 229, 0.2);
+}
+
+.meta {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.85rem;
+    align-items: center;
+    color: var(--jm-text-secondary);
+    font-size: 0.95rem;
+}
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.9rem;
+    height: 1.9rem;
+    font-size: 1rem;
+    border-radius: 50%;
+    background: var(--jm-primary-soft);
+    color: var(--jm-primary);
+    border: 1px solid rgba(79, 70, 229, 0.12);
 }
 
 .scoresCount {
-    color: grey;
+    color: var(--jm-text-secondary);
+}
+
+.name {
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--jm-text);
+    line-height: 1.35;
 }

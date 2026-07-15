@@ -1,0 +1,21 @@
+@use "reset";
+@use "collapsable-items";
+
+/*
+For Material colors, see https://material.angular.dev/guide/system-variables#colors
+It shows and explains the colors:
+    -–mat-sys-primary as most commonly used color by components
+    -–mat-sys-surface as low-emphasis background color
+    -–mat-sys-error to alert the user  
+    --mat-sys-outline for borders and dividers
+It then shows a LOT of extra colors under "Other available colors".
+
+Explained:
+> The general rule of thumb is to apply your chosen color to the element and use the corresponding “mat-sys-on” token for text, icons and other visual elements to ensure proper accessibility and legibility.
+> For example: primary button uses –mat-sys-primary as background color and –mat-sys-on-primary as label color.
+from https://angular.love/angular-material-theming-application-with-material-3#System%20variables
+*/
+
+.missing.data {
+    font-style: italic;
+}

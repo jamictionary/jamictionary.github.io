@@ -1,2 +1,7 @@
+<div class="meta">
+  @if (isChild) {
+    <span class="badge" title="Sub-category">↳</span>
+  }
+  <span class="scoresCount">{{ category.totalScores | pluralize: "score" }}</span>
+</div>
 <div class="name">{{ category.name }}</div>
-<div class="scoresCount">{{ category.scores.length | pluralize: "score" }}</div>

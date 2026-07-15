@@ -13,4 +13,7 @@ import { PluralizePipe } from "@utils/pluralize.pipe";
 export class CategoryCardComponent {
   @Input({ required: true })
   public category!: Category;
+
+  @Input()
+  public isChild: boolean = false;
 }

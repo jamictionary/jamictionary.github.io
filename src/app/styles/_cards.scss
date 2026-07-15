@@ -1,0 +1,21 @@
+.score-card {
+
+    background: white;
+
+    border-radius: 12px;
+
+    padding: 1rem;
+
+    box-shadow: var(--jm-shadow-sm);
+
+    transition: .2s;
+
+}
+
+.score-card:hover {
+
+    box-shadow: var(--jm-shadow-md);
+
+    transform: translateY(-2px);
+
+}

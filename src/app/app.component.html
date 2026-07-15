@@ -1,11 +1,18 @@
 
 <header>
-  <h1>Jamictionary</h1>
-  <nav><ul>
-    @for (page of pages; track $index) {
-      <li><a [routerLink]="page.url">{{ page.title }}</a></li>
-    }
-  </ul></nav>
+  <div class="header-copy">
+    <h1>📖 🎼 JAMICTIONARY</h1>
+    <p class="subtitle">
+      A compilation of music scores mixing some of the most frequently danced tunes in the European Balfolk festivals and some of the most frequently danced tunes in regional folk scenes.
+    </p>
+    <nav>
+      <ul>
+        @for (page of pages; track $index) {
+          <li><a [routerLink]="page.url">{{ page.title }}</a></li>
+        }
+      </ul>
+    </nav>
+  </div>
 </header>
 
 <app-jam-mode-toggler />

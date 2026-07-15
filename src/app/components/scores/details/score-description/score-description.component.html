@@ -1,14 +1,29 @@
 
-@if(score.typeOfDance && score.danceGeometry) {
-    <p>
-        A
-        <a [routerLink]="['/categories', score.typeOfDance]">{{ score.typeOfDance }}</a>
-        , danced in {{score.danceGeometry}}.
-    </p>
-} @else if (score.danceGeometry) {
-    <p>Danced in {{ score.danceGeometry }}. Of an <em class="missing data">unknown type</em>.</p>
+@let typeOfDanceMetadata = score.labels.get('Type of dance') ?? score.typeOfDance;
+@let country = score.labels.get('Country');
+@let composerMetadata = score.labels.get('Composer');
+@let danceGeometryMetadata = score.labels.get('Dance geometry') ?? score.danceGeometry;
+@if(typeOfDanceMetadata || country || composerMetadata || danceGeometryMetadata) {
+    <dl class="metadata-grid">
+        @if (typeOfDanceMetadata) {
+            <dt>Type of dance</dt>
+            <dd><a [routerLink]="['/categories', typeOfDanceMetadata]">{{ typeOfDanceMetadata }}</a></dd>
+        }
+        @if (country) {
+            <dt>Country</dt>
+            <dd>{{ country }}</dd>
+        }
+        @if (composerMetadata) {
+            <dt>Composer</dt>
+            <dd>{{ composerMetadata }}</dd>
+        }
+        @if (danceGeometryMetadata) {
+            <dt>Dance geometry</dt>
+            <dd>{{ danceGeometryMetadata }}</dd>
+        }
+    </dl>
 } @else {
-    <p class="missing data">No known type or dance geometry.</p>
+    <p class="missing data">No known type, dance geometry, country, or composer.</p>
 }
 
 <p class="download">
@@ -16,20 +31,3 @@
         <a href="/{{ score.files.mscz }}" target="_blank">MSCZ</a> 
         <a href="/{{ score.files.pdf }}" target="_blank">PDF</a>
 </p>
-
-@if (!score.labels.size) {
-    <p class="missing data">No metadata.</p>
-} @else {
-    <dl>
-        @for (label of score.labels; track $index) {
-            <dt [class.important]="label[0] == 'License'">{{label[0]}}</dt>
-            <dd>
-                @if (label[1] | isLink) {
-                    <a class="external" [href]="label[1]">{{label[1] }}</a>
-                } @else {
-                    {{label[1] }}
-                }
-            </dd>
-        }
-    </dl>
-}

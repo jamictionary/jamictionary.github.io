@@ -2,15 +2,27 @@
     <legend>Filters</legend>
 
     @for (label of allLabels; track $index) {
-        <mat-form-field>
-            <mat-label>{{ label.name }}</mat-label>
-            <mat-select (selectionChange)="filterChanged(label, $event)">
-                <mat-option>All</mat-option>
-                @for (value of label.values; track $index) {
-                    <mat-option value="{{ value }}">{{ value }}</mat-option>
-                }
-            </mat-select>
-        </mat-form-field>
+        @if (label.name === 'Country') {
+            <mat-form-field>
+                <mat-label>{{ label.name }}</mat-label>
+                <mat-select (selectionChange)="filterChanged(label, $event)">
+                    <mat-option>All</mat-option>
+                    @for (value of label.values; track $index) {
+                        <mat-option value="{{ value }}">{{ value }}</mat-option>
+                    }
+                </mat-select>
+            </mat-form-field>
+        } @else {
+            <mat-form-field>
+                <mat-label>{{ label.name }}</mat-label>
+                <mat-select (selectionChange)="filterChanged(label, $event)">
+                    <mat-option>All</mat-option>
+                    @for (value of label.values; track $index) {
+                        <mat-option value="{{ value }}">{{ value }}</mat-option>
+                    }
+                </mat-select>
+            </mat-form-field>
+        }
     }
 
     <label class="textualSearch">
@@ -23,4 +35,6 @@
             [(ngModel)]="searchText"
             (ngModelChange)="searchTextChanged($event)" />
     </label>
+
+    <div class="filter-note">Note : Some of the dances and musics are shared between 2 or more countries. This will be corrected in the near future, we just have to learn how to program it!</div>
 </fieldset>

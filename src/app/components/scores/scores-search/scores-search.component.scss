@@ -6,35 +6,51 @@
 
 fieldset {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, max-content));
+    grid-template-columns: repeat(auto-fill, minmax(220px, max-content));
+    align-items: start;
     gap: 1em;
     margin: section-margins.$margin;
-
-    // Fix grid-layout being broken by the <legend>:
     position: relative;
     padding-block-start: 0.7lh;
     margin-top: calc(section-margins.$vertical + 0.7lh);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: 1.2rem;
+    background: var(--jm-surface);
+    box-shadow: 0 18px 40px rgba(15, 23, 42, 0.05);
 
     >legend {
         position: absolute;
         top: -0.5lh; // Half a line-height.
         margin-left: 0.3em; // Aligns vertically with the contents.
-        padding: 0 0.5em; // Spacing for the white background behind this text.
-        background: white;
+        padding: 0 0.75em; // Spacing for the white background behind this text.
+        background: var(--jm-surface);
+        color: var(--jm-text);
+        font-weight: 700;
     }
 
     >mat-form-field {
-        // This fixes visually the layout of the Material selects in the grid.
-        // Because they have an empty space under them, for the validation errors — which we are not using.
-        // It has these classes: "mat-mdc-form-field-subscript-wrapper mat-mdc-form-field-bottom-align".
-        margin-bottom: -1em;
+        margin-bottom: 0;
+    }
+
+    .filter-note {
+        grid-column: 1 / -1;
+        display: block;
+        margin-top: 0.25rem;
+        font-size: 0.8rem;
+        line-height: 1.4;
+        color: color-mix(in srgb, var(--jm-text) 70%, var(--jm-surface) 30%);
+        max-width: 100%;
+        overflow-wrap: anywhere;
     }
 
     >.textualSearch {
         grid-column: 1 / -1;
         display: flex;
-        gap: 1em;
+        gap: 0.5rem;
         align-items: center;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        margin-top: 0.25rem;
     }
 }
 

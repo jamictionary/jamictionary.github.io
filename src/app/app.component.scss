@@ -2,23 +2,102 @@ $bodyDefinition: minmax(100px, 1fr);
 
 :host {
     display: grid;
-    gap: 1em;
+    gap: 1.5em;
     grid-template-rows: auto $bodyDefinition auto;
-    
-    // This ensures the footer stays at the bottom of the page.
     min-height: 100%;
+    background: linear-gradient(180deg, #edf2fb 0%, #f8fafc 48%, #f8fafc 100%);
+
+    header {
+        display: block;
+        padding: 1.4rem 1.5rem;
+        background: rgba(255, 255, 255, 0.86);
+        backdrop-filter: blur(12px);
+        border-bottom: 1px solid rgba(148, 163, 184, 0.18);
+        border-radius: 0 0 20px 20px;
+        box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+    }
+
+    header h1 {
+        all: unset;
+        display: block;
+        font-size: 2rem;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+        line-height: 1.05;
+        color: var(--jm-text);
+    }
+
+    header .subtitle {
+        margin: 0.65rem 0 0;
+        max-width: 46rem;
+        font-size: 1rem;
+        color: var(--jm-text-secondary);
+        line-height: 1.75;
+    }
+
+    header nav {
+        margin-top: 0.75rem;
+    }
+
+    header nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        align-items: center;
+        font-size: 1rem;
+        color: var(--jm-text);
+    }
+
+    header nav a {
+        color: var(--jm-text);
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    header nav a:hover {
+        color: var(--jm-link);
+    }
+
+    nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        align-items: center;
+        font-size: 1rem;
+        color: var(--jm-text);
+    }
+
+    nav a {
+        color: var(--jm-text);
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    nav a:hover {
+        color: var(--jm-link);
+    }
+
+    section.page {
+        padding: 0.7rem 1.5rem 2rem;
+        display: grid;
+        gap: 1.5rem;
+    }
 
     &.jam-mode {
-      grid-template-rows: auto $bodyDefinition;
+        grid-template-rows: auto $bodyDefinition;
+
         header {
-            display: flex;
-            gap: 1em;
-            h1 {
-                all: unset;
-                font-size: large;
+            .subtitle {
                 display: none;
             }
         }
+
         app-footer {
             display: none;
         }

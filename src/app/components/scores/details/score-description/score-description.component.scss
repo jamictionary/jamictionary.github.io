@@ -3,8 +3,25 @@
     display: block;
 }
 
+dl.metadata-grid {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.35rem 0.85rem;
+    align-items: baseline;
+    margin: 0 0 1rem;
+}
+
+dt {
+    font-weight: 700;
+    color: var(--jm-text-secondary);
+}
+
 dt.important {
     font-weight: bold;
+}
+
+dd {
+    margin: 0;
 }
 
 .download {

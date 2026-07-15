@@ -5,15 +5,31 @@
         <p class="error">Category '{{ categoryName$ | async }}' not found.</p>
     } @else {
         <header><h2>{{category.name}}</h2></header>
-        @if (!category.scores.length) {
-            <p class="error">Found no scores for this category.</p>
-        } @else {
+
+        @if (category.hasChildren) {
+            <p>This category includes the following subcategories:</p>
+            <section class="card-list">
+                @for (child of category.children; track $index) {
+                    <a class="child-card" [routerLink]="['/categories', child.redirectTo ? child.redirectTo : child.name]">
+                        <app-category-card [category]="child" [isChild]="true"></app-category-card>
+                    </a>
+                }
+            </section>
+        }
+
+        @if (category.scores.length) {
             {{ category.scores.length | pluralize: "score" }} in this category:
             <ul class="scores">
                 @for (score of category.scores; track $index) {
                     <li><a [routerLink]="['/scores', score.number]">{{score.number}} {{ score.name }}</a></li>
                 }
             </ul>
+        } @else if (category.hasChildren && category.totalScores) {
+            <p class="info">This category has no direct scores, but its subcategories contain {{ category.totalScores | pluralize: "score" }}.</p>
+        } @else if (!category.hasChildren) {
+            <p class="error">Found no scores for this category.</p>
+        } @else {
+            <p class="error">Found no scores in this category or its subcategories.</p>
         }
     }
 </article>

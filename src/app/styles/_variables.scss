@@ -1,0 +1,42 @@
+/* ===========================================================
+   Jamictionary Design Tokens - src/app/styles/
+   =========================================================== */
+
+:root {
+
+  /* Typography */
+
+  --jm-font-family: "Inter", sans-serif;
+
+  /* Font sizes */
+
+  --jm-font-xs: .75rem;
+  --jm-font-sm: .875rem;
+  --jm-font-md: 1rem;
+  --jm-font-lg: 1.125rem;
+  --jm-font-xl: 1.35rem;
+  --jm-font-2xl: 1.8rem;
+  --jm-font-3xl: 2.3rem;
+
+  /* Font weights */
+
+  --jm-weight-normal: 400;
+  --jm-weight-medium: 500;
+  --jm-weight-semibold: 600;
+  --jm-weight-bold: 700;
+
+  /* Border radius */
+
+  --jm-radius-sm:4px;
+  --jm-radius-md:8px;
+  --jm-radius-lg:12px;
+
+  /* Shadows */
+
+  --jm-shadow-sm:
+      0 1px 3px rgba(0,0,0,.08);
+
+  --jm-shadow-md:
+      0 4px 10px rgba(0,0,0,.08);
+
+}

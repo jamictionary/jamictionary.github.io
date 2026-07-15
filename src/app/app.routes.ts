@@ -14,7 +14,7 @@ export const startPage = Object.freeze({
 
 export const menuItems = Object.freeze([
     { title: startPage.title, url: startPage.url },
-    { title: 'Search', url: '/scores' },
+    { title: 'Advanced Search', url: '/scores' },
     { title: 'Download', url: '/download' },
     { title: 'About', url: '/about' },
   ]);

@@ -3,16 +3,42 @@
     display: block;
 }
 
+.search-box {
+    margin-bottom: 1rem;
+}
+
+.search-box label {
+    display: grid;
+    gap: 0.45rem;
+    font-weight: 700;
+    color: var(--jm-text);
+}
+
+.search-box input {
+    width: 100%;
+    max-width: 420px;
+    padding: 0.72rem 0.9rem;
+    border-radius: 0.75rem;
+    border: 1px solid rgba(148, 163, 184, 0.32);
+    background: var(--jm-surface);
+    color: var(--jm-text);
+    font-size: 0.98rem;
+}
+
+.search-box input:focus {
+    outline: none;
+    border-color: var(--jm-primary);
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.12);
+}
+
 .card-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 1em;
-    margin-top: 1em;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1rem;
+}
 
-    a {
-        text-decoration: none;
-        app-category-card {
-            border: solid 1px;
-        }
-    }
+.card-list a {
+    display: block;
+    text-decoration: none;
 }
