@@ -155,6 +155,7 @@
     "danceGeometry": "Single Line",
     "typeOfDance": "An Dro",
     "labels": {
+      "Country": "The Netherlands",
       "Dance geometry": "Single Line",
       "Type of dance": "An Dro"
     },
@@ -3111,6 +3112,7 @@
     "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Country": "France",
+      "Composer": "Laurent Geoffroy",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -5350,6 +5352,7 @@
     "danceGeometry": "Circle",
     "typeOfDance": "Single",
     "labels": {
+      "Country": "The Netherlands",
       "Dance geometry": "Circle",
       "Type of dance": "Single"
     },
@@ -5790,7 +5793,7 @@
     "danceGeometry": "Couples",
     "typeOfDance": "Tango",
     "labels": {
-      "Country": "Bosnia",
+      "Country": "Bosnia and Herzegovina",
       "Type of dance": "Tango",
       "Composer": "Goran Bregović",
       "Dance geometry": "Couples",
