@@ -2617,12 +2617,12 @@
       "files/Mazurka - Mazurca do Luiz Gonzaga-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Brazil ",
+    "typeOfDance": "Mazurka, Brazil",
     "labels": {
       "Country": "Brazil",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Brazil ",
+      "Type of dance": "Mazurka, Brazil",
       "Work title": "Nadiejda"
     },
     "files": {
@@ -2640,11 +2640,11 @@
       "files/Mazurka - Mazurka Choro-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Brazil ",
+    "typeOfDance": "Mazurka, Brazil",
     "labels": {
       "Country": "Brazil",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Brazil "
+      "Type of dance": "Mazurka, Brazil"
     },
     "files": {
       "pdf": "files/Mazurka - Mazurka Choro.pdf",
@@ -2661,12 +2661,12 @@
       "files/Mazurka - Caldo Tchitcharinho-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Cape Verde ",
+    "typeOfDance": "Mazurka, Cape Verde",
     "labels": {
       "Country": "Cape Verde",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Cape Verde ",
+      "Type of dance": "Mazurka, Cape Verde",
       "Work title": "Nadiejda"
     },
     "files": {
@@ -2684,12 +2684,12 @@
       "files/Mazurka - Da meia-noite-1.png"
     ],
     "danceGeometry": "Couples",
-    "typeOfDance": "Mazurka, Cape Verde ",
+    "typeOfDance": "Mazurka, Cape Verde",
     "labels": {
       "Country": "Cape Verde",
       "Composer": "Stéphane Delicq",
       "Dance geometry": "Couples",
-      "Type of dance": "Mazurka, Cape Verde ",
+      "Type of dance": "Mazurka, Cape Verde",
       "Work title": "Nadiejda"
     },
     "files": {
@@ -3337,6 +3337,7 @@
     "typeOfDance": "Mazurka, Europe",
     "labels": {
       "Country": "Portugal",
+      "Composer": "Abel Andrade",
       "Dance geometry": "Couples",
       "Type of dance": "Mazurka, Europe"
     },
@@ -4073,11 +4074,11 @@
       "files/3 step Ronde - Tri Martolod-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Ronde, 3 step Ronde ",
+    "typeOfDance": "Ronde, 3 step Ronde",
     "labels": {
       "Country": "France",
       "Dance geometry": "Circle",
-      "Type of dance": "Ronde, 3 step Ronde "
+      "Type of dance": "Ronde, 3 step Ronde"
     },
     "files": {
       "pdf": "files/3 step Ronde - Tri Martolod.pdf",
@@ -4165,11 +4166,11 @@
       "files/Ronde du Quercy - Amazone-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Ronde, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy",
     "labels": {
       "Country": "France",
       "Dance geometry": "Circle",
-      "Type of dance": "Ronde, du Quercy "
+      "Type of dance": "Ronde, du Quercy"
     },
     "files": {
       "pdf": "files/Ronde du Quercy - Amazone.pdf",
@@ -4187,11 +4188,11 @@
       "files/Ronde du Quercy - De bon matin-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Ronde, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy",
     "labels": {
       "Country": "France",
       "Dance geometry": "Circle",
-      "Type of dance": "Ronde, du Quercy "
+      "Type of dance": "Ronde, du Quercy"
     },
     "files": {
       "pdf": "files/Ronde du Quercy - De bon matin.pdf",
@@ -4209,11 +4210,11 @@
       "files/Ronde du Quercy - Dejol pont de Lion-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Ronde, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy",
     "labels": {
       "Country": "France",
       "Dance geometry": "Circle",
-      "Type of dance": "Ronde, du Quercy "
+      "Type of dance": "Ronde, du Quercy"
     },
     "files": {
       "pdf": "files/Ronde du Quercy - Dejol pont de Lion.pdf",
@@ -4231,11 +4232,11 @@
       "files/Ronde du Quercy - Dessous la grava de Bordeu-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Ronde, du Quercy ",
+    "typeOfDance": "Ronde, du Quercy",
     "labels": {
       "Country": "France",
       "Dance geometry": "Circle",
-      "Type of dance": "Ronde, du Quercy "
+      "Type of dance": "Ronde, du Quercy"
     },
     "files": {
       "pdf": "files/Ronde du Quercy - Dessous la grava de Bordeu.pdf",
@@ -4314,22 +4315,24 @@
   },
   {
     "number": 196,
-    "name": "Rondeau en couples - Nau goiatas a Castèthnau",
+    "name": "Rondeau en couples - Nau goiatas a Castèthnau",
     "pages": [
       "files/Rondeau en couples - Nau goiatas a Castethnau-1.png"
     ],
     "danceGeometry": "Circle",
-    "typeOfDance": "Rondeau, En couple ",
+    "typeOfDance": "Rondeau, En couple",
     "labels": {
+      "Country": "France",
       "Dance geometry": "Circle",
-      "Type of dance": "Rondeau, En couple "
+      "Type of dance": "Rondeau, En couple"
     },
     "files": {
       "pdf": "files/Rondeau en couples - Nau goiatas a Castethnau.pdf",
       "mscz": "files/Rondeau en couples - Nau goiatas a Castethnau.mscz"
     },
     "folderStructure": [
-      "En couples"
+      "En couples",
+      "France"
     ]
   },
   {
